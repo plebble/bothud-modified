@@ -1,0 +1,231 @@
+"Resource/UI/HudMedicCharge.res"
+{ 
+//  ___________
+// | ELL'S HUD |
+//  ¯¯¯¯¯¯¯¯¯¯¯ 
+
+	"ChargeLabel"
+	{
+		"ControlName"   "CExLabel"
+		"fieldName"     "ChargeLabel"
+		"xpos"          "-5"
+		"ypos"          "0"
+		"zpos"          "1"
+		"wide"          "120" //"96"
+		"tall"          "60"
+		"autoResize"    "0"
+		"pinCorner"     "0"
+		"visible"       "1"
+		"enabled"       "1"
+		"tabPosition"   "0"
+		"labelText"     "#TF_UberchargeMinHUD"
+		"textAlignment" "center"
+		"dulltext"      "0"
+		"brighttext"    "0"
+		"font"          "RobotoBold36"
+		"fgcolor"       "EllWhite"
+	} 
+
+	"ChargeLabelShadow"
+	{
+		"ControlName"   "CExLabel"
+		"fieldName"     "ChargeLabelShadow"
+		"xpos"          "-4"
+		"ypos"          "2"
+		"zpos"          "-1"
+		"wide"          "120" //"96"
+		"tall"          "60"
+		"autoResize"    "0"
+		"pinCorner"     "0"
+		"visible"       "1"
+		"enabled"       "1"
+		"tabPosition"   "0"
+		"labelText"     "#TF_UberchargeMinHUD"
+		"textAlignment" "center"
+		"dulltext"      "0"
+		"brighttext"    "0"
+		"font"          "RobotoBold36"
+		"fgcolor"       "EllBlack"
+	} 
+
+	"IndividualChargesLabel"
+	{
+		"ControlName"   "CExLabel"
+		"fieldName"     "IndividualChargesLabel"
+		"xpos"          "10"
+		"ypos"          "15"
+		"zpos"          "1"
+		"wide"          "96"
+		"tall"          "20"
+		"autoResize"    "0"
+		"pinCorner"     "0"
+		"visible"       "1"
+		"enabled"       "1"
+		"tabPosition"   "0"
+		"labelText"     "#TF_IndividualUbercharges"
+		"textAlignment" "center"
+		"dulltext"      "0"
+		"brighttext"    "0"
+		"font"          "RobotoBold12"
+	}
+	  
+	"ChargeMeter1"
+	{ 
+		"ControlName"   "ContinuousProgressBar"
+		"fieldName"     "ChargeMeter1"
+		"font"          "RobotoBold12"
+		"xpos"          "20"
+		"ypos"          "30"
+		"zpos"          "2"
+		"wide"          "19"
+		"tall"          "20"       
+		"autoResize"    "0"
+		"pinCorner"     "0"
+		"visible"       "1"
+		"enabled"       "1"
+		"textAlignment" "Left"
+		"dulltext"      "0"
+		"brighttext"    "0"
+	}
+	  
+	"ChargeMeter2"
+	{ 
+		"ControlName"   "ContinuousProgressBar"
+		"fieldName"     "ChargeMeter2"
+		"font"          "RobotoBold12"
+		"xpos"          "40"
+		"ypos"          "30"
+		"zpos"          "2"
+		"wide"          "19"
+		"tall"          "20"       
+		"autoResize"    "0"
+		"pinCorner"     "0"
+		"visible"       "1"
+		"enabled"       "1"
+		"textAlignment" "Left"
+		"dulltext"      "0"
+		"brighttext"    "0"
+	}
+	  
+	"ChargeMeter3"
+	{ 
+		"ControlName"   "ContinuousProgressBar"
+		"fieldName"     "ChargeMeter3"
+		"font"          "RobotoBold12"
+		"xpos"          "60"
+		"ypos"          "30"
+		"zpos"          "2"
+		"wide"          "19"
+		"tall"          "20"       
+		"autoResize"    "0"
+		"pinCorner"     "0"
+		"visible"       "1"
+		"enabled"       "1"
+		"textAlignment" "Left"
+		"dulltext"      "0"
+		"brighttext"    "0"
+	}
+	  
+	"ChargeMeter4"
+	{ 
+		"ControlName"   "ContinuousProgressBar"
+		"fieldName"     "ChargeMeter4"
+		"font"          "RobotoBold12"
+		"xpos"          "80"
+		"ypos"          "30"
+		"zpos"          "2"
+		"wide"          "19"
+		"tall"          "20"       
+		"autoResize"    "0"
+		"pinCorner"     "0"
+		"visible"       "1"
+		"enabled"       "1"
+		"textAlignment" "Left"
+		"dulltext"      "0"
+		"brighttext"    "0"
+	}
+	  
+	"ResistIconAnchor"
+	{
+		"ControlName" "EditablePanel"
+		"fieldName" "ResistIconAnchor"
+		"xpos" "0"
+		"ypos" "30"
+		"wide" "20"
+		"tall" "20"
+		"visible" "1"
+		"enabled" "1"
+	}
+	  
+	"ResistIcon"
+	{
+		"ControlName" "ImagePanel"
+		"fieldName" "ResistIcon"
+		"xpos" "0"
+		"ypos" "0"
+		"wide" "20"
+		"tall" "20"
+		"visible" "1"
+		"enabled" "1"
+		"image" "../HUD/defense_buff_bullet_blue"
+		"scaleImage" "1"
+		"pin_to_sibling" "ResistIconAnchor"
+		"pin_corner_to_sibling" "1"
+		"pin_to_sibling_corner" "1"
+	}
+
+//  _______________
+// | END ELL'S HUD |
+//  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    
+		 
+	"Background"
+	{
+		"ControlName" "CTFImagePanel"
+		"fieldName"   "Background"
+		"xpos"        "768"
+		"ypos"        "480"
+		"zpos"        "-1"
+		"wide"        "130"
+		"tall"        "65"
+		"visible"     "0"
+		"enabled"     "0"
+		"image"       "../hud/medic_charge_blue_bg"
+		"scaleImage"  "1" 
+		"teambg_2"    "../hud/medic_charge_red_bg"
+		"teambg_3"    "../hud/medic_charge_blue_bg"       
+	} 
+
+	"ChargeMeter"
+	{ 
+		"ControlName"  "ContinuousProgressBar"
+		"fieldName"    "ChargeMeter"
+		"font"         "RobotoBold12"
+		"xpos"         "768"
+		"ypos"         "480"
+		"zpos"         "-1"
+		"wide"         "86"
+		"tall"         "8"       
+		"autoResize"   "0"
+		"pinCorner"    "0"
+		"visible"       "0"
+		"enabled"       "0"
+		"textAlignment" "Left"
+		"dulltext"      "0"
+		"brighttext"    "0"
+	}   
+
+	"HealthClusterIcon"
+	{
+		"ControlName"     "ImagePanel"
+		"fieldName"       "HealthClusterIcon"
+		"xpos"            "768"
+		"ypos"            "480"
+		"wide"            "0"
+		"tall"            "0"
+		"visible"         "0"
+		"visible_minmode" "0"
+		"enabled"         "0"
+		"image"           "../hud/ico_health_cluster"
+		"scaleImage"      "1" 
+	} 
+}
