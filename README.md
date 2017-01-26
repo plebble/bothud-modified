@@ -1,6 +1,6 @@
 # BotHud
 
-![HUD](needimage)
+![HUD](http://i.imgur.com/qFN8yrh.png)
 
 ellshud 4.8 updated to better support matchmaking, and adapted for Roboto font, things not included with ellshud taken from m0rehud(main menu from hypnotizes update to m0rehud http://www.teamfortress.tv/33738/ive-updated-some-huds) or made by me.
 
