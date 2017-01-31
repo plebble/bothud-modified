@@ -26,6 +26,23 @@
 			
 			"border"		"TFFatLineBorderBlueBGMoreOpaque"
 		}
+		"BlueBar"
+		{	
+			"ControlName"		"ImagePanel"
+			"fieldName"		"BlueBar"
+			"xpos"			"66"
+			"ypos"			"62"
+			"wide"			"136"
+			"tall"			"30"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"	
+			"fillcolor"		"TeamBlue"
+			"fillcolor_lodef"		"TeamBlue"
+			"PaintBackgroundType"	"0"
+		}
 		"RedScoreBG"
 		{
 			"ControlName"	"EditablePanel"
@@ -40,6 +57,23 @@
 			"enabled"		"0"
 
 			"border"		"TFFatLineBorderRedBGMoreOpaque"
+		}
+		"RedBar"
+		{	
+			"ControlName"		"ImagePanel"
+			"fieldName"		"RedBar"
+			"xpos"			"201"
+			"ypos"			"62"
+			"wide"			"135"
+			"tall"			"30"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"	
+			"fillcolor"		"TeamRed"
+			"fillcolor_lodef"		"TeamRed"
+			"PaintBackgroundType"	"0"
 		}
 		
 		"BlueTeamLabel"
@@ -286,42 +320,6 @@
 		"tabPosition"	"0"	
 		"fillcolor"		"EllGrey" //"34 34 34 220"
 		"fillcolor_lodef"		"EllGrey" //"34 34 34 220"
-		"PaintBackgroundType"	"0"
-	}
-	"BlueBar"
-	{	
-		"ControlName"		"ImagePanel"
-		"fieldName"		"BlueBar"
-		"xpos"			"25"
-		"ypos"			"176"
-		"zpos"			"71"
-		"wide"			"136"
-		"tall"			"30"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"	
-		"fillcolor"		"TeamBlue"
-		"fillcolor_lodef"		"TeamBlue"
-		"PaintBackgroundType"	"0"
-	}
-	"RedBar"
-	{	
-		"ControlName"		"ImagePanel"
-		"fieldName"		"RedBar"
-		"xpos"			"160"
-		"ypos"			"176"
-		"zpos"			"72"
-		"wide"			"135"
-		"tall"			"30"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"	
-		"fillcolor"		"TeamRed"
-		"fillcolor_lodef"		"TeamRed"
 		"PaintBackgroundType"	"0"
 	}
 	"Player1Badge"
