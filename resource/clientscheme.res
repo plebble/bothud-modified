@@ -23,11 +23,10 @@ Scheme
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯ 
     "EllBlack"            "0 0 0 255"
-    "EllCyan"             "0 190 255 255" //"0 255 255 255"
+    "EllCyan"             "0 190 255 255"
     "EllGreen"            "0 255 0 255"
     "EllPink"             "215 0 128 255"
     "EllTransparentBlack" "0 0 0 220"
-    "EllVanilla"          "255 255 192 255"
     "EllWhite"            "255 255 255 255"
     "EllYellow"           "255 255 0 255"
 	"EllGrey"			  "70 70 70 255"

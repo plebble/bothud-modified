@@ -1,4 +1,3 @@
-//Modified 18 July by Ell
 "Resource/HudLayout.res"
 {  
   CDamageAccountPanel
