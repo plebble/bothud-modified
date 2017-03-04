@@ -23,13 +23,16 @@ Scheme
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯ 
     "EllBlack"            "0 0 0 255"
-    "EllCyan"             "0 190 255 255"
-    "EllGreen"            "0 255 0 255"
-    "EllPink"             "215 0 128 255"
-    "EllTransparentBlack" "0 0 0 220"
-    "EllWhite"            "255 255 255 255"
-    "EllYellow"           "255 255 0 255"
+	"EllCyan"             "0 190 255 255"
+	"EllGreen"            "0 255 0 255"
+	"EllPink"             "215 0 128 255"
+	"EllTransparentBlack" "0 0 0 220"
+	"EllWhite"            "255 255 255 255"
+	"EllYellow"           "255 255 0 255"
 	"EllGrey"			  "70 70 70 255"
+	"EllDarkGrey"		  "50 50 50 255"
+	"EllLightGrey"		  "150 150 150 255"
+	"EllTransparentGrey"  "70 70 70 160"
 //  _______________
 // | END ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -4429,27 +4432,103 @@ Scheme
 		"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"4"	
 	}
-    MainMenuMiniButtonDefault
+//    MainMenuMiniButtonDefault
+//    {
+//      "bordertype"      "scalable_image"
+//      "backgroundtype"    "2"
+//      
+//      "image"         "button_central_adv"
+//      "src_corner_height"   "32"        // pixels inside the image
+//      "src_corner_width"    "32"
+//      "draw_corner_width"   "1"       // screen size of the corners ( and sides ), proportional
+//      "draw_corner_height"  "1" 
+//    }
+	MainMenuMiniButtonDefault
     {
-      "bordertype"      "scalable_image"
-      "backgroundtype"    "2"
-      
-      "image"         "button_central_adv"
-      "src_corner_height"   "32"        // pixels inside the image
-      "src_corner_width"    "32"
-      "draw_corner_width"   "1"       // screen size of the corners ( and sides ), proportional
-      "draw_corner_height"  "1" 
+		Left
+		{
+			"1"
+			{
+				"color" "EllLightGrey"
+				"offset" "0 0"
+			}
+		}
+
+		Right
+		{
+			"1"
+			{
+				"color" "EllLightGrey"
+				"offset" "0 0"
+			}
+		}
+
+		Top
+		{
+			"1"
+			{
+				"color" "EllLightGrey"
+				"offset" "0 0"
+			}
+		}
+
+		Bottom
+		{
+			"1"
+			{
+				"color" "EllLightGrey"
+				"offset" "0 0"
+			}
+		}
     }
-    MainMenuMiniButtonArmed
+//    MainMenuMiniButtonArmed
+//    {
+//      "bordertype"      "scalable_image"
+//      "backgroundtype"    "2"
+//      
+//      "image"         "button_central_adv_hover"
+//      "src_corner_height"   "32"        // pixels inside the image
+//      "src_corner_width"    "32"
+//      "draw_corner_width"   "1"       // screen size of the corners ( and sides ), proportional
+//      "draw_corner_height"  "1" 
+//    }
+	MainMenuMiniButtonArmed
     {
-      "bordertype"      "scalable_image"
-      "backgroundtype"    "2"
-      
-      "image"         "button_central_adv_hover"
-      "src_corner_height"   "32"        // pixels inside the image
-      "src_corner_width"    "32"
-      "draw_corner_width"   "1"       // screen size of the corners ( and sides ), proportional
-      "draw_corner_height"  "1" 
+		Left
+		{
+			"1"
+			{
+				"color" "EllDarkGrey"
+				"offset" "0 0"
+			}
+		}
+
+		Right
+		{
+			"1"
+			{
+				"color" "EllDarkGrey"
+				"offset" "0 0"
+			}
+		}
+
+		Top
+		{
+			"1"
+			{
+				"color" "EllDarkGrey"
+				"offset" "0 0"
+			}
+		}
+
+		Bottom
+		{
+			"1"
+			{
+				"color" "EllDarkGrey"
+				"offset" "0 0"
+			}
+		}
     }
     MainMenuBGBorder
     {

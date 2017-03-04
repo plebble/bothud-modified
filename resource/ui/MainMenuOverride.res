@@ -1365,8 +1365,8 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			"image_drawcolor"	"255 0 127 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1422,8 +1422,8 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			"image_drawcolor"	"255 0 127 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1480,8 +1480,8 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			"image_drawcolor"	"255 0 127 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1537,8 +1537,8 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			"image_drawcolor"	"255 0 127 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1594,8 +1594,8 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			"image_drawcolor"	"255 0 127 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1651,8 +1651,8 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			"image_drawcolor"	"255 0 127 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1708,8 +1708,8 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			"image_drawcolor"	"255 0 127 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1758,8 +1758,8 @@
 		"paintbackground"	"0"
 		
 		"defaultFgColor_override" "EllWhite"
-		"armedFgColor_override" "EllGreen"
-		"depressedFgColor_override" "EllGreen"
+		"armedFgColor_override" "EllDarkGrey"
+		"depressedFgColor_override" "EllDarkGrey"
 				
 		"image_drawcolor"	"255 0 127 255"
 		"image_armedcolor"	"255 255 255 255"
@@ -1807,8 +1807,8 @@
 		"paintbackground"	"0"
 		
 		"defaultFgColor_override" "EllWhite"
-		"armedFgColor_override" "EllGreen"
-		"depressedFgColor_override" "EllGreen"
+		"armedFgColor_override" "EllDarkGrey"
+		"depressedFgColor_override" "EllDarkGrey"
 				
 		"image_drawcolor"	"255 0 127 255"
 		"image_armedcolor"	"255 255 255 255"
@@ -1863,8 +1863,8 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			"image_drawcolor"	"255 0 127 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -1913,8 +1913,8 @@
 		"paintbackground"	"0"
 		
 		"defaultFgColor_override" "EllWhite"
-		"armedFgColor_override" "EllGreen"
-		"depressedFgColor_override" "EllGreen"
+		"armedFgColor_override" "EllDarkGrey"
+		"depressedFgColor_override" "EllDarkGrey"
 				
 		"image_drawcolor"	"255 0 127 255"
 		"image_armedcolor"	"255 255 255 255"
@@ -1969,8 +1969,8 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			"image_drawcolor"	"255 0 127 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -2026,8 +2026,8 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			"image_drawcolor"	"255 0 127 255"
 			"image_armedcolor"	"255 255 255 255"
@@ -2075,8 +2075,8 @@
 		"paintbackground"	"0"
 		
 		"defaultFgColor_override" "EllWhite"
-		"armedFgColor_override" "EllGreen"
-		"depressedFgColor_override" "EllGreen"
+		"armedFgColor_override" "EllDarkGrey"
+		"depressedFgColor_override" "EllDarkGrey"
 				
 		"image_drawcolor"	"255 0 127 255"
 		"image_armedcolor"	"255 255 255 255"
@@ -2174,11 +2174,11 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			//"image_drawcolor"	EllWhite"
-			//"image_armedcolor"	"EllGreen"
+			//"image_armedcolor"	"EllDarkGrey"
 			"image_drawcolor"	"255 255 255 255"
 			"image_armedcolor"	"255 255 255 255"
 			
@@ -2237,11 +2237,11 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			//"image_drawcolor"	EllWhite"
-			//"image_armedcolor"	"EllGreen"
+			//"image_armedcolor"	"EllDarkGrey"
 			"image_drawcolor"	"255 255 255 255"
 			"image_armedcolor"	"255 255 255 255"
 			
@@ -2301,11 +2301,11 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			//"image_drawcolor"	EllWhite"
-			//"image_armedcolor"	"EllGreen"
+			//"image_armedcolor"	"EllDarkGrey"
 			"image_drawcolor"	"255 255 255 255"
 			"image_armedcolor"	"255 255 255 255"
 			
@@ -2366,11 +2366,11 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "EllWhite"
-			"armedFgColor_override" "EllGreen"
-			"depressedFgColor_override" "EllGreen"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 				
 			//"image_drawcolor"	EllWhite"
-			//"image_armedcolor"	"EllGreen"
+			//"image_armedcolor"	"EllDarkGrey"
 			"image_drawcolor"	"255 255 255 255"
 			"image_armedcolor"	"255 255 255 255"
 			
