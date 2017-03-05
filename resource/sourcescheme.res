@@ -353,7 +353,7 @@ Scheme
 		FrameBorder
 		{
 			// rounded corners for frames
-			//"backgroundtype" "2"
+			"backgroundtype" "0"
 
 			Left
 			{
@@ -708,6 +708,11 @@ Scheme
 					"color" "EllDarkGrey"
 					"offset" "0 0"
 				}
+				"2"
+				{
+					"color" "EllBlack"
+					"offset" "0 1"
+				}
 			}
 			Top
 			{
@@ -715,6 +720,11 @@ Scheme
 				{
 					"color" "EllDarkGrey"
 					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "EllBlack"
+					"offset" "1 0"
 				}
 			}
 			Right
@@ -724,12 +734,22 @@ Scheme
 					"color" "EllDarkGrey"
 					"offset" "0 0"
 				}
+				"2"
+				{
+					"color" "EllBlack"
+					"offset" "1 0"
+				}
 			}
 			Bottom
 			{
 				"1"
 				{
 					"color" "EllDarkGrey"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "EllBlack"
 					"offset" "0 0"
 				}
 			}
