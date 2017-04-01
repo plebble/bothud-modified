@@ -53,7 +53,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"RobotoBold22"
-		"fgcolor"		"EllWhite"
+		"fgcolor"		"EllLightGrey"
 	}	
 
 	"TextMessage"
@@ -80,7 +80,7 @@
 		"enabled"		"1"
 		"paintborder"	"0"
 		"textAlignment"	"left"
-		"fgcolor"		"EllWhite"
+		"fgcolor"		"EllLightGrey"
 	}
 
 	"HTMLMessage"
@@ -122,6 +122,8 @@
 		"command"		"okay"
 		"default"		"1"
 		"font"			"RobotoBold12"
+		"border_default"	"ThinDarkGreyBorder"
+		"border_armed"		"ThinLightGreyBorder"
 	}
 	
 	"MenuBG"

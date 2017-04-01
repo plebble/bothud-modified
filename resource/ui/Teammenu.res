@@ -230,7 +230,7 @@
 		"labelText"		"RANDOM"
 		"textAlignment"	"center"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllWhite"
+		"fgcolor"		"EllLightGrey"
 	}
 	
 	"TeamMenuSpectate"
@@ -247,7 +247,7 @@
 		"labelText"		"SPECTATE"
 		"textAlignment"	"center"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllWhite"
+		"fgcolor"		"EllLightGrey"
 	}
 
 	"BlueCount"

@@ -64,11 +64,11 @@
 		"Default"			"1"
 		"font"				"RobotoBold14"
 			
-		"fgcolor"					"EllWhite"
-		"defaultFgColor_override"	"EllWhite"
-		"armedFgColor_override"		"EllGreen"
-		"depressedFgColor_override"	"EllGreen"
-		"selectedFgColor_override"	"EllGreen"
+		"fgcolor"					"EllLightGrey"
+		"defaultFgColor_override"	"EllLightGrey"
+		"armedFgColor_override"		"EllDarkGrey"
+		"depressedFgColor_override"	"EllDarkGrey"
+		"selectedFgColor_override"	"EllDarkGrey"
 		
 		"paintbackground"	"0"
 		
@@ -135,12 +135,14 @@
 		"Command"			"joinclass scout"
 		"Default"			"0"
 		"font"				"RobotoBold14"
-		"fgcolor"			"EllWhite"
+		"fgcolor"			"EllLightGrey"
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
 		
-		"defaultFgColor_override"	"EllWhite"
-		"armedFgColor_override"		"EllGreen"
-		"depressedFgColor_override"	"EllGreen"
-		"selectedFgColor_override"	"EllGreen"
+		"defaultFgColor_override"	"EllLightGrey"
+		"armedFgColor_override"		"EllDarkGrey"
+		"depressedFgColor_override"	"EllDarkGrey"
+		"selectedFgColor_override"	"EllDarkGrey"
 		
 		"paintbackground"	"0"
 		
@@ -180,12 +182,14 @@
 		"Command"			"joinclass soldier"
 		"Default"			"0"
 		"font"				"RobotoBold14"
-		"fgcolor"			"EllWhite"
+		"fgcolor"			"EllLightGrey"
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
 		
-		"defaultFgColor_override"	"EllWhite"
-		"armedFgColor_override"		"EllGreen"
-		"depressedFgColor_override"	"EllGreen"
-		"selectedFgColor_override"	"EllGreen"
+		"defaultFgColor_override"	"EllLightGrey"
+		"armedFgColor_override"		"EllDarkGrey"
+		"depressedFgColor_override"	"EllDarkGrey"
+		"selectedFgColor_override"	"EllDarkGrey"
 		
 		"paintbackground"	"0"
 		
@@ -225,12 +229,14 @@
 		"Command"			"joinclass pyro"
 		"Default"			"0"
 		"font"				"RobotoBold14"
-		"fgcolor"			"EllWhite"
+		"fgcolor"			"EllLightGrey"
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
 		
-		"defaultFgColor_override"	"EllWhite"
-		"armedFgColor_override"		"EllGreen"
-		"depressedFgColor_override"	"EllGreen"
-		"selectedFgColor_override"	"EllGreen"
+		"defaultFgColor_override"	"EllLightGrey"
+		"armedFgColor_override"		"EllDarkGrey"
+		"depressedFgColor_override"	"EllDarkGrey"
+		"selectedFgColor_override"	"EllDarkGrey"
 		
 		"paintbackground"	"0"
 		
@@ -299,12 +305,14 @@
 		"Command"			"joinclass demoman"
 		"Default"			"0"
 		"font"				"RobotoBold14"
-		"fgcolor"			"EllWhite"
+		"fgcolor"			"EllLightGrey"
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
 		
-		"defaultFgColor_override"	"EllWhite"
-		"armedFgColor_override"		"EllGreen"
-		"depressedFgColor_override"	"EllGreen"
-		"selectedFgColor_override"	"EllGreen"
+		"defaultFgColor_override"	"EllLightGrey"
+		"armedFgColor_override"		"EllDarkGrey"
+		"depressedFgColor_override"	"EllDarkGrey"
+		"selectedFgColor_override"	"EllDarkGrey"
 		
 		"paintbackground"	"0"
 		
@@ -344,12 +352,14 @@
 		"Command"			"joinclass heavyweapons"
 		"Default"			"0"
 		"font"				"RobotoBold14"
-		"fgcolor"			"EllWhite"
+		"fgcolor"			"EllLightGrey"
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
 		
-		"defaultFgColor_override"	"EllWhite"
-		"armedFgColor_override"		"EllGreen"
-		"depressedFgColor_override"	"EllGreen"
-		"selectedFgColor_override"	"EllGreen"
+		"defaultFgColor_override"	"EllLightGrey"
+		"armedFgColor_override"		"EllDarkGrey"
+		"depressedFgColor_override"	"EllDarkGrey"
+		"selectedFgColor_override"	"EllDarkGrey"
 		
 		"paintbackground"	"0"
 		
@@ -389,12 +399,14 @@
 		"Command"			"joinclass engineer"
 		"Default"			"0"
 		"font"				"RobotoBold14"
-		"fgcolor"			"EllWhite"
+		"fgcolor"			"EllLightGrey"
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
 		
-		"defaultFgColor_override"	"EllWhite"
-		"armedFgColor_override"		"EllGreen"
-		"depressedFgColor_override"	"EllGreen"
-		"selectedFgColor_override"	"EllGreen"
+		"defaultFgColor_override"	"EllLightGrey"
+		"armedFgColor_override"		"EllDarkGrey"
+		"depressedFgColor_override"	"EllDarkGrey"
+		"selectedFgColor_override"	"EllDarkGrey"
 		
 		"paintbackground"	"0"
 		
@@ -461,12 +473,14 @@
 		"Command"			"joinclass medic"
 		"Default"			"0"
 		"font"				"RobotoBold14"
-		"fgcolor"			"EllWhite"
+		"fgcolor"			"EllLightGrey"
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
 		
-		"defaultFgColor_override"	"EllWhite"
-		"armedFgColor_override"		"EllGreen"
-		"depressedFgColor_override"	"EllGreen"
-		"selectedFgColor_override"	"EllGreen"
+		"defaultFgColor_override"	"EllLightGrey"
+		"armedFgColor_override"		"EllDarkGrey"
+		"depressedFgColor_override"	"EllDarkGrey"
+		"selectedFgColor_override"	"EllDarkGrey"
 		
 		"paintbackground"	"0"
 		
@@ -506,12 +520,14 @@
 		"Command"			"joinclass sniper"
 		"Default"			"0"
 		"font"				"RobotoBold14"
-		"fgcolor"			"EllWhite"
+		"fgcolor"			"EllLightGrey"
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
 		
-		"defaultFgColor_override"	"EllWhite"
-		"armedFgColor_override"		"EllGreen"
-		"depressedFgColor_override"	"EllGreen"
-		"selectedFgColor_override"	"EllGreen"
+		"defaultFgColor_override"	"EllLightGrey"
+		"armedFgColor_override"		"EllDarkGrey"
+		"depressedFgColor_override"	"EllDarkGrey"
+		"selectedFgColor_override"	"EllDarkGrey"
 		
 		"paintbackground"	"0"
 		
@@ -553,12 +569,14 @@
 		"Command"			"joinclass spy"
 		"Default"			"0"
 		"font"				"RobotoBold14"
-		"fgcolor"			"EllWhite"
+		"fgcolor"			"EllLightGrey"
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
 		
-		"defaultFgColor_override"	"EllWhite"
-		"armedFgColor_override"		"EllGreen"
-		"depressedFgColor_override"	"EllGreen"
-		"selectedFgColor_override"	"EllGreen"
+		"defaultFgColor_override"	"EllLightGrey"
+		"armedFgColor_override"		"EllDarkGrey"
+		"depressedFgColor_override"	"EllDarkGrey"
+		"selectedFgColor_override"	"EllDarkGrey"
 		
 		"paintbackground"	"0"
 		
@@ -618,12 +636,14 @@
 		"textAlignment"	"west"
 		"Command"		"openloadout"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllGreen"
+		"fgcolor"		"EllDarkGrey"
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
 		
-		"defaultFgColor_override"	"EllGreen"
-		"armedFgColor_override"		"EllGreen"
-		"depressedFgColor_override"	"EllGreen"
-		"selectedFgColor_override"	"EllGreen"
+		"defaultFgColor_override"	"EllDarkGrey"
+		"armedFgColor_override"		"EllDarkGrey"
+		"depressedFgColor_override"	"EllDarkGrey"
+		"selectedFgColor_override"	"EllDarkGrey"
 		
 		"paintbackground"	"0"
 		
@@ -1035,7 +1055,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numScout%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllGreen"
+		"fgcolor"		"EllDarkGrey"
 	}	
 	
 	"numSoldier"
@@ -1056,7 +1076,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSoldier%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllGreen"
+		"fgcolor"		"EllDarkGrey"
 	}		
 	
 	"numPyro"
@@ -1076,7 +1096,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numPyro%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllGreen"
+		"fgcolor"		"EllDarkGrey"
 	}			
 	
 	"numDemoman"
@@ -1096,7 +1116,7 @@
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"east"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllGreen"
+		"fgcolor"		"EllDarkGrey"
 	}				
 	
 	"numHeavy"
@@ -1116,7 +1136,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numHeavy%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllGreen"
+		"fgcolor"		"EllDarkGrey"
 	}					
 	
 	"numEngineer"
@@ -1136,7 +1156,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numEngineer%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllGreen"
+		"fgcolor"		"EllDarkGrey"
 	}						
 	
 	"numMedic"
@@ -1156,7 +1176,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numMedic%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllGreen"
+		"fgcolor"		"EllDarkGrey"
 	}							
 	
 	"numSniper"
@@ -1176,7 +1196,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSniper%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllGreen"
+		"fgcolor"		"EllDarkGrey"
 	}						
 	
 	"numSpy"
@@ -1196,7 +1216,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSpy%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllGreen"
+		"fgcolor"		"EllDarkGrey"
 	}								
 	
 	"MvMUpgradeImageScout"

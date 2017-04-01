@@ -50,7 +50,7 @@
 		"labelText"		"%mapname%"
 		"textAlignment"	"center"
 		"font"			"RobotoBold22"
-		"fgcolor"		"EllWhite"
+		"fgcolor"		"EllLightGrey"
 	}
 
 	"MapInfoType"
@@ -69,7 +69,7 @@
 		"labelText"		"%gamemode%"
 		"textAlignment"	"center"
 		"font"			"RobotoBold18"
-		"fgcolor"		"EllWhite"
+		"fgcolor"		"EllLightGrey"
 	}	
 	
 	"MapInfoText"
@@ -88,7 +88,7 @@
 		"enabled"		"1"
 		"paintborder"	"0"
 		"textAlignment"	"center"
-		"fgcolor"		"EllWhite"
+		"fgcolor"		"EllLightGrey"
 	}
 	
 	"MapImage"
@@ -127,6 +127,8 @@
 		"command"		"continue"
 		"default"		"1"
 		"font"			"RobotoBold12"
+		"border_default"	"ThinDarkGreyBorder"
+		"border_armed"		"ThinLightGreyBorder"
 	}
 	"MapInfoContinue"
 	{
