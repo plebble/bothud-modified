@@ -4,58 +4,58 @@
 //  ¯¯¯¯¯¯¯¯¯¯¯
 event hudHealthBonusPulse
 {
-  animate healthValue fGColor EllCyan linear 0.0 0.0
-  runEvent hudHealthBonusPulseLoop 0.1
+	animate healthValue fGColor EllCyan linear 0.0 0.0
+	runEvent hudHealthBonusPulseLoop 0.1
 }
 
 event hudHealthBonusPulseLoop
 {
-  runEvent hudHealthBonusPulse 0.0
+	runEvent hudHealthBonusPulse 0.0
 }
 
 event hudHealthBonusPulseStop
 {
-  stopEvent HudHealthBonusPulse 0.0
-  stopEvent HudHealthBonusPulseLoop 0.0
-  animate healthValue fGColor EllWhite linear 0.0 0.0
+	stopEvent HudHealthBonusPulse 0.0
+	stopEvent HudHealthBonusPulseLoop 0.0
+	animate healthValue fGColor EllWhite linear 0.0 0.0
 }
 
 event hudHealthDyingPulse
 {
-  animate healthValue fGColor RedSolid linear 0.0 0.0
-  runEvent hudHealthDyingPulseLoop 0.1
+	animate healthValue fGColor RedSolid linear 0.0 0.0
+	runEvent hudHealthDyingPulseLoop 0.1
 }
 
 event hudHealthDyingPulseLoop
 {
-  runEvent hudHealthDyingPulse 0.0
+	runEvent hudHealthDyingPulse 0.0
 }
 
 event hudHealthDyingPulseStop
 {
-  stopEvent hudHealthDyingPulse 0.0
-  stopEvent hudHealthDyingPulseLoop 0.0
-  animate healthValue fGColor EllWhite linear 0.0 0.0
+	stopEvent hudHealthDyingPulse 0.0
+	stopEvent hudHealthDyingPulseLoop 0.0
+	animate healthValue fGColor EllWhite linear 0.0 0.0
 }
 
 event hudLowAmmoPulse
 {
-  animate AmmoInReserve fGColor RedSolid linear 0.0 0.0
-  animate AmmoNoClip fGColor RedSolid linear 0.0 0.0
-  runEvent hudLowAmmoPulseLoop  0.1
+	animate AmmoInReserve fGColor RedSolid linear 0.0 0.0
+	animate AmmoNoClip fGColor RedSolid linear 0.0 0.0
+	runEvent hudLowAmmoPulseLoop  0.1
 }
 
 event hudLowAmmoPulseLoop
 {
-  runEvent hudLowAmmoPulse 0.0
+	runEvent hudLowAmmoPulse 0.0
 }
 
 event hudLowAmmoPulseStop
 {
-  stopEvent hudLowAmmoPulse 0.0
-  stopEvent hudLowAmmoPulseLoop 0.0
-  animate AmmoInReserve fGColor EllGreen linear 0.0 0.0
-  animate AmmoNoClip fGColor EllWhite linear 0.0 0.0
+	stopEvent hudLowAmmoPulse 0.0
+	stopEvent hudLowAmmoPulseLoop 0.0
+	animate AmmoInReserve fGColor EllGreen linear 0.0 0.0
+	animate AmmoNoClip fGColor EllWhite linear 0.0 0.0
 }
 
 event HudMedicCharged

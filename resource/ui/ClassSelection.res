@@ -636,14 +636,14 @@
 		"textAlignment"	"west"
 		"Command"		"openloadout"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllDarkGrey"
+		"fgcolor"		"EllLightGrey"
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"
 		
-		"defaultFgColor_override"	"EllDarkGrey"
-		"armedFgColor_override"		"EllDarkGrey"
-		"depressedFgColor_override"	"EllDarkGrey"
-		"selectedFgColor_override"	"EllDarkGrey"
+		"defaultFgColor_override"	"EllLightGrey"
+		"armedFgColor_override"		"EllLightGrey"
+		"depressedFgColor_override"	"EllLightGrey"
+		"selectedFgColor_override"	"EllLightGrey"
 		
 		"paintbackground"	"0"
 		
@@ -1055,7 +1055,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numScout%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllDarkGrey"
+		"fgcolor"		"EllLightGrey"
 	}	
 	
 	"numSoldier"
@@ -1076,7 +1076,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSoldier%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllDarkGrey"
+		"fgcolor"		"EllLightGrey"
 	}		
 	
 	"numPyro"
@@ -1096,7 +1096,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numPyro%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllDarkGrey"
+		"fgcolor"		"EllLightGrey"
 	}			
 	
 	"numDemoman"
@@ -1116,7 +1116,7 @@
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"east"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllDarkGrey"
+		"fgcolor"		"EllLightGrey"
 	}				
 	
 	"numHeavy"
@@ -1136,7 +1136,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numHeavy%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllDarkGrey"
+		"fgcolor"		"EllLightGrey"
 	}					
 	
 	"numEngineer"
@@ -1156,7 +1156,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numEngineer%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllDarkGrey"
+		"fgcolor"		"EllLightGrey"
 	}						
 	
 	"numMedic"
@@ -1176,7 +1176,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numMedic%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllDarkGrey"
+		"fgcolor"		"EllLightGrey"
 	}							
 	
 	"numSniper"
@@ -1196,7 +1196,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSniper%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllDarkGrey"
+		"fgcolor"		"EllLightGrey"
 	}						
 	
 	"numSpy"
@@ -1216,7 +1216,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSpy%"
 		"font"			"RobotoBold14"
-		"fgcolor"		"EllDarkGrey"
+		"fgcolor"		"EllLightGrey"
 	}								
 	
 	"MvMUpgradeImageScout"

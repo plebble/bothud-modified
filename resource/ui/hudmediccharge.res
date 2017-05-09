@@ -24,6 +24,7 @@
 		"brighttext"    "0"
 		"font"          "RobotoBold36"
 		"fgcolor"       "EllWhite"
+		"fg_override"	"EllWhite"
 	} 
 
 	"ChargeLabelShadow"
