@@ -52,8 +52,8 @@ Scheme
 		CheckButton.Check       "Yellow"    // color of the check itself
 		CheckButton.HighlightFgColor  "Yellow"
 		
-		ComboBoxButton.ArrowColor   "TanLight"
-		ComboBoxButton.ArmedArrowColor  "TanLight"
+		ComboBoxButton.ArrowColor   "EllLightGrey"
+		ComboBoxButton.ArmedArrowColor  "EllLightGrey"
 		ComboBoxButton.BgColor      "Blank"
 		ComboBoxButton.DisabledBgColor  "Blank"
 		
@@ -82,9 +82,9 @@ Scheme
 		GraphPanel.FgColor        "Orange"
 		GraphPanel.BgColor        "TransparentBlack"
 		
-		Label.TextDullColor       "TanDark"
-		Label.TextColor         "TanLight"
-		Label.TextBrightColor     "TanLight"
+		Label.TextDullColor       "EllDarkGrey"
+		Label.TextColor         "EllLightGrey"
+		Label.TextBrightColor     "EllLightGrey"
 		Label.SelectedTextColor     "White"
 		Label.BgColor         "Blank"
 		Label.DisabledFgColor1      "Blank"
@@ -97,10 +97,10 @@ Scheme
 		ListPanel.SelectedOutOfFocusBgColor "Red"
 		ListPanel.EmptyListInfoTextColor  "Orange"
 		
-		Menu.TextColor          "TanLight"
+		Menu.TextColor          "EllLightGrey"
 		Menu.BgColor          "TransparentBlack"
-		Menu.ArmedTextColor       "TanDark"
-		Menu.ArmedBgColor       "TanLight"
+		Menu.ArmedTextColor       "EllDarkGrey"
+		Menu.ArmedBgColor       "EllLightGrey"
 		Menu.TextInset          "6"
 		
 		Chat.TypingText         "Orange"
@@ -164,7 +164,7 @@ Scheme
 		TextEntry.CursorColor   "Gray"
 		TextEntry.DisabledTextColor "Gray"
 		TextEntry.DisabledBgColor "Blank"
-		TextEntry.SelectedTextColor "TanLight"
+		TextEntry.SelectedTextColor "EllLightGrey"
 		TextEntry.SelectedBgColor "Gray"
 		TextEntry.OutOfFocusSelectedBgColor "Blank"
 		TextEntry.FocusEdgeColor  "Blank"

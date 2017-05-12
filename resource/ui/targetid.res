@@ -68,6 +68,20 @@
     "textAlignment" "west"
     "fgcolor"       "EllCyan"
   } 
+  "AmmoIcon"
+  {
+    "ControlName" "ImagePanel"
+    "fieldName"   "AmmoIcon"
+    "xpos"        "55"
+    "ypos"        "31"
+    "zpos"        "1"
+    "wide"        "10"
+    "tall"        "10"
+    "visible"     "1"
+    "enabled"     "1"
+    "image"       "../hud/leaderboard_class_heavy"
+    "scaleImage"  "1"
+  }
   "BackGround"
   {	
 	"ControlName"		"ImagePanel"
@@ -153,20 +167,6 @@
     "src_corner_width"   "23"     
     "draw_corner_width"  "5" //screen size of the corners ( and sides ), proportional
     "draw_corner_height" "5"
-  }
-  "AmmoIcon"
-  {
-    "ControlName" "ImagePanel"
-    "fieldName"   "AmmoIcon"
-    "xpos"        "768"
-    "ypos"        "480"
-    "zpos"        "-1"
-    "wide"        "8"
-    "tall"        "8"
-    "visible"     "0"
-    "enabled"     "0"
-    "image"       "../hud/leaderboard_class_heavy"
-    "scaleImage"  "1"
   }
   "MoveableSubPanel"
   {
