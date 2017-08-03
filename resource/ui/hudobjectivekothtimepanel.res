@@ -57,7 +57,7 @@
 	  
 	  if_match
 	  {
-		"font"      "RobotoBold12"
+		"font"      "RobotoBold14"
 		"ypos"      "6"
 		"xpos"		"33"
 	  }
@@ -118,7 +118,7 @@
 	  
 	  if_match
 	  {
-		"font"		"RobotoBold12"
+		"font"		"RobotoBold14"
 		"ypos"      "6"
 		"xpos"      "-33"
 	  }
