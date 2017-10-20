@@ -124,7 +124,7 @@
     "textAlignment" "center"
     "xpos"          "c-148" 
     "ypos"          "327" //"444" 
-	"ypos_minmode"  "364"
+	"ypos_minmode"  "365"
     "zpos"          "6"
     "wide"          "48"
     "tall"          "12"
