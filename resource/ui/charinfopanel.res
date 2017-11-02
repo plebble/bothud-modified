@@ -84,8 +84,9 @@
 		"tabxindent"	"80"
 		"tabxdelta"		"10"
 		"tabwidth"		"240"
-		"tabheight"		"34"
+		"tabheight"		"20"
 		"transition_time" "0"
+		"yoffset"		"14"
 		
 		"HeaderLine"
 		{
@@ -106,7 +107,7 @@
 		"tabskv"
 		{
 			"textinsetx"		"30"
-			"font"				"RobotoBold26"
+			"font"				"RobotoBold22"
 			"textAlignment" 	"center"
 			"selectedcolor"		"EllLightGrey"
 			"unselectedcolor"	"EllLightGrey"	
@@ -142,7 +143,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"ThinDarkGreyBorder"
-		"border_armed"		"ThinLightGreyBorder"
+		"border_armed"		"ThinDarkGreyBorder"
 	}		
 	
 	"NotificationsPresentPanel"

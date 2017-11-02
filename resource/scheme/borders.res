@@ -123,65 +123,6 @@ Scheme
 			}
 		}
 		
-		ButtonBorder
-		{
-			"bordertype"	""
-			"inset" "0 0 1 1"
-			"backgroundtype"  "2"
-			Left
-			{
-				"1"
-				{
-				"color" "EllDarkGrey"
-				"offset" "0 1"
-				}
-				"2"
-				{
-				"color" "EllDarkGrey"
-				"offset" "1 2"
-				}
-			}
-			Right
-			{
-				"1"
-				{
-				"color" "EllDarkGrey"
-				"offset" "1 0"
-				}
-				"2"
-				{
-				"color" "EllDarkGrey"
-				"offset" "2 1"
-			}
-			}
-			Top
-			{
-				"1"
-				{
-				"color" "EllDarkGrey"
-				"offset" "0 0"
-				}
-				"2"
-				{
-				"color" "EllDarkGrey"
-				"offset" "1 1"
-				}
-			}
-			Bottom
-			{
-				"1"
-				{
-				"color" "EllDarkGrey"
-				"offset" "0 0"
-				}
-				"2"
-				{
-				"color" "EllDarkGrey"
-				"offset" "1 1"
-				}
-			}
-		}
-		
 		EconItemBorder
 		{
 			"bordertype"	""

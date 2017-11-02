@@ -2,6 +2,33 @@ Scheme
 {
 	Fonts
 	{
+		"RobotoBold7"
+		{	
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"7"
+				"antialias" "1"
+			}
+		}
+		"RobotoBold8"
+		{	
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		"RobotoBold9"
+		{	
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"9"
+				"antialias" "1"
+			}
+		}
 		"RobotoBold10"
 		{	
 			"1"
