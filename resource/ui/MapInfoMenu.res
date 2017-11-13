@@ -32,6 +32,7 @@
 		"fillcolor"		"EllGrey"
 		"fillcolor_lodef"		"EllGrey"
 		"PaintBackgroundType"	"0"
+		"border"				"ThinDarkGreyBorder"
 	}
 	
 	"MapInfoTitle"

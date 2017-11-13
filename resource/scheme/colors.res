@@ -16,6 +16,8 @@ Scheme
     
 		"TeamRed"           "184 56 59 255"
 		"TeamBlue"          "88 133 162 255"
+		"TeamRedDark"       "117 36 39 255"
+		"TeamBlueDark"      "54 81 99 255"
 		"RedSolid"          "192 28 0 255"
 		"BlueSolid"			"0 28 162 255"
     

@@ -8,9 +8,9 @@
 		"tall"			"35"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"border"		"ReplayDefaultBorder"
-		"paintbackground"	"0"
-		"bgcolor_override"	"255 0 0 250"
+		"border"		"ThinDarkGreyBorder"
+		"paintbackground"	"1"
+		"bgcolor_override"	"70 70 70 255"
 	}
 
 	"avatar"
@@ -128,6 +128,7 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		"border_default"	"ThinDarkGreyBorder"
 	}
 
 	"DeclineButton"
@@ -165,6 +166,7 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		"border_default"	"ThinDarkGreyBorder"
 	}
 
 }

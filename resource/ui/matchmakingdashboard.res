@@ -60,12 +60,13 @@
 			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"p1.1"
-			"tall"			"f6"
+			"tall"			"f5"
 			"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"fillcolor"				"EllGrey"
 			"fillcolor_lodef"		"EllGrey"
 			"proportionaltoparent"	"1"
+			"border"				"ThinDarkGreyBorder"
 		}
 
 		"OuterShadow"
