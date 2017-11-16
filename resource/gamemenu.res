@@ -1,33 +1,5 @@
 "GameMenu"
 {
-	"QuickplayButton"
-	{
-		"label"			"CASUAL"
-		"command"		"play_casual"
-		"subimage"		"glyph_multiplayer"
-		"OnlyAtMenu"	"1"
-	}
-	"QuickplayChangeButton"
-	{
-		"label"			"CASUAL"
-		"command"		"play_casual"
-		"subimage"		"glyph_multiplayer"
-		"OnlyInGame"	"1"
-	}
-	"PlayPVEButton"
-	{
-		"label"			"MVM"
-		"command"		"play_mvm"
-		"subimage"		"glyph_coop"
-		"OnlyAtMenu"	"1"
-	}
-	"PlayCompButton"
-	{
-		"label"			"COMPETITIVE" 
-		"command"		"play_competitive"
-		"subimage"		"glyph_practice"
-		"OnlyAtMenu"	"1"
-	}	
 	"ServerBrowserButton"
 	{
 		"label"			"SERVERS"
@@ -46,12 +18,6 @@
 	{
 		"label"			"DEMOUI"
 		"command"		"engine demoui"
-	}
-	"Scoreboard"
-	{
-		"label"			"SCOREBOARD"
-		"command"		"engine toggle cl_hud_minmode"
-		"OnlyInGame"	"1"
 	}
 
 	// These buttons get positioned by the MainMenuOverride.res
