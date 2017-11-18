@@ -47,6 +47,15 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"RobotoBold13"
+		{	
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
 		"RobotoBold14"
 		{	
 			"1"

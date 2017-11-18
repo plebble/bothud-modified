@@ -459,7 +459,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"ThinDarkGreyBorder"
-		"border_armed"		"ThinLightGreyBorder"
+		"border_armed"		"ThinDarkGreyBorder"
 	}
 
 	"TauntLoadoutButton"
@@ -486,7 +486,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"ThinDarkGreyBorder"
-		"border_armed"		"ThinLightGreyBorder"
+		"border_armed"		"ThinDarkGreyBorder"
 
 	"TauntsExplanation"
 	{
