@@ -23,10 +23,10 @@
 			"tall"			"f0"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
-			"fillcolor"				"EllGrey"
-			"fillcolor_lodef"		"EllGrey"
+			"fillcolor"				"EllDarkGrey"
+			"fillcolor_lodef"		"EllDarkGrey"
 			"PaintBackgroundType"	"0"
-			"border"				"ThinDarkGreyBorder"
+			"border"				"NoBorder"
 		}
 		
 		"TipLabel"

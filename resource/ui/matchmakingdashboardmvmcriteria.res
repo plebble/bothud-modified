@@ -58,6 +58,23 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+	
+	"MannUpToolTipButtonHack"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"MannUpToolTipButtonHack"
+		"xpos"			"106"
+		"ypos"			"rs1-8"
+		"zpos"			"101"
+		"wide"			"170"
+		"tall"			"20"
+		"visible"		"0"
+		"enabled"		"1"
+		"mouseinputenabled"	"1"
+		"eatmouseinput"	"0"	
+		"showtooltipswhenmousedisabled"	"1"
+		"proportionaltoparent" "1"
+	}
 
 	"MannUpQueueButton"
 	{
@@ -70,7 +87,7 @@
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"3"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"font"			"RobotoBold12"
@@ -91,6 +108,23 @@
 		"armedBgColor_override"		"CreditsGreen"
 		"defaultBgColor_override"	"GreenSolid"
 	}
+	
+	"BootCampToolTipButtonHack"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"BootCampToolTipButtonHack"
+		"xpos"			"5"
+		"ypos"			"rs1-8"
+		"zpos"			"101"
+		"wide"			"270"
+		"tall"			"20"
+		"visible"		"0"
+		"enabled"		"1"
+		"mouseinputenabled"	"1"
+		"eatmouseinput"	"0"	
+		"showtooltipswhenmousedisabled"	"1"
+		"proportionaltoparent" "1"
+	}
 
 	"BootCampQueueButton"
 	{
@@ -103,7 +137,7 @@
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"3"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"font"			"RobotoBold18"
