@@ -270,9 +270,9 @@
 			
 			"fonts"
 			{
-				"0"		"RobotoBold9"
-				"1"		"RobotoBold8"
-				"2"		"RobotoBold7"
+				"0"		"RobotoBold12"
+				"1"		"RobotoBold10"
+				"2"		"RobotoBold8"
 			}
 		}
 		
@@ -301,15 +301,15 @@
 
 			"fonts"
 			{
-				"0"		"RobotoBold9"
-				"1"		"RobotoBold8"
-				"2"		"RobotoBold7"
+				"0"		"RobotoBold12"
+				"1"		"RobotoBold10"
+				"2"		"RobotoBold8"
 			}
 
 			"colors"
 			{
 				"1"		"CreditsGreen"
-				"2"		"TanLight"
+				"2"		"EllLightGrey"
 			}
 		}
 

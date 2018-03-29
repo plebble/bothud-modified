@@ -246,12 +246,12 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankModelPanel"
-		"xpos"			"cs-0.5-300"
-		"ypos"			"cs-0.5-54"
+		"xpos"			"cs-0.5-270"
+		"ypos"			"cs-0.5-95"
 
 		"zpos"			"1"
-		"wide"			"500"
-		"tall"			"500"
+		"wide"			"700"
+		"tall"			"700"
 		"visible"		"0"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"1"
@@ -265,8 +265,8 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CycleRankTypeButton"
-		"xpos"			"184"
-		"ypos"			"171"
+		"xpos"			"c-327"
+		"ypos"			"155"
 		"zpos"			"1000"
 		"wide"			"15"
 		"tall"			"15"
@@ -1464,7 +1464,7 @@
 			"friendpanel_kv"
 			{
 				"wide"		"80"
-				"tall"		"20"
+				"tall"		"25"
 			}
 
 			"ScrollBar"
@@ -1695,7 +1695,7 @@
 		"fieldName"		"SettingsButton"
 		"xpos"			"5" //"c-285"
 		"ypos"			"300"
-		"zpos"			"1"
+		"zpos"			"11"
 		"wide"			"100"
 		"tall"			"14"
 		"autoResize"	"0"
@@ -1744,7 +1744,7 @@
 		"fieldName"		"TF2SettingsButton"
 		"xpos"			"5" //"c-285"
 		"ypos"			"320"
-		"zpos"			"1"
+		"zpos"			"11"
 		"wide"			"100"
 		"tall"			"14"
 		"autoResize"	"0"
@@ -1850,7 +1850,7 @@
 		"fieldName"		"QuitButton"
 		"xpos"			"5" //"c-285"
 		"ypos"			"360"
-		"zpos"			"1"
+		"zpos"			"11"
 		"wide"			"100"
 		"tall"			"14"
 		"autoResize"	"0"
