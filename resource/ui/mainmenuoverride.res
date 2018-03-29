@@ -1956,7 +1956,7 @@
 		"fieldName"		"DisconnectButton"
 		"xpos"			"5" //"c-285"
 		"ypos"			"360"
-		"zpos"			"1"
+		"zpos"			"11"
 		"wide"			"100"
 		"tall"			"14"
 		"autoResize"	"0"

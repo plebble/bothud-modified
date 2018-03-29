@@ -46,6 +46,12 @@
 		"fillcolor"		"EllGrey"
 		"fillcolor_lodef"		"EllGrey"
 		"PaintBackgroundType"	"0"
+		
+		if_match
+		{
+			"visible"       "0"
+			"enabled"       "0"	
+		}
 	}
 //  _______________
 // | END ELL'S HUD |
