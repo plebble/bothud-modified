@@ -24,8 +24,7 @@
 
 	if_match
 	{
-		"visible"       "0"
-		"enabled"       "0"	
+		"ypos"		"-24"
 	}
   }
   
@@ -49,8 +48,7 @@
 		
 		if_match
 		{
-			"visible"       "0"
-			"enabled"       "0"	
+			"ypos"		"-30"
 		}
 	}
 //  _______________

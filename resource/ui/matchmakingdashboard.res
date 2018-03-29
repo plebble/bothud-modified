@@ -413,11 +413,11 @@
 			
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "46 43 42 255"
+				"defaultFgColor_override" "EllLightGrey"
 				"armedFgColor_override" "235 226 202 255"
-				"depressedFgColor_override" "46 43 42 255"
+				"depressedFgColor_override" "EllLightGrey"
 			
-				"image_drawcolor"	"117 107 94 255"
+				"image_drawcolor"	"150 150 150 255"
 				"image_armedcolor"	"200 80 60 255"
 				"SubImage"
 				{
