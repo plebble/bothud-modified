@@ -52,7 +52,7 @@
 	
 	"random"
 	{
-		"xpos"				"c-15"
+		"xpos"				"cs-0.5"
 		"ypos"				"c60"
 		"zpos"				"6"
 		"wide"				"75"
@@ -626,7 +626,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"EditLoadoutButton"
-		"xpos"			"c-15"
+		"xpos"			"cs-0.5"
 		"ypos"			"c-58"
 		"zpos"			"6"
 		"wide"			"75"
