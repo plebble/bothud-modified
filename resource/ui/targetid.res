@@ -17,7 +17,7 @@
     "enabled"       "0"
     "labelText"     "%targetname%"
     "textAlignment" "west"
-    "fgcolor"     "EllYellow"
+    "fgcolor"     "EllWhite"
   }
   "TargetName"
   { 
@@ -33,7 +33,7 @@
     "enabled"       "1"
     "labelText"     "%targetname%"
     "textAlignment" "west"
-    "fgcolor"     "EllYellow"
+    "fgcolor"     "EllWhite"
   }
   "SpectatorGUIHealth"
   {

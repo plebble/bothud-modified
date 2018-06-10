@@ -37,7 +37,7 @@
 			"textAlignment" "center"  
 			"labelText"     "%killername%"
 			"font"          "RobotoBold12"
-			"fgcolor"       "EllYellow"
+			"fgcolor"       "EllWhite"
 		} 
 
 		"FreezePanelBG"
