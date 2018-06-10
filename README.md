@@ -1,7 +1,7 @@
 # BotHud
 
-![HUD](http://i.imgur.com/qFN8yrh.png)
-![MENU](https://i.imgur.com/VcUqN0Q.jpg)
+![HUD](https://i.imgur.com/mDEfwI1.jpg)
+![MENU](https://i.imgur.com/XLLSTZC.jpg)
 
 ellshud 4.8 updated to better support matchmaking, and adapted for Roboto font.
 
