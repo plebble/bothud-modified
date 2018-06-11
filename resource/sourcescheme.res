@@ -7,50 +7,12 @@ Scheme
 	// this is a list of all the colors used by the scheme
 	Colors
 	{
-		"EllBlack"            "0 0 0 255"
-		"EllCyan"             "0 190 255 255"
-		"EllGreen"            "0 255 0 255"
-		"EllPink"             "215 0 128 255"
-		"EllTransparentBlack" "0 0 0 220"
-		"EllWhite"            "255 255 255 255"
-		"EllYellow"           "255 255 0 255"
 		"EllGrey"			  "40 40 40 255"
 		"EllDarkGrey"		  "20 20 20 255"
 		"EllLightGrey"		  "120 120 120 255"
 		"EllTransparentGrey"  "40 40 40 160"
-	
-	    "TFDarkBrown"               "60 56 53 255"
-	    "TFDarkBrownTransparent"    "60 56 53 190"
-	    "TFTanBright"               "236 227 203 150"
-	    "TFTanLight"                "201 188 162 150"
-	    "TFTanMedium"               "131 121 104 150"
-	    
-	    "TFTanLightBright"          "229 223 211 90"
-	    "TFTanLightDark"            "96 90 78 90"
-	    
-	    "TFOrangeBright"            "156 82 33 255"
-	    
-	    "TFTextBright"              "251 236 203 150"
-	    "TFTextLight"               "201 188 162 255"
-	    "TFTextMedium"              "131 121 104 255"
-	    "TFTextMediumDark"          "104 96 83 255"
-	    "TFTextBlack"               "42 39 37 255"
-	    "TFTextDull"                "131 121 104 255"
-
-	    "TFMediumBrown"		"69 64 58 255"
-
-	    "QuickListBGDeselected"		"69 64 58 255"
-	    "QuickListBGSelected"               "131 121 104 150"
 	    
 	    "Blank"				"0 0 0 0"
-	    
-	    // background colors
-		"ControlBG"			"76 88 68 255"		// background color of controls
-		"ControlDarkBG"		"90 106 80 255"		// darker background color; used for background of scrollbars
-		"WindowBG"			"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"		"90 84 75 255"	// background color of any selected text or menu item
-		"SelectionBG2"		"69 64 57 255"		// selection background in window w/o focus
-		"ListBG"			"39 36 34 255"		// background of server browser, buddy list, etc.
 	}
 	BaseSettings
 	{
@@ -60,86 +22,86 @@ Scheme
 		Border.Selection				"BorderSelection"			// the additional border color for displaying the default/selected button
 		Border.Frame					"EllDarkGrey"
 
-		Button.TextColor				"EllWhite"
-		Button.BgColor					"EllLightGrey"
-		Button.ArmedTextColor			"EllWhite"
+		Button.TextColor				"EllLightGrey"
+		Button.BgColor					"EllGrey"
+		Button.ArmedTextColor			"EllLightGrey"
 		Button.ArmedBgColor				"EllDarkGrey"
-		Button.DepressedTextColor		"EllWhite"
-		Button.DepressedBgColor			"EllLightGrey"	
-		Button.FocusBorderColor			"EllTransparentBlack"
+		Button.DepressedTextColor		"EllLightGrey"
+		Button.DepressedBgColor			"EllDarkGrey"	
+		Button.FocusBorderColor			"EllDarkGrey"
 		
-		CheckButton.TextColor			"EllWhite"
-		CheckButton.SelectedTextColor		"EllWhite"
+		CheckButton.TextColor			"EllLightGrey"
+		CheckButton.SelectedTextColor		"EllLightGrey"
 		CheckButton.BgColor				"EllDarkGrey"
 		CheckButton.HighlightFgColor		"EllDarkGrey"
 		CheckButton.ArmedBgColor		"Blank"
 		CheckButton.DepressedBgColor		"Blank"
 		CheckButton.Border1  			"Border.Dark" 		// the left checkbutton border
 		CheckButton.Border2  			"Border.Bright"		// the right checkbutton border
-		CheckButton.Check				"EllWhite"	// color of the check itself
+		CheckButton.Check				"EllLightGrey"	// color of the check itself
 		CheckButton.DisabledBgColor	    "EllDarkGrey"
 
-		ToggleButton.SelectedTextColor	"EllWhite"
+		ToggleButton.SelectedTextColor	"EllLightGrey"
 		
-		ComboBoxButton.ArrowColor		"EllWhite"
+		ComboBoxButton.ArrowColor		"EllLightGrey"
 		ComboBoxButton.ArmedArrowColor	"EllLightGrey"
 		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
 		
-		RadioButton.TextColor		"EllWhite"
-		RadioButton.SelectedTextColor	"EllWhite"
+		RadioButton.TextColor		"EllLightGrey"
+		RadioButton.SelectedTextColor	"EllLightGrey"
 		RadioButton.ArmedTextColor	"EllLightGrey"
 		
 		Frame.BgColor					"EllGrey"
 		Frame.OutOfFocusBgColor			"EllTransparentGrey"
 		FrameGrip.Color1				"EllGrey"
 		FrameGrip.Color2				"EllGrey"
-		FrameTitleButton.FgColor		"EllWhite"
+		FrameTitleButton.FgColor		"EllLightGrey"
 		FrameTitleBar.Font			"DefaultLarge"		[$WIN32]
-		FrameTitleBar.TextColor			"EllWhite"
+		FrameTitleBar.TextColor			"EllLightGrey"
 		FrameTitleBar.DisabledTextColor	"EllDarkGrey"
 		
 		Label.TextDullColor				"EllDarkGrey"
-		Label.TextColor					"EllWhite"
-		Label.TextBrightColor			"EllWhite"
-		Label.SelectedTextColor			"EllWhite"
+		Label.TextColor					"EllLightGrey"
+		Label.TextBrightColor			"EllLightGrey"
+		Label.SelectedTextColor			"EllLightGrey"
 		Label.BgColor					"Blank"
 		Label.DisabledFgColor1			"EllDarkGrey"	
 		Label.DisabledFgColor2			"Blank"	
 		
-		ListPanel.TextColor					"EllWhite"
+		ListPanel.TextColor					"EllLightGrey"
 		ListPanel.BgColor					"EllDarkGrey"
 		ListPanel.SelectedBgColor			"EllLightGrey"
 		ListPanel.SelectedOutOfFocusBgColor	"EllLightGrey"
 		
-		MainMenu.TextColor			"EllWhite"			[$WIN32]
+		MainMenu.TextColor			"EllLightGrey"			[$WIN32]
 		MainMenu.ArmedTextColor		"EllDarkGrey"	[$WIN32]
 		MainMenu.Inset				"32"
 		
 		Menu.TextInset					"6"
-		Menu.FgColor			"EllWhite"
+		Menu.FgColor			"EllLightGrey"
 		Menu.BgColor			"EllDarkGrey"
-		Menu.ArmedFgColor		"EllWhite"
+		Menu.ArmedFgColor		"EllLightGrey"
 		Menu.ArmedBgColor		"EllLightGrey"
 		Menu.DividerColor		"BorderDark"
 		
-		ScrollBarButton.FgColor				"EllDarkGrey"
-		ScrollBarButton.BgColor				"EllLightGrey"
+		ScrollBarButton.FgColor				"EllLightGrey"
+		ScrollBarButton.BgColor				"EllGrey"
 		ScrollBarButton.ArmedFgColor		"EllLightGrey"
 		ScrollBarButton.ArmedBgColor		"EllDarkGrey"
-		ScrollBarButton.DepressedFgColor	"EllDarkGrey"
-		ScrollBarButton.DepressedBgColor	"EllLightGrey"
+		ScrollBarButton.DepressedFgColor	"EllLightGrey"
+		ScrollBarButton.DepressedBgColor	"EllDarkGrey"
 
-		ScrollBarSlider.BgColor				"EllLightGrey"		// this isn't really used
-		ScrollBarSlider.FgColor				"EllDarkGrey"		// handle with which the slider is grabbed
+		ScrollBarSlider.BgColor				"EllDarkGrey"		// this isn't really used
+		ScrollBarSlider.FgColor				"EllGrey"		// handle with which the slider is grabbed
 		
 		Slider.NobColor				"EllLightGrey"		
-		Slider.TextColor			"EllWhite"
+		Slider.TextColor			"EllLightGrey"
 		Slider.TrackColor			"EllDarkGrey"
 		Slider.DisabledTextColor1	"EllLightGrey"
         Slider.DisabledTextColor2	"Blank"
 		
-		TextEntry.TextColor			        "EllWhite"
+		TextEntry.TextColor			        "EllLightGrey"
 		TextEntry.DisabledTextColor	        "EllLightGrey"
 		TextEntry.SelectedBgColor	        "EllLightGrey"
 	}
@@ -710,7 +672,7 @@ Scheme
 				}
 				"2"
 				{
-					"color" "EllBlack"
+					"color" "EllDarkGrey"
 					"offset" "0 1"
 				}
 			}
@@ -723,7 +685,7 @@ Scheme
 				}
 				"2"
 				{
-					"color" "EllBlack"
+					"color" "EllDarkGrey"
 					"offset" "1 0"
 				}
 			}
@@ -736,7 +698,7 @@ Scheme
 				}
 				"2"
 				{
-					"color" "EllBlack"
+					"color" "EllDarkGrey"
 					"offset" "1 0"
 				}
 			}
@@ -749,7 +711,7 @@ Scheme
 				}
 				"2"
 				{
-					"color" "EllBlack"
+					"color" "EllDarkGrey"
 					"offset" "0 0"
 				}
 			}

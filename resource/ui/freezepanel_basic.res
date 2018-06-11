@@ -65,7 +65,7 @@
 		{	
 			"ControlName"			"ImagePanel"
 			"fieldName"				"BackGround"
-			"xpos"					"c-60"
+			"xpos"					"cs-0.5"
 			"ypos"					"18"
 			"zpos"					"0"
 			"wide"					"120"
@@ -75,8 +75,8 @@
 			"visible"				"1"
 			"enabled"				"1"
 			"tabPosition"			"0"	
-			"fillcolor"				"EllGrey"
-			"fillcolor_lodef"		"EllGrey"
+			"fillcolor"				"EllTransparentGrey"
+			"fillcolor_lodef"		"EllTransparentGrey"
 			"PaintBackgroundType"	"0"
 		}
 		
@@ -123,7 +123,7 @@
 			"ControlName"	"Label"
 			"fieldName"		"FreezeLabelKiller"
 			"font"			"RobotoBold12"
-			"fgcolor"		"EllYellow"
+			"fgcolor"		"EllWhite"
 			"xpos"			"0"
 			"ypos"			"36"
 			"zpos"			"1"

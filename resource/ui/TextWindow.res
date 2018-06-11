@@ -124,7 +124,7 @@
 		"default"		"1"
 		"font"			"RobotoBold12"
 		"border_default"	"ThinDarkGreyBorder"
-		"border_armed"		"ThinLightGreyBorder"
+		"border_armed"		"ThinDarkGreyBorder"
 	}
 	
 	"MenuBG"

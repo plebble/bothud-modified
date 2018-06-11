@@ -71,7 +71,7 @@
 			"dulltext"      "0"
 			"brighttext"    "0"
 			"font"          "RobotoBold24"
-			"fgcolor"       "EllYellow"
+			"fgcolor"       "EllWhite"
 		}
 		
 		"NumPipesLabelShadow"

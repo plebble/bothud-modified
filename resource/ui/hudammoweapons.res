@@ -8,7 +8,7 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "AmmoInClip"
-		"font"          "RobotoBold36"
+		"font"          "RobotoBold38"
 		"fgcolor"       "EllWhite"
 		"xpos"          "0"
 		"ypos"          "0" 
@@ -25,7 +25,7 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "AmmoInClipShadow"
-		"font"          "RobotoBold36"
+		"font"          "RobotoBold38"
 		"fgcolor"       "EllBlack"
 		"xpos"          "2"
 		"ypos"          "2"

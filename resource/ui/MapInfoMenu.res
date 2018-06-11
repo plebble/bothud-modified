@@ -106,6 +106,7 @@
 		"image"			""
 		"scaleImage"	"1"		
 	}
+	
 	"ok"
 	{
 		"ControlName"	"CExButton"

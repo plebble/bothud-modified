@@ -24,7 +24,7 @@
     "ControlName"   "CExLabel"
     "fieldName"     "TargetName"
     "font"          "RobotoBold14"
-    "xpos"          "44"
+    "xpos"          "54"
     "ypos"          "16"
     "zpos"          "1"
     "wide"          "f0"
@@ -39,7 +39,7 @@
   {
     "ControlName"             "EditablePanel"
     "fieldName"               "SpectatorGUIHealth"
-    "xpos"                    "0"
+    "xpos"                    "4"
     "ypos"                    "18"
     "zpos"                    "2"
     "wide"                    "44"
@@ -57,7 +57,7 @@
     "ControlName"   "CExLabel"
     "fieldName"     "TargetDataLabel"
     "font"          "RobotoBold14"
-    "xpos"          "44"
+    "xpos"          "55"
     "ypos"          "27"
     "zpos"          "1"
     "wide"          "768"
@@ -96,8 +96,8 @@
 	"visible"		"1"
 	"enabled"		"1"
 	"tabPosition"	"0"	
-	"fillcolor"		"EllGrey"
-	"fillcolor_lodef"		"EllGrey"
+	"fillcolor"		"EllTransparentGrey"
+	"fillcolor_lodef"		"EllTransparentGrey"
 	"PaintBackgroundType"	"0"
    }
 //  _______________
