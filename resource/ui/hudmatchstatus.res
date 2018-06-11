@@ -200,12 +200,85 @@
 		"fieldName"		"RoundCounter"
 		"xpos"			"cs-0.5"
 		"ypos"			"-2"
-		"zpos"			"1"		
+		"zpos"			"5"		
 		"wide"			"300"
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
 	}	
+	
+	"Background"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"BackGround"
+		"xpos"			"cs-0.5"
+		"ypos"			"0"
+		"zpos"			"2"
+		"wide"			"72"
+		"tall"			"26"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		"tabPosition"	"0"	
+		"fillcolor"		"EllGrey"
+		"fillcolor_lodef"		"EllGrey"
+		"PaintBackgroundType"	"0"
+		
+		if_match
+		{
+			"visible"		"1"
+		}
+	}
+	
+	
+	"BackGroundRed"
+	{	
+		"ControlName"		"ImagePanel"
+		"fieldName"		"BackGroundRed"
+		"xpos"			"cs0"
+		"ypos"			"0"
+		"zpos"			"4"
+		"wide"			"36"
+		"tall"			"12"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		"tabPosition"	"0"	
+		"fillcolor"		"TeamRed"
+		"fillcolor_lodef"		"TeamRed"
+		"PaintBackgroundType"	"0"
+		
+		if_match
+		{
+			"visible"		"1"
+		}
+	}
+	
+	"BackGroundBlue"
+	{	
+		"ControlName"		"ImagePanel"
+		"fieldName"		"BackGroundBlue"
+		"xpos"			"cs-1"
+		"ypos"			"0"
+		"zpos"			"4"
+		"wide"			"36"
+		"tall"			"12"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		"tabPosition"	"0"	
+		"fillcolor"		"TeamBlue"
+		"fillcolor_lodef"		"TeamBlue"
+		"PaintBackgroundType"	"0"
+		
+		if_match
+		{
+			"visible"		"1"
+		}
+	}
 	
 	"BGFrame"
 	{
@@ -327,7 +400,7 @@
 				"proportionaltoparent"	"1"
 
 				"xpos"			"35"
-				"ypos"			"12"
+				"ypos"			"14"
 				"tall"			"10"
 				"font"			"RobotoBold14"
 			}

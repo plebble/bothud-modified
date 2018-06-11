@@ -1078,7 +1078,7 @@
 	  "labelText"		"#TF_Scoreboard_Damage"
 	  "fgcolor"			"EllWhite"
  	  "textAlignment"	"east"
-	  "xpos"			"c-130"
+	  "xpos"			"328"
 	  "ypos"			"0"
 	  "zpos"			"3"
 	  "wide"			"55"
@@ -1096,7 +1096,7 @@
 	  "fgcolor"			"EllGreen"
 	  "labelText"		"%damage%"
 	  "textAlignment"	"west"
-	  "xpos"			"c-73"
+	  "xpos"			"384"
 	  "ypos"			"0"
 	  "zpos"			"3"
 	  "wide"			"100"
@@ -1115,7 +1115,7 @@
       "labelText"   "#TF_ScoreBoard_KillsLabel"
 	  "fgcolor"			"EllWhite"
       "textAlignment"   "east"
-      "xpos"      "c-375"
+      "xpos"      "51"
       "ypos"      "0" [$WIN32]
       "zpos"      "3"
       "wide"      "45"
@@ -1133,7 +1133,7 @@
       "labelText"   "#TF_ScoreBoard_DeathsLabel"
 	  "fgcolor"			"EllWhite"
       "textAlignment"   "east"
-      "xpos"      "c-295"
+      "xpos"      "136"
       "ypos"      "0"  [$WIN32]
       "zpos"      "3"
       "wide"      "45"
@@ -1151,7 +1151,7 @@
       "labelText"   "#TF_ScoreBoard_AssistsLabel"
 	  "fgcolor"			"EllWhite"
       "textAlignment"   "east"
-      "xpos"      "c-215"
+      "xpos"      "227"
       "ypos"      "0"  [$WIN32]
       "zpos"      "3"
       "wide"      "45"
@@ -1186,7 +1186,7 @@
 	  "fgcolor"			"EllGreen"
       "labelText"   "%kills%"
       "textAlignment"   "west"
-      "xpos"      "c-328"
+      "xpos"      "97"
       "ypos"      "0" [$WIN32]
       "zpos"      "3"
       "wide"      "40"
@@ -1204,7 +1204,7 @@
 	  "fgcolor"			"EllGreen"
       "labelText"   "%deaths%"
       "textAlignment"   "west"
-      "xpos"      "c-248"
+      "xpos"      "182"
       "ypos"      "0"  [$WIN32]
       "zpos"      "3"
       "wide"      "40"
@@ -1260,7 +1260,7 @@
 	  "fgcolor"			"EllGreen"
       "labelText"   "%assists%"
       "textAlignment"   "west"
-      "xpos"      "c-168"
+      "xpos"      "273"
       "ypos"      "0"  [$WIN32]
       "zpos"      "3"
       "wide"      "40"
