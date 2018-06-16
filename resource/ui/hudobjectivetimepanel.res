@@ -24,7 +24,7 @@
 
 	if_match
 	{
-		"ypos"		"18"
+		"ypos"		"20"
 		"font"      "RobotoBold14"
 	}
   }

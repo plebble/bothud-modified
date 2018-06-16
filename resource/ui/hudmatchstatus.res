@@ -207,7 +207,7 @@
 		"enabled"		"1"
 	}	
 	
-	"Background"
+	"BackGround"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"BackGround"
@@ -236,10 +236,10 @@
 	{	
 		"ControlName"		"ImagePanel"
 		"fieldName"		"BackGroundRed"
-		"xpos"			"cs0"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"4"
-		"wide"			"36"
+		"wide"			"37"
 		"tall"			"12"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -249,6 +249,10 @@
 		"fillcolor"		"TeamRed"
 		"fillcolor_lodef"		"TeamRed"
 		"PaintBackgroundType"	"0"
+		
+		"pin_to_sibling"		"BackGround"
+		"pin_corner_to_sibling"	"1"
+		"pin_to_sibling_corner"	"1"
 		
 		if_match
 		{
@@ -260,10 +264,10 @@
 	{	
 		"ControlName"		"ImagePanel"
 		"fieldName"		"BackGroundBlue"
-		"xpos"			"cs-1"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"4"
-		"wide"			"36"
+		"wide"			"37"
 		"tall"			"12"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -273,6 +277,10 @@
 		"fillcolor"		"TeamBlue"
 		"fillcolor_lodef"		"TeamBlue"
 		"PaintBackgroundType"	"0"
+		
+		"pin_to_sibling"		"BackGround"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"0"
 		
 		if_match
 		{

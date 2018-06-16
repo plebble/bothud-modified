@@ -1055,7 +1055,7 @@
   {
     "ControlName"   "EditablePanel"
     "fieldName"   "LocalPlayerStatsPanel"
-    "xpos"      "-70"
+    "xpos"      "0"
     "ypos"      "467"
     "zpos"      "3"
     "wide"      "f0"
@@ -1078,7 +1078,7 @@
 	  "labelText"		"#TF_Scoreboard_Damage"
 	  "fgcolor"			"EllWhite"
  	  "textAlignment"	"east"
-	  "xpos"			"328"
+	  "xpos"			"10"
 	  "ypos"			"0"
 	  "zpos"			"3"
 	  "wide"			"55"
@@ -1087,6 +1087,11 @@
 	  "pinCorner"		"0"
 	  "visible"		"1"
 	  "enabled"		"1"
+	  "auto_wide_tocontents"	"1"
+	  
+	  "pin_to_sibling"		"Assists"
+	  "pin_corner_to_sibling"	"0"
+	  "pin_to_sibling_corner"	"1"
 	}
 	"Damage"
 	{
@@ -1096,7 +1101,7 @@
 	  "fgcolor"			"EllGreen"
 	  "labelText"		"%damage%"
 	  "textAlignment"	"west"
-	  "xpos"			"384"
+	  "xpos"			"0"
 	  "ypos"			"0"
 	  "zpos"			"3"
 	  "wide"			"100"
@@ -1105,6 +1110,11 @@
 	  "pinCorner"		"0"
 	  "visible"		"1"
 	  "enabled"		"1"
+	  "auto_wide_tocontents"	"1"
+	  
+	  "pin_to_sibling"		"DamageLabel"
+	  "pin_corner_to_sibling"	"0"
+	  "pin_to_sibling_corner"	"1"
 	}
 
     "KillsLabel"
@@ -1115,7 +1125,7 @@
       "labelText"   "#TF_ScoreBoard_KillsLabel"
 	  "fgcolor"			"EllWhite"
       "textAlignment"   "east"
-      "xpos"      "51"
+      "xpos"      "5"
       "ypos"      "0" [$WIN32]
       "zpos"      "3"
       "wide"      "45"
@@ -1124,6 +1134,11 @@
       "pinCorner"   "0"
       "visible"   "1"
       "enabled"   "1"
+	  "auto_wide_tocontents"	"1"
+	  
+	  "pin_to_sibling"		"TeamsBG"
+	  "pin_corner_to_sibling"	"0"
+	  "pin_to_sibling_corner"	"0"
     }           
     "DeathsLabel"
     {
@@ -1133,7 +1148,7 @@
       "labelText"   "#TF_ScoreBoard_DeathsLabel"
 	  "fgcolor"			"EllWhite"
       "textAlignment"   "east"
-      "xpos"      "136"
+      "xpos"      "10"
       "ypos"      "0"  [$WIN32]
       "zpos"      "3"
       "wide"      "45"
@@ -1141,7 +1156,12 @@
       "autoResize"  "0"
       "pinCorner"   "0"
       "visible"   "1"
-      "enabled"   "1"
+      "enabled"   "1"	  
+	  "auto_wide_tocontents"	"1"
+	  
+	  "pin_to_sibling"		"Kills"
+	  "pin_corner_to_sibling"	"0"
+	  "pin_to_sibling_corner"	"1"
     }           
     "AssistsLabel"
     {
@@ -1151,7 +1171,7 @@
       "labelText"   "#TF_ScoreBoard_AssistsLabel"
 	  "fgcolor"			"EllWhite"
       "textAlignment"   "east"
-      "xpos"      "227"
+      "xpos"      "10"
       "ypos"      "0"  [$WIN32]
       "zpos"      "3"
       "wide"      "45"
@@ -1160,6 +1180,11 @@
       "pinCorner"   "0"
       "visible"   "1"
       "enabled"   "1"
+	  "auto_wide_tocontents"	"1"
+	  
+	  "pin_to_sibling"		"Deaths"
+	  "pin_corner_to_sibling"	"0"
+	  "pin_to_sibling_corner"	"1"
     }
     "DestructionLabel"
     {
@@ -1186,7 +1211,7 @@
 	  "fgcolor"			"EllGreen"
       "labelText"   "%kills%"
       "textAlignment"   "west"
-      "xpos"      "97"
+      "xpos"      "0"
       "ypos"      "0" [$WIN32]
       "zpos"      "3"
       "wide"      "40"
@@ -1195,6 +1220,11 @@
       "pinCorner"   "0"
       "visible"   "1"
       "enabled"   "1"
+	  "auto_wide_tocontents"	"1"
+	  
+	  "pin_to_sibling"		"KillsLabel"
+	  "pin_corner_to_sibling"	"0"
+	  "pin_to_sibling_corner"	"1"
     }           
     "Deaths"
     {
@@ -1204,7 +1234,7 @@
 	  "fgcolor"			"EllGreen"
       "labelText"   "%deaths%"
       "textAlignment"   "west"
-      "xpos"      "182"
+      "xpos"      "0"
       "ypos"      "0"  [$WIN32]
       "zpos"      "3"
       "wide"      "40"
@@ -1213,6 +1243,11 @@
       "pinCorner"   "0"
       "visible"   "1"
       "enabled"   "1"
+	  "auto_wide_tocontents"	"1"
+	  
+	  "pin_to_sibling"		"DeathsLabel"
+	  "pin_corner_to_sibling"	"0"
+	  "pin_to_sibling_corner"	"1"
     } 
     "MapName"
     {
@@ -1260,7 +1295,7 @@
 	  "fgcolor"			"EllGreen"
       "labelText"   "%assists%"
       "textAlignment"   "west"
-      "xpos"      "273"
+      "xpos"      "0"
       "ypos"      "0"  [$WIN32]
       "zpos"      "3"
       "wide"      "40"
@@ -1269,6 +1304,11 @@
       "pinCorner"   "0"
       "visible"   "1"
       "enabled"   "1"
+	  "auto_wide_tocontents"	"1"
+	  
+	  "pin_to_sibling"		"AssistsLabel"
+	  "pin_corner_to_sibling"	"0"
+	  "pin_to_sibling_corner"	"1"
     }           
     "Destruction"
     {
