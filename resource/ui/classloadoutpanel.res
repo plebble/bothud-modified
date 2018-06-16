@@ -108,6 +108,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
+	
 	"ClassLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -144,6 +145,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
+	
 	"TauntLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -384,6 +386,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -487,7 +490,8 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"border_default"	"ThinDarkGreyBorder"
 		"border_armed"		"ThinDarkGreyBorder"
-
+	}
+	
 	"TauntsExplanation"
 	{
 		"ControlName"	"CExplanationPopup"
@@ -581,6 +585,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

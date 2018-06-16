@@ -3,7 +3,6 @@
 //  ___________
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯
-
 	"healthValue"
 	{
 		"controlName"   "CExLabel"
@@ -20,11 +19,9 @@
 		"labelText"     "%health%" 
 		"textAlignment" "center" 
 	} 
-
 //  _______________
 // | END ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   
-
 	"PlayerStatusHealthImage"
 	{
 		"ControlName" "ImagePanel"

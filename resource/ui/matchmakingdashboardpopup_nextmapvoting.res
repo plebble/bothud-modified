@@ -168,7 +168,6 @@
 				}				
 			} // HideButton
 
-
 			"DescLabel"
 			{
 				"ControlName"	"Label"

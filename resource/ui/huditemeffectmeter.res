@@ -3,7 +3,6 @@
 //  ___________
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯
-
 	HudItemEffectMeter
 	{
 		"fieldName" "HudItemEffectMeter"
@@ -34,12 +33,10 @@
 		"textAlignment" "center"
 		"dulltext"      "0"
 		"brighttext"    "0"
-	}  
-       
+	}    
 //  _______________
 // | END ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-
 	"ItemEffectMeterBG"
 	{
 		"ControlName"     "CTFImagePanel"

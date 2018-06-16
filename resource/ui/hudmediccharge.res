@@ -3,7 +3,6 @@
 //  ___________
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯ 
-
 	"ChargeLabel"
 	{
 		"ControlName"   "CExLabel"
@@ -68,7 +67,7 @@
 		"brighttext"    "0"
 		"font"          "RobotoBold12"
 	}
-	  
+  
 	"ChargeMeter1"
 	{ 
 		"ControlName"   "ContinuousProgressBar"
@@ -87,7 +86,7 @@
 		"dulltext"      "0"
 		"brighttext"    "0"
 	}
-	  
+ 
 	"ChargeMeter2"
 	{ 
 		"ControlName"   "ContinuousProgressBar"
@@ -106,7 +105,7 @@
 		"dulltext"      "0"
 		"brighttext"    "0"
 	}
-	  
+	
 	"ChargeMeter3"
 	{ 
 		"ControlName"   "ContinuousProgressBar"
@@ -125,7 +124,7 @@
 		"dulltext"      "0"
 		"brighttext"    "0"
 	}
-	  
+ 
 	"ChargeMeter4"
 	{ 
 		"ControlName"   "ContinuousProgressBar"
@@ -144,7 +143,7 @@
 		"dulltext"      "0"
 		"brighttext"    "0"
 	}
-	  
+
 	"ResistIconAnchor"
 	{
 		"ControlName" "EditablePanel"
@@ -156,7 +155,7 @@
 		"visible" "1"
 		"enabled" "1"
 	}
-	  
+ 
 	"ResistIcon"
 	{
 		"ControlName" "ImagePanel"
@@ -173,11 +172,9 @@
 		"pin_corner_to_sibling" "1"
 		"pin_to_sibling_corner" "1"
 	}
-
 //  _______________
 // | END ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    
-		 
 	"Background"
 	{
 		"ControlName" "CTFImagePanel"

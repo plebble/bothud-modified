@@ -26,6 +26,7 @@
 			
 			"border"		"TFFatLineBorderBlueBGMoreOpaque"
 		}
+		
 		"BlueBar"
 		{	
 			"ControlName"		"ImagePanel"
@@ -43,6 +44,7 @@
 			"fillcolor_lodef"		"TeamBlue"
 			"PaintBackgroundType"	"0"
 		}
+		
 		"RedScoreBG"
 		{
 			"ControlName"	"EditablePanel"
@@ -58,6 +60,7 @@
 
 			"border"		"TFFatLineBorderRedBGMoreOpaque"
 		}
+		
 		"RedBar"
 		{	
 			"ControlName"		"ImagePanel"
@@ -95,7 +98,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
+		
 		"BlueTeamScore"
 		{
 			"ControlName"		"CExLabel"
@@ -116,6 +120,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 		}
+		
 		"BlueLeaderAvatar"
 		{
 			"ControlName"		"CAvatarImagePanel"
@@ -131,6 +136,7 @@
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
 		}
+		
 		"BlueLeaderAvatarBG"
 		{
 			"ControlName"	"EditablePanel"
@@ -143,7 +149,8 @@
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"bgcolor_override"	"117 107 94 255"
-		}				
+		}
+		
 		"RedTeamLabel"
 		{
 			"ControlName"		"CExLabel"
@@ -163,7 +170,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
+		
 		"RedTeamScore"
 		{
 			"ControlName"		"CExLabel"
@@ -184,6 +192,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 		}
+		
 		"RedLeaderAvatar"
 		{
 			"ControlName"		"CAvatarImagePanel"
@@ -199,6 +208,7 @@
 			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
 		}
+		
 		"RedLeaderAvatarBG"
 		{
 			"ControlName"	"EditablePanel"
@@ -213,6 +223,7 @@
 			"bgcolor_override"	"117 107 94 255"
 		}
 	}
+	
 	"WinPanelBGBorder"
 	{
 		"ControlName"		"EditablePanel"
@@ -228,6 +239,7 @@
 		"border"		"TFFatLineBorderBlueBG"
 		"proportionaltoparent"	"1"
 	}
+	
 	"WinningTeamLabel"
 	{	
 		"ControlName"		"CExLabel"
@@ -247,6 +259,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"AdvancingTeamLabel"
 	{	
 		"ControlName"		"CExLabel"
@@ -266,6 +279,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"WinReasonLabel"
 	{	
 		"ControlName"		"CExLabel"
@@ -285,6 +299,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"DetailsLabel"
 	{	
 		"ControlName"		"CExLabel"
@@ -304,6 +319,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"ShadedBar"
 	{
 		"ControlName"		"ImagePanel"
@@ -322,6 +338,7 @@
 		"fillcolor_lodef"		"EllGrey" //"34 34 34 220"
 		"PaintBackgroundType"	"0"
 	}
+	
 	"Player1Badge"
 	{
 		"ControlName"		"CTFBadgePanel"
@@ -336,6 +353,7 @@
 		"image"			""
 		"scaleImage"		"1"	
 	}
+	
 	"Player1Avatar"
 	{
 		"ControlName"		"CAvatarImagePanel"
@@ -351,6 +369,7 @@
 		"scaleImage"		"1"	
 		"color_outline"		"52 48 45 255"
 	}
+	
 	"Player1Name"
 	{	
 		"ControlName"		"CExLabel"
@@ -370,6 +389,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"Player1Class"
 	{	
 		"ControlName"		"CExLabel"
@@ -389,6 +409,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"Player1Score"
 	{	
 		"ControlName"		"CExLabel"
@@ -408,6 +429,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"Player2Badge"
 	{
 		"ControlName"		"CTFBadgePanel"
@@ -422,6 +444,7 @@
 		"image"			""
 		"scaleImage"		"1"	
 	}
+	
 	"Player2Avatar"
 	{
 		"ControlName"		"CAvatarImagePanel"
@@ -437,6 +460,7 @@
 		"scaleImage"		"1"	
 		"color_outline"		"52 48 45 255"
 	}
+	
 	"Player2Name"
 	{	
 		"ControlName"		"CExLabel"
@@ -456,6 +480,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"Player2Class"
 	{	
 		"ControlName"		"CExLabel"
@@ -475,6 +500,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"Player2Score"
 	{	
 		"ControlName"		"CExLabel"
@@ -494,6 +520,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"Player3Badge"
 	{
 		"ControlName"		"CTFBadgePanel"
@@ -508,6 +535,7 @@
 		"image"			""
 		"scaleImage"		"1"	
 	}
+	
 	"Player3Avatar"
 	{
 		"ControlName"		"CAvatarImagePanel"
@@ -523,6 +551,7 @@
 		"scaleImage"		"1"	
 		"color_outline"		"52 48 45 255"
 	}
+	
 	"Player3Name"
 	{	
 		"ControlName"		"CExLabel"
@@ -542,6 +571,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"Player3Class"
 	{	
 		"ControlName"		"CExLabel"
@@ -561,6 +591,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"Player3Score"
 	{	
 		"ControlName"		"CExLabel"
@@ -601,6 +632,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
+	
 	"KillStreakPlayer1Badge"
 	{
 		"ControlName"		"CTFBadgePanel"
@@ -615,6 +647,7 @@
 		"image"			""
 		"scaleImage"		"1"	
 	}
+	
 	"KillStreakPlayer1Avatar"
 	{
 		"ControlName"		"CAvatarImagePanel"
@@ -630,6 +663,7 @@
 		"scaleImage"		"1"	
 		"color_outline"		"52 48 45 255"
 	}
+	
 	"KillStreakPlayer1Name"
 	{	
 		"ControlName"		"CExLabel"
@@ -648,6 +682,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"KillStreakPlayer1Class"
 	{	
 		"ControlName"		"CExLabel"
@@ -666,6 +701,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
+	
 	"KillStreakPlayer1Score"
 	{	
 		"ControlName"		"CExLabel"

@@ -3,7 +3,6 @@
 //	___________
 // | ELL'S HUD |
 //	¯¯¯¯¯¯¯¯¯¯¯
-
 	"HudPlayerHealth"
 	{
 		"ControlName"			  "EditablePanel"
@@ -18,7 +17,8 @@
 		"HealthBonusPosAdj"		  "0"
 		"HealthDeathWarning"	  "0.5"
 		"HealthDeathWarningColor" "RedSolid"
-	}  
+	}
+	
 	"healthValue"
 	{
 		"controlName"	"CExLabel"
@@ -35,6 +35,7 @@
 		"labelText"		"%health%" 
 		"textAlignment" "center" 
 	} 
+	
 	"healthValueShadow"
 	{
 		"controlName"	"CExLabel"
@@ -50,7 +51,7 @@
 		"font"			"RobotoBold38"
 		"labelText"		"%health%" 
 		"textAlignment" "center" 
-  }
+	}
 //	_______________
 // | END ELL'S HUD |
 //	¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   
@@ -66,7 +67,8 @@
 		"visible"	  "0"
 		"enabled"	  "0"
 		"scaleImage"  "1" 
-	}	
+	}
+	
 	"PlayerStatusHealthImageBG"
 	{
 		"ControlName"  "ImagePanel"
@@ -81,6 +83,7 @@
 		"image"		   "../hud/health_bg"
 		"scaleImage"   "1" 
 	} 
+	
 	"PlayerStatusHealthBonusImage"
 	{
 		"ControlName" "ImagePanel"
@@ -95,6 +98,7 @@
 		"image"		  "../hud/health_over_bg"
 		"scaleImage"  "1" 
 	}
+	
 	"PlayerStatusHealthValue"
 	{
 		"ControlName"	"CExLabel"
@@ -110,7 +114,8 @@
 		"textAlignment" "center"  
 		"font"			"HudClassHealth"
 		"fgcolor"		"TanDark"
-	}	
+	}
+	
 	"PlayerStatusMaxHealthValue"
 	{
 		"ControlName"	"CExLabel"
@@ -128,7 +133,8 @@
 		"textAlignment"	"center"	
 		"font"			"DefaultSmall"
 		"fgcolor"		"TanDark"
-	}	
+	}
+	
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"  "ImagePanel"
@@ -143,7 +149,8 @@
 		"scaleImage"   "1" 
 		"image"		   "../vgui/bleed_drop"
 		"fgcolor"	   "TanDark"
-	}	
+	}
+	
 	"PlayerStatusMilkImage"
 	{
 		"ControlName"  "ImagePanel"
@@ -159,6 +166,7 @@
 		"image"		   "../vgui/bleed_drop"
 		"fgcolor"	   "TanDark"
 	}
+	
 	"PlayerStatusGasImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -175,6 +183,7 @@
 		"image"			"../vgui/covered_in_gas"
 		"fgcolor"		"TanDark"
 	}
+	
 	"PlayerStatusMarkedForDeathImage"
 	{
 		"ControlName" "ImagePanel"
@@ -190,6 +199,7 @@
 		"image"		   "../vgui/marked_for_death"
 		"fgcolor"	   "TanDark"
 	}
+	
 	"PlayerStatusMarkedForDeathSilentImage"
 	{
 		"ControlName" "ImagePanel"
@@ -205,6 +215,7 @@
 		"image"		  "../vgui/marked_for_death"
 		"fgcolor"	  "TanDark"
 	}
+	
 	"PlayerStatus_MedicUberBulletResistImage"
 	{
 		"ControlName" "ImagePanel"
@@ -220,6 +231,7 @@
 		"image"		  "../HUD/defense_buff_bullet_blue"
 		"fgcolor"	  "TanDark"
 	}
+	
 	"PlayerStatus_MedicUberBlastResistImage"
 	{
 		"ControlName" "ImagePanel"
@@ -235,6 +247,7 @@
 		"image"		  "../HUD/defense_buff_explosion_blue"
 		"fgcolor"	  "TanDark"
 	}
+	
 	"PlayerStatus_MedicUberFireResistImage"
 	{
 		"ControlName" "ImagePanel"
@@ -250,6 +263,7 @@
 		"image"		  "../HUD/defense_buff_fire_blue"
 		"fgcolor"	  "TanDark"
 	}
+	
 	"PlayerStatus_MedicSmallBulletResistImage"
 	{
 		"ControlName" "ImagePanel"
@@ -265,6 +279,7 @@
 		"image"		  "../HUD/defense_buff_bullet_blue"
 		"fgcolor"	  "TanDark"
 	}
+	
 	"PlayerStatus_MedicSmallBlastResistImage"
 	{
 		"ControlName" "ImagePanel"
@@ -280,6 +295,7 @@
 		"image"		  "../HUD/defense_buff_explosion_blue"
 		"fgcolor"	  "TanDark"
 	}
+	
 	"PlayerStatus_MedicSmallFireResistImage"
 	{
 		"ControlName" "ImagePanel"
@@ -295,6 +311,7 @@
 		"image"		  "../HUD/defense_buff_fire_blue"
 		"fgcolor"	  "TanDark"
 	}
+	
 	"PlayerStatus_WheelOfDoom"
 	{
 		"ControlName" "ImagePanel"
@@ -310,6 +327,7 @@
 		"image"		  "../signs/death_wheel_whammy"
 		"fgcolor"	  "TanDark"
 	}
+	
 	"PlayerStatus_SoldierOffenseBuff"
 	{
 		"ControlName" "ImagePanel"
@@ -325,6 +343,7 @@
 		"image"		  "../HUD/defense_buff_bullet_blue"
 		"fgcolor"	  "TanDark"
 	}
+	
 	"PlayerStatus_SoldierDefenseBuff"
 	{
 		"ControlName" "ImagePanel"
@@ -340,6 +359,7 @@
 		"image"		  "../HUD/defense_buff_bullet_blue"
 		"fgcolor"	  "TanDark"
 	}
+	
 	"PlayerStatus_SoldierHealOnHitBuff"
 	{
 		"ControlName" "ImagePanel"
@@ -355,6 +375,7 @@
 		"image"		  "../HUD/defense_buff_bullet_blue"
 		"fgcolor"	  "TanDark"
 	}
+	
 	"PlayerStatus_Parachute"
 	{
 		"ControlName" "ImagePanel"
@@ -370,6 +391,7 @@
 		"image"		  ""
 		"fgcolor"	  "TanDark"
 	}
+	
 	"PlayerStatusSlowed"
 	{
 		"ControlName"	"ImagePanel"

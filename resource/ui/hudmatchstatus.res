@@ -105,7 +105,6 @@
 		"fgcolor"				"EllBlack"
 		"proportionaltoparent"	"1"
 
-	
 		if_readymode
 		{
 			"xpos"			"300"
@@ -304,7 +303,7 @@
 		
 		if_match
 		{
-		"visible"		"0"
+			"visible"		"0"
 		}
 	}
 	

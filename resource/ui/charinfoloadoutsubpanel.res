@@ -60,6 +60,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+	
 	"soldier"
 	{
 		"ControlName"		"ImageButton"
@@ -85,6 +86,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+	
 	"pyro"
 	{
 		"ControlName"		"ImageButton"
@@ -136,6 +138,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}	
+	
 	"heavyweapons"
 	{
 		"ControlName"		"ImageButton"
@@ -161,6 +164,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+	
 	"engineer"
 	{
 		"ControlName"		"ImageButton"
@@ -212,6 +216,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+	
 	"sniper"
 	{
 		"ControlName"		"ImageButton"
@@ -237,6 +242,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+	
 	"spy"
 	{
 		"ControlName"		"ImageButton"
@@ -287,7 +293,8 @@
 		"inactiveimage"		"..\hud\backpack_01_grey"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
+	}
+	
 	"ShowBackpackLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -309,6 +316,7 @@
 		"pin_corner_to_sibling"	"4"          
 		"pin_to_sibling_corner"	"6"  
 	}
+	
 	"ShowCraftingButton"
 	{
 		"ControlName"		"ImageButton"
@@ -334,6 +342,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+	
 	"ShowCraftingLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -354,7 +363,8 @@
 		"pin_to_sibling"		"ShowCraftingButton"
 		"pin_corner_to_sibling"	"4"          
 		"pin_to_sibling_corner"	"6"  
-	}	
+	}
+	
 	"ShowArmoryButton"
 	{
 		"ControlName"		"ImageButton"
@@ -379,7 +389,8 @@
 		"inactiveimage"		"catalog_book_gray"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
+	}
+	
 	"ShowArmoryLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -401,6 +412,7 @@
 		"pin_corner_to_sibling"	"4"          
 		"pin_to_sibling_corner"	"6" 
 	}
+	
 	"ShowTradeButton"
 	{
 		"ControlName"		"ImageButton"
@@ -425,7 +437,8 @@
 		"inactiveimage"		"trading_parcel_gray"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
+	}
+	
 	"ShowTradeLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -448,6 +461,7 @@
 		"pin_corner_to_sibling"	"4"          
 		"pin_to_sibling_corner"	"6" 
 	}
+	
 	"ShowPaintkitsButton"
 	{
 		"ControlName"		"ImageButton"
@@ -472,7 +486,8 @@
 		"inactiveimage"		"paintkit_tool_bw"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
+	}
+	
 	"ShowPaintkitsLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -513,6 +528,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 	}
+	
 	"ItemsLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -551,6 +567,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
+	
 	"NoGCLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -569,6 +586,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
+	
 	"SelectLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -587,6 +605,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "EllLightGrey"
 	}
+	
 	"LoadoutChangesLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -617,6 +636,7 @@
 		"zpos"				"500"
 		"visible"			"0"
 	}
+	
 	"backpack_panel"
 	{
 		"ControlName"		"CBackpackPanel"
@@ -747,6 +767,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -762,6 +783,7 @@
 				"scaleImage"	"1"
 			}				
 		}		
+		
 		"PositionLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -780,6 +802,7 @@
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
 		}
+		
 		"NextButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -812,6 +835,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -922,6 +946,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -936,7 +961,8 @@
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
-		}		
+		}	
+		
 		"PrevButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -969,6 +995,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -983,7 +1010,8 @@
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
-		}		
+		}	
+		
 		"PositionLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -1002,6 +1030,7 @@
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
 		}
+		
 		"NextButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1034,6 +1063,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1144,6 +1174,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1159,6 +1190,7 @@
 				"scaleImage"	"1"
 			}				
 		}		
+		
 		"PrevButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1191,6 +1223,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1206,6 +1239,7 @@
 				"scaleImage"	"1"
 			}				
 		}		
+		
 		"PositionLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -1224,6 +1258,7 @@
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
 		}
+		
 		"NextButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1256,6 +1291,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1366,6 +1402,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1380,7 +1417,8 @@
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
-		}		
+		}	
+		
 		"PrevButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1413,6 +1451,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1427,7 +1466,8 @@
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
-		}		
+		}
+		
 		"PositionLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -1446,6 +1486,7 @@
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
 		}
+		
 		"NextButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1478,6 +1519,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1588,6 +1630,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1603,6 +1646,7 @@
 				"scaleImage"	"1"
 			}				
 		}		
+		
 		"PrevButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1635,6 +1679,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1649,7 +1694,8 @@
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
-		}		
+		}	
+		
 		"PositionLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -1668,6 +1714,7 @@
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
 		}
+		
 		"NextButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1700,6 +1747,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1810,6 +1858,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1824,7 +1873,8 @@
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
-		}		
+		}
+		
 		"PrevButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1857,6 +1907,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1871,7 +1922,8 @@
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
-		}		
+		}
+		
 		"PositionLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -1890,6 +1942,7 @@
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
 		}
+		
 		"NextButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1922,6 +1975,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2031,6 +2085,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2045,7 +2100,8 @@
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
-		}		
+		}	
+		
 		"PrevButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -2078,6 +2134,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2092,7 +2149,8 @@
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
-		}		
+		}
+		
 		"PositionLabel"
 		{
 			"ControlName"	"CExLabel"

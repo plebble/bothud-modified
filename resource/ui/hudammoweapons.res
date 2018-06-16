@@ -3,7 +3,6 @@
 //  ___________
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯
-
 	"AmmoInClip"
 	{
 		"ControlName"   "CExLabel"
@@ -105,11 +104,9 @@
 		"textAlignment" "center"    
 		"labelText"     "%Ammo%"
 	}
-
 //  _______________
 // | END ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-
 	"HudWeaponAmmoBG"
 	{
 		"ControlName"    "CTFImagePanel"

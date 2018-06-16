@@ -132,6 +132,7 @@
 		"border_default"	"ThinDarkGreyBorder"
 		"border_armed"		"ThinDarkGreyBorder"
 	}
+	
 	"MapInfoContinue"
 	{
 		"ControlName"	"CTFButton"
@@ -150,6 +151,7 @@
 		"font"			"Surface12Outlined"
 		"fgcolor"		"Black"
 	}
+	
 	"MapInfoWatchIntro"
 	{
 		"ControlName"	"CExButton"

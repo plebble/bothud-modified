@@ -3,7 +3,6 @@
 //  ___________
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯
-
 	"DisguiseNameLabel"
 	{ 
 		"ControlName"   "CExLabel"
@@ -84,11 +83,9 @@
 		"HealthDeathWarningColor" "RedSolid"
 		"TextColor"               "EllWhite"
 	}   
-	
 //  _______________
 // | END ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-
 	"itemmodelpanel"
 	{
 		"ControlName"          "CEmbeddedItemModelPanel"

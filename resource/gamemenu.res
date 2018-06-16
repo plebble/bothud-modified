@@ -7,6 +7,7 @@
 		"subimage"		"glyph_server_browser"
 		"OnlyAtMenu"	"1"
 	}
+	
 	"ChangeServerButton"
 	{
 		"label"			"SERVERS"
@@ -14,6 +15,7 @@
 		"subimage"		"glyph_server_browser"
 		"OnlyInGame"	"1"
 	}
+	
 	"DemoUI"
 	{
 		"label"			"DEMOUI"
@@ -27,12 +29,14 @@
 //		"command"		"OpenCreateMultiplayerGameDialog"
 //		"OnlyAtMenu"	"1"
 //	}
+
 	"GeneralStoreButton"
 	{
 		"label"			"STORE"
 		"command"		"engine open_store"
 		"subimage"		"glyph_store"
 	}
+	
 	"CharacterSetupButton"
 	{
 		"label"			"ITEMS"
@@ -50,6 +54,7 @@
 		"OnlyInGame" "1"
 		"tooltip" "#MMenu_CallVote"
 	}
+	
 	"MutePlayersButton"
 	{
 		"label"			""
@@ -58,6 +63,7 @@
 		"OnlyInGame" "1"
 		"tooltip" "#MMenu_MutePlayers"
 	}
+	
 	"ReportPlayerButton"
 	{
 		"label"			""
@@ -66,6 +72,7 @@
 		"subimage"		"glyph_alert"
 		"tooltip"		"#MMenu_ReportPlayer"
 	}
+	
 	"AchievementsButton"
 	{
 		"label"			""

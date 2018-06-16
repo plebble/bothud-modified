@@ -3,7 +3,6 @@
 //  ___________
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯ 
-
 	//Stickies
 	"ChargeMeter"
 	{ 

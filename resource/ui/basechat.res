@@ -16,6 +16,7 @@
 		"tall"                "90"
 		"PaintBackgroundType" "0"
 	}
+	
 	ChatInputLine
 	{
 		"ControlName"         "EditablePanel"
@@ -28,6 +29,7 @@
 		"tall"                "12"
 		"PaintBackgroundType" "0"
 	}
+	
 	"HudChatHistory"
 	{
 		"ControlName"   "RichText"

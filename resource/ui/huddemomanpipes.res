@@ -3,7 +3,6 @@
 //  ___________
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯
-
 	"ChargeMeter"//Targe
 	{ 
 		"ControlName"   "ContinuousProgressBar"
@@ -95,12 +94,10 @@
 			"font"          "RobotoBold24"
 			"fgcolor"       "EllBlack"
 		} 
-	}
-	
+	}	
 //  _______________
 // | END ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-
 	"background"
 	{
 		"ControlName"     "CTFImagePanel"

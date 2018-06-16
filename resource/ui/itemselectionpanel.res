@@ -40,6 +40,7 @@
 			"deferred_description"	"1"
 			"deferred_icon"			"1"
 		}
+		
 		"modelpanels_kv"
 		{
 			"ControlName"	"CItemModelPanel"
@@ -74,6 +75,7 @@
 			
 			"use_item_sounds"	"1"
 		}
+		
 		"duplicatelabels_kv"
 		{
 			"font"			"ItemFontNameSmallest"
@@ -106,6 +108,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
+	
 	"ClassLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -192,7 +195,8 @@
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
 		"tileVertically" "0"
-	}				
+	}
+	
 	"BottomLine"
 	{
 		"ControlName"	"ImagePanel"
@@ -316,6 +320,7 @@
 		"border_default"	"ThinDarkGreyBorder"
 		"border_armed"		"ThinLightGreyBorder"
 	}
+	
 	"ShowSelection"
 	{
 		"ControlName"	"CExButton"

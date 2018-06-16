@@ -3,7 +3,6 @@
 //  ___________
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯
-
 	"CDamageAccountPanel"
 	{
 		"fieldName"           "CDamageAccountPanel"
@@ -33,6 +32,7 @@
 		"fgcolor" 			"EllWhite"
 		"font" 				"RobotoBold20"
 	}
+	
 	"DamageAccountValueShadow"
 	{
 		"ControlName" 		"CExLabel"

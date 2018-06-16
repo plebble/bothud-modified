@@ -45,7 +45,8 @@
 		"fillcolor"				"EllGrey"
 		"fillcolor_lodef"		"EllGrey"
 		"PaintBackgroundType"	"0"
-	}				
+	}	
+	
 	"BackgroundFooter"
 	{
 		"ControlName"	"ImagePanel"
@@ -60,7 +61,8 @@
 		"fillcolor"				"EllGrey"
 		"fillcolor_lodef"		"EllGrey"
 		"PaintBackgroundType"	"0"
-	}				
+	}
+	
 	"FooterLine"
 	{
 		"ControlName"	"ImagePanel"

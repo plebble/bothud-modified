@@ -154,7 +154,7 @@
 		"labelText"		""
 		"image"			"../hud/cart_point_neutral"
 		"scaleImage"	"1"	
-												
+	
 		"if_multiple_trains"
 		{
 			"xpos"			"61"
@@ -176,7 +176,7 @@
 		"tall"		"75"		
 		"visible"		"1"
 		"enabled"		"1"
-				
+
 		"if_multiple_trains"
 		{
 			"ypos"			"48"

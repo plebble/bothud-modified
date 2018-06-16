@@ -171,6 +171,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
+	
 	"ClassLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -328,7 +329,6 @@
 		"defaultSelectionBG2Color_override" "0 0 0 0"
 	}	
 
-	
 	"mouseoveritempanel"
 	{
 		"ControlName"	"CItemModelPanel"
@@ -487,7 +487,8 @@
 		"Command"		""
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
+	}	
+	
 	"DragToPrevPageButton"
 	{
 		"ControlName"	"CExButton"
@@ -536,7 +537,6 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}		
-
 
 	"ShowExplanationsButton"
 	{
@@ -656,6 +656,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -670,7 +671,8 @@
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
-		}		
+		}
+		
 		"PositionLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -689,6 +691,7 @@
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
 		}
+		
 		"NextButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -721,6 +724,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -831,6 +835,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -845,7 +850,8 @@
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
-		}		
+		}
+		
 		"PrevButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -878,6 +884,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -892,7 +899,8 @@
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
-		}		
+		}	
+		
 		"PositionLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -911,6 +919,7 @@
 			"enabled"		"1"
 			"fgcolor_override" "200 80 60 255"
 		}
+		
 		"NextButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -943,6 +952,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1053,6 +1063,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1067,7 +1078,8 @@
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
-		}		
+		}	
+		
 		"PrevButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1100,6 +1112,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1115,6 +1128,7 @@
 				"scaleImage"	"1"
 			}				
 		}
+		
 		"NextButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1147,6 +1161,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1161,7 +1176,8 @@
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
-		}		
+		}
+		
 		"PositionLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -1275,6 +1291,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1289,7 +1306,8 @@
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
-		}		
+		}
+		
 		"PrevButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1322,6 +1340,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1336,7 +1355,8 @@
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
-		}		
+		}
+		
 		"NextButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1369,6 +1389,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1383,7 +1404,8 @@
 				"image"			"blog_forward"
 				"scaleImage"	"1"
 			}				
-		}	
+		}
+		
 		"PositionLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -1496,6 +1518,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1510,7 +1533,8 @@
 				"image"			"close_button"
 				"scaleImage"	"1"
 			}				
-		}		
+		}
+		
 		"PrevButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1543,6 +1567,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1557,7 +1582,8 @@
 				"image"			"blog_back"
 				"scaleImage"	"1"
 			}				
-		}		
+		}	
+		
 		"PositionLabel"
 		{
 			"ControlName"	"CExLabel"

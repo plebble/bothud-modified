@@ -19,6 +19,7 @@
 		"button_x_offset"	"-285"
 		"button_y"			"120"
 		"button_y_delta"	"5"
+		
 		"button_kv"
 		{
 			"xpos"			"0"
@@ -60,6 +61,7 @@
 				
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"235 226 202 255"
+				
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
@@ -534,20 +536,20 @@
 	
 	"TopRightContainer"
 	{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"TopRightContainer"
-			"xpos"			"c95"
-			"ypos"			"26"
-			"zpos"			"0"
-			"wide"			"212"
-			"tall"			"36"
-			"autoResize"	"3"
-			"pinCorner"		"0"
-			"visible"		"0"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"border"		"MainMenuBGBorder"
-			"PaintBackgroundType"	"2"
+		"ControlName"	"EditablePanel"
+		"fieldName"		"TopRightContainer"
+		"xpos"			"c95"
+		"ypos"			"26"
+		"zpos"			"0"
+		"wide"			"212"
+		"tall"			"36"
+		"autoResize"	"3"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"border"		"MainMenuBGBorder"
+		"PaintBackgroundType"	"2"
 	}
 
 	"Notifications_ShowButtonPanel"
@@ -945,6 +947,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1170,6 +1173,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1218,6 +1222,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1333,6 +1338,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2025,6 +2031,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
 		"image_drawcolor"	"235 226 202 255"
+		
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -2090,7 +2097,6 @@
 			"image_drawcolor"	"150 150 150 255"
 			"image_armedcolor"	"150 150 150 255"
 
-			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2107,6 +2113,7 @@
 			}				
 		}
 	}
+	
 	"MutePlayersButton"
 	{
 		"ControlName"	"EditablePanel"
@@ -2411,6 +2418,7 @@
 				
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"235 226 202 255"
+				
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
@@ -2459,6 +2467,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2579,6 +2588,7 @@
 				
 				"image_drawcolor"	"117 107 94 255"
 				"image_armedcolor"	"235 226 202 255"
+				
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
@@ -2627,6 +2637,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2739,6 +2750,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2851,6 +2863,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2963,6 +2976,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -3075,6 +3089,7 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -3104,7 +3119,6 @@
 		"visible"		"1"
 		"PaintBackgroundType"	"0"
 
-			
 		"EventImage"
 		{
 			"ControlName"			"ImagePanel"
@@ -3120,7 +3134,6 @@
 			"scaleImage"			"1"
 			"proportionaltoparent"	"1"
 		}	
-
 
 		"Background"
 		{
@@ -3285,40 +3298,44 @@
 						"item"		 	"Unused Operation Tough Break Pass"
 						"show_market"	"0"
 					}
+					
 					"1"
 					{
 						"item"		"Tough Break Case 01 Pyroland"
 						"show_market"	"1"
 					}
+					
 					"2"
 					{
 						"item"		"Tough Break Case 02 Warbirds"
 						"show_market"	"1"
 					}
+					
 					"3"
 					{
 						"item"		"Tough Break Key"
 						"show_market"	"0"
 					}
+					
 					"4"
 					{
 						"item"		"Tough Break Cosmetic Case"
 						"show_market"	"1"
 					}
+					
 					"5"
 					{
 						"item"		"Tough Break Cosmetic Key"
 						"show_market"	"0"
 					}
+					
 					"5"
 					{
 						"item"		"Taunt: Aerobic Taunt"
 						"show_market"	"0"
 					}
-					
 				}
 			}
-
 		} // Background
 
 		"NewImage"
@@ -3341,7 +3358,6 @@
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
 			"pin_to_sibling_corner"	"PIN_TOPRIGHT"	
 		}
-
 	} // EventPromo
 
 	"icon_generator"

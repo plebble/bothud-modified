@@ -3,7 +3,6 @@
 //  ___________
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯ 
-
 	"FreezePanel"
 	{
 		"ControlName"	"CTFFreezePanel"
@@ -189,6 +188,7 @@
 				"draw_corner_width"		"6"				// screen size of the corners ( and sides ), proportional
 				"draw_corner_height" 	"6"	
 			}
+			
 			"NemesisIcon"
 			{
 				"ControlName"	"ImagePanel"
@@ -202,7 +202,8 @@
 				"enabled"		"0"
 				"image"			"../hud/leaderboard_nemesis_freezecam"
 				"scaleImage"	"1"	
-			}		
+			}	
+			
 			"NemesisLabel"
 			{	
 				"ControlName"	"Label"
@@ -220,6 +221,7 @@
 				"labelText"		"%nemesisname%"
 				"textAlignment"	"west"
 			}
+			
 			"NemesisLabel2"
 			{	
 				"ControlName"	"Label"
@@ -294,12 +296,10 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
-	}
-	
+	}	
 //  _______________
 // | END ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ 
-
 	"FreezePanelBase"	[$X360]
 	{
 		"ControlName"	"EditablePanel"
@@ -338,6 +338,7 @@
 				"image"			"../hud/freezecam_black_bg"
 				"scaleImage"	"1"	
 			}
+			
 			"NemesisIcon"
 			{
 				"ControlName"	"ImagePanel"
@@ -351,7 +352,8 @@
 				"enabled"		"1"
 				"image"			"../hud/leaderboard_nemesis_freezecam"
 				"scaleImage"	"1"	
-			}		
+			}
+			
 			"NemesisLabel"
 			{	
 				"ControlName"	"Label"
@@ -483,6 +485,7 @@
 			"image"			"../hud/freezecam_black_bg"
 			"scaleImage"	"1"
 		}
+		
 		"ScreenshotIcon"
 		{
 			"ControlName"	"ImagePanel"
@@ -496,7 +499,8 @@
 			"enabled"		"0"
 			"image"			"../hud/ico_camera"
 			"scaleImage"	"1"	
-		}		
+		}
+		
 		"ScreenshotLabel"
 		{	
 			"ControlName"	"Label"

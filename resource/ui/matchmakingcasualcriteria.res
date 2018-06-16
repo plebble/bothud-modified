@@ -80,6 +80,7 @@
 			"image_drawcolor"	"150 150 150 255"
 			"image_armedcolor"	"150 150 150 255"
 			"border_default"			"ThinDarkGreyBorder"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -124,6 +125,7 @@
 			"image_drawcolor"	"150 150 150 255"
 			"image_armedcolor"	"150 150 150 255"
 			"border_default"			"ThinDarkGreyBorder"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

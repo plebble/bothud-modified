@@ -3,7 +3,6 @@
 //  ___________
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯ 
-
 	"CHudAccountPanel"
 	{
 		"delta_item_x"       "0"
@@ -36,11 +35,9 @@
 		"font"          "RobotoBold24"
 		"fgcolor"       "EllWhite"
 	}
-
 //  _______________
 // | END ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  
- 
 	"AccountBG"
 	{
 		"ControlName"    "CTFImagePanel"

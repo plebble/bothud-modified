@@ -17,32 +17,32 @@
 
 Scheme
 {
-   Colors
-   {
-      //Controlled by colors.res in scheme
-   }
+	Colors
+	{
+		//Controlled by colors.res in scheme
+	}
 
-   BaseSettings
-   {
-      //Controlled by basesettings.res in scheme
-   }
+	BaseSettings
+	{
+		//Controlled by basesettings.res in scheme
+	}
 
-   BitmapFontFiles
-   {
-   }
+	BitmapFontFiles
+	{
+	}
 
-   Fonts
-   {
-      //Controlled by fonts.res in scheme
-   }
+	Fonts
+	{
+		//Controlled by fonts.res in scheme
+	}
 
-   Borders
-   {
-      //Controlled by borders.res in scheme
-   }
+	Borders
+	{
+	//Controlled by borders.res in scheme
+	}
 
-   CustomFontFiles
-   {
-      //Controlled by fonts.res in scheme
-   }
+	CustomFontFiles
+	{
+		//Controlled by fonts.res in scheme
+	}
 }

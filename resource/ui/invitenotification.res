@@ -32,7 +32,6 @@
 		"ControlName"	"CAutoFittingLabel"
 		"fieldName"		"Text"
 		
-
 		if_incoming
 		{
 			"xpos"			"rs1-5"
@@ -88,7 +87,6 @@
 			"visible"		"0"
 		}
 
-		
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 		"alpha"			"200"
@@ -107,7 +105,7 @@
 		"wide"			"80"
 		"zpos"			"100"
 		"tall"			"15"
-				
+	
 		"visible"		"1"
 
 		"enabled"		"1"
@@ -162,7 +160,6 @@
 		"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
-
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

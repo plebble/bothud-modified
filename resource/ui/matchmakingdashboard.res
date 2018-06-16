@@ -374,10 +374,12 @@
 					{
 						"font"	"RobotoBold16" // TF2 Build 11
 					}
+					
 					"1"
 					{
 						"font"	"RobotoBold14" // TF2 Build 10
 					}
+					
 					"2"
 					{
 						"font"	"RobotoBold12" // TF2 Build 9
@@ -419,6 +421,7 @@
 			
 				"image_drawcolor"	"150 150 150 255"
 				"image_armedcolor"	"200 80 60 255"
+				
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
@@ -469,6 +472,7 @@
 			
 				"image_drawcolor"	"150 150 150 255"
 				"image_armedcolor"	"200 80 60 255"
+				
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
@@ -589,7 +593,6 @@
 			}
 		}
 
-		
 		"QuitButton"
 		{
 			"ControlName"	"CExImageButton"
