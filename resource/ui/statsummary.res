@@ -207,27 +207,43 @@
 			"fgcolor_override" "137 191 60 255"
 		}
 	}
+	
+	"Anchor"
+	{	
+		"ControlName"			"ImagePanel"
+		"fieldName"				"Anchor"
+		"xpos"					"cs-0.5"
+		"ypos"					"cs-0.5"
+		"zpos"					"0"
+		"wide"					"0"
+		"tall"					"0"
+		"autoResize"			"0"
+		"pinCorner"				"0"
+		"visible"				"0"
+		"enabled"				"0"
+	}
 
 	"OnYourWayLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"OnYourWayLabel"
-		"font"			"RobotoBold20"
-		"labelText"		"#LoadingMap"
+		"font"			"RobotoBold14"
+		"labelText"		"Loading"
 		"textAlignment"		"center"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"110"
 		"wide"			"285"
-		"tall"			"35"
+		"tall"			"15"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override"	"EllLightGrey"
+		"auto_wide_tocontents"	"1"
 		
 		"pin_to_sibling"		"MapLabel"
-		"pin_corner_to_sibling"	"3"
+		"pin_corner_to_sibling"	"2"
 		"pin_to_sibling_corner"	"0"
 	}	
 	
@@ -238,16 +254,21 @@
 		"font"			"RobotoBold32"
 		"labelText"		"%maplabel%"
 		"textAlignment"		"center"
-		"xpos"			"cs-0.5"
-		"ypos"			"cs-0.5"
+		"xpos"			"0"
+		"ypos"			"30"
 		"zpos"			"110"
 		"wide"			"350"
-		"tall"			"35"
+		"tall"			"30"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override"	"EllLightGrey"
+		"auto_wide_tocontents"	"1"
+		
+		"pin_to_sibling"		"Anchor"
+		"pin_corner_to_sibling"	"4"
+		"pin_to_sibling_corner"	"0"
 	}
 	
 	"MapType"
@@ -261,16 +282,17 @@
 		"ypos"			"0"
 		"zpos"			"110"
 		"wide"			"350"
-		"tall"			"35"
+		"tall"			"15"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override"	"EllLightGrey"
+		"auto_wide_tocontents"	"1"
 		
 		"pin_to_sibling"		"MapLabel"
 		"pin_corner_to_sibling"	"1"
-		"pin_to_sibling_corner"	"2"
+		"pin_to_sibling_corner"	"3"
 	}
 	
 	"StatData"
