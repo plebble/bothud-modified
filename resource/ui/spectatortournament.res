@@ -205,13 +205,31 @@
 		}
 	}
 	
+	"Anchor"
+	{	
+		"ControlName"			"ImagePanel"
+		"fieldName"				"Anchor"
+		"xpos"					"cs-0.5"
+		"ypos"					"348"
+		"zpos"					"5"
+		"wide"					"100"
+		"tall"					"24"
+		"autoResize"			"0"
+		"pinCorner"				"0"
+		"visible"				"0"
+		"enabled"				"1"
+		"tabPosition"			"0"	
+		"fillcolor"				"EllGrey"
+		"PaintBackgroundType"	"0"
+	}	
+	
 	"ReinforcementsLabel"
 	{
 		"ControlName"      "CExLabel"
 		"fieldName"        "ReinforcementsLabel"
 		"xpos"             "0"  
-		"ypos"             "348"
-		"wide"             "f0"
+		"ypos"             "0"
+		"wide"             "600"
 		"tall"             "24"
 		"autoResize"       "0"
 		"pinCorner"        "0"
@@ -220,7 +238,17 @@
 		"labelText"        "#game_respawntime_in_secs"
 		"textAlignment"    "center"
 		"font"             "RobotoBold22"
+		
 		"fgcolor_override" "EllWhite"
+		"bgcolor_override"	"EllTransparentGrey"
+		"auto_wide_tocontents"	"1"
+		
+		"textinsetx"	"12"
+		"use_proportional_insets"	"1"
+		
+		"pin_to_sibling"	"Anchor"
+		"pin_corner_to_sibling"		"4"
+		"pin_to_sibling_corner"		"4"
 	}
 //  _______________
 // | END ELL'S HUD |
