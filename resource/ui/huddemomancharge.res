@@ -10,7 +10,7 @@
 		"fieldName"     "ChargeMeter"
 		"font"          "RobotoBold12"
 		"xpos"          "c-32"
-		"ypos"          "387"
+		"ypos"          "367"
 		"zpos"          "1"
 		"wide"          "64"
 		"tall"          "6"       

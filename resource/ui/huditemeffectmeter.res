@@ -9,7 +9,7 @@
 		"visible"   "1"
 		"enabled"   "1"
 		"xpos"      "c-48"
-		"ypos"      "387"
+		"ypos"      "367"
 		"wide"      "96"
 		"tall"      "6"
 		"MeterFG"   "EllWhite"
