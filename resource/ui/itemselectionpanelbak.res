@@ -106,7 +106,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "AlertRed"
+		"fgcolor_override" "200 80 60 255"
 	}
 	
 	"ClassLabel"
@@ -247,7 +247,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fgcolor_override" "AlertRed"
+		"fgcolor_override" "200 80 60 255"
 	}
 	
 	"CancelButton"
@@ -298,8 +298,6 @@
 		"enabled"		"1"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"			"EllLightGrey"
-		"fgcolor_override"	"EllLightGrey"
 	}	
 	
 	"ShowBackpack"
@@ -325,12 +323,8 @@
 		"Command"		"show_backpack"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"border_default"			"ThinDarkGreyBorder"
-		"border_armed"				"ThinDarkGreyBorder"
-		"armedBgColor_override"		"EllDarkGrey"
-		"armedFgColor_override"		"EllLightGrey"
-		"depressedBgColor_override"	"EllDarkGrey"
-		"depressedFgColor_override"	"EllLightGrey"
+		"border_default"	"ThinDarkGreyBorder"
+		"border_armed"		"ThinLightGreyBorder"
 	}
 	
 	"ShowSelection"
@@ -356,12 +350,8 @@
 		"Command"		"show_selection"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"border_default"			"ThinDarkGreyBorder"
-		"border_armed"				"ThinDarkGreyBorder"
-		"armedBgColor_override"		"EllDarkGrey"
-		"armedFgColor_override"		"EllLightGrey"
-		"depressedBgColor_override"	"EllDarkGrey"
-		"depressedFgColor_override"	"EllLightGrey"
+		"border_default"	"ThinDarkGreyBorder"
+		"border_armed"		"ThinLightGreyBorder"
 	}
 	
 	"PrevPageButton"
@@ -386,12 +376,8 @@
 		"Command"		"prevpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"border_default"			"ThinDarkGreyBorder"
-		"border_armed"				"ThinDarkGreyBorder"
-		"armedBgColor_override"		"EllDarkGrey"
-		"armedFgColor_override"		"EllLightGrey"
-		"depressedBgColor_override"	"EllDarkGrey"
-		"depressedFgColor_override"	"EllLightGrey"
+		"border_default"	"ThinDarkGreyBorder"
+		"border_armed"		"ThinLightGreyBorder"
 	}		
 	
 	"CurPageLabel"
@@ -410,7 +396,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "AlertRed"
+		"fgcolor_override" "200 80 60 255"
 	}
 	
 	"NextPageButton"
@@ -435,12 +421,8 @@
 		"Command"		"nextpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"border_default"			"ThinDarkGreyBorder"
-		"border_armed"				"ThinDarkGreyBorder"
-		"armedBgColor_override"		"EllDarkGrey"
-		"armedFgColor_override"		"EllLightGrey"
-		"depressedBgColor_override"	"EllDarkGrey"
-		"depressedFgColor_override"	"EllLightGrey"
+		"border_default"	"ThinDarkGreyBorder"
+		"border_armed"		"ThinLightGreyBorder"
 	}		
 	
 	"mouseoveritempanel"

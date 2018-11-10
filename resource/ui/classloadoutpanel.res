@@ -42,7 +42,7 @@
 			"tall"			"70"
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 0"
-			"noitem_textcolor"		"117 107 94 255"
+			"noitem_textcolor"		"20 20 20 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
 			
@@ -224,7 +224,7 @@
 		"fieldName"		"mouseoveritempanel"
 		"xpos"			"c-70"
 		"ypos"			"270"
-		"zpos"			"100"
+		"zpos"			"300"
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"

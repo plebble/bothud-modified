@@ -265,6 +265,16 @@ Scheme
 				"antialias"   "1"
 			}
 		}
+		
+		"HudFontSmallestBold"
+		{	
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
 	}
 		
 	CustomFontFiles

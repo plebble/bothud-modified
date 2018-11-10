@@ -946,7 +946,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"AlertRed"
 			
 			"SubImage"
 			{
@@ -1287,14 +1287,15 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_Panel"
 		"xpos"			"c0"
-		"ypos"			"102"
+		"ypos"			"62"
 		"zpos"			"10"
 		"wide"			"210"
-		"tall"			"80"
+		"tall"			"50"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		"paintbackground"	"0"
-		"border"		"MainMenuHighlightBorder"
+		"paintbackground"	"1"
+		"border"		"ThinDarkGreyBorder"
+		"bgcolor_override"	"EllGrey"
 
 		"navUp"			"MOTD_ShowButtonPanel"
 		"navDown"		"SettingsButton"
@@ -1332,12 +1333,12 @@
 
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "EllLightGrey"
+			"armedFgColor_override" "EllDarkGrey"
+			"depressedFgColor_override" "EllDarkGrey"
 			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_drawcolor"	"120 120 120 255"
+			"image_armedcolor"	"20 20 20 255"
 			
 			"SubImage"
 			{
@@ -1359,7 +1360,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Notifications_TitleLabel"
-			"font"			"HudFontSmallBold"
+			"font"			"RobotoBold22"
 			"labelText"		"%notititle%"
 			"textAlignment"	"north-west"
 			"xpos"			"12"
@@ -1370,7 +1371,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"LabelDark"
+			"fgcolor"		"EllLightGrey"
+			"fgcolor_override"		"EllLightGrey"
 			"wrap"			"1"
 		}
 		
@@ -2466,7 +2468,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"AlertRed"
 			
 			"SubImage"
 			{
@@ -2636,7 +2638,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"AlertRed"
 			
 			"SubImage"
 			{
@@ -2749,7 +2751,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"AlertRed"
 			
 			"SubImage"
 			{
@@ -2862,7 +2864,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"AlertRed"
 			
 			"SubImage"
 			{
@@ -2975,7 +2977,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"AlertRed"
 			
 			"SubImage"
 			{
@@ -3088,7 +3090,7 @@
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			"image_armedcolor"	"AlertRed"
 			
 			"SubImage"
 			{
