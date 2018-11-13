@@ -69,15 +69,15 @@
 		"enabled"       "1"
 		"labelText"     "%targetdata%"
 		"textAlignment" "west"
-		"fgcolor"       "EllCyan"
+		"fgcolor"       "EllLightGrey"
 	} 
 	
 	"AmmoIcon"
 	{
 		"ControlName" "ImagePanel"
 		"fieldName"   "AmmoIcon"
-		"xpos"        "55"
-		"ypos"        "31"
+		"xpos"        "0"
+		"ypos"        "0"
 		"zpos"        "1"
 		"wide"        "10"
 		"tall"        "10"
@@ -85,6 +85,10 @@
 		"enabled"     "1"
 		"image"       "../hud/leaderboard_class_heavy"
 		"scaleImage"  "1"
+		
+		"pin_to_sibling"		"TargetDataLabel"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"1"
 	}
 	
 	"BackGround"
