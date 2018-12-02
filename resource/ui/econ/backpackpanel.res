@@ -425,8 +425,8 @@
 		"xpos"			"c195"
 		"ypos"			"290"
 		"zpos"			"1"
-		"wide"			"20"
-		"tall"			"20"
+		"wide"			"21"
+		"tall"			"21"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -440,18 +440,13 @@
 		"Command"		"prevpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
-		"defaultBgColor_override"	"EllGrey"
-		"armedBgColor_override"		"EllDarkGrey"
-		"depressedBgColor_override"	"EllDarkGrey"
-		
-		"defaultFgColor_override"	"EllLightGrey"
-		"armedFgColor_override" 	"EllLightGrey"
-		"depressedFgColor_override" "EllLightGrey"
-		
 		"border_default"			"ThinDarkGreyBorder"
-		"border_armed" 				"ThinDarkGreyBorder"
-	}		
+		"border_armed"				"ThinDarkGreyBorder"
+		"armedBgColor_override"		"EllDarkGrey"
+		"armedFgColor_override"		"EllLightGrey"
+		"depressedBgColor_override"	"EllDarkGrey"
+		"depressedFgColor_override"	"EllLightGrey"
+	}
 	
 	"CurPageLabel"
 	{
@@ -479,14 +474,14 @@
 		"xpos"			"c265"
 		"ypos"			"290"
 		"zpos"			"1"
-		"wide"			"20"
-		"tall"			"20"
+		"wide"			"21"
+		"tall"			"21"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"&D"
+		"labelText"		"&E>"
 		"font"			"RobotoBold18"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -494,18 +489,13 @@
 		"Command"		"nextpage"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		
-		"defaultBgColor_override"	"EllGrey"
-		"armedBgColor_override"		"EllDarkGrey"
-		"depressedBgColor_override"	"EllDarkGrey"
-		
-		"defaultFgColor_override"	"EllLightGrey"
-		"armedFgColor_override" 	"EllLightGrey"
-		"depressedFgColor_override" "EllLightGrey"
-		
 		"border_default"			"ThinDarkGreyBorder"
-		"border_armed" 				"ThinDarkGreyBorder"
-	}		
+		"border_armed"				"ThinDarkGreyBorder"
+		"armedBgColor_override"		"EllDarkGrey"
+		"armedFgColor_override"		"EllLightGrey"
+		"depressedBgColor_override"	"EllDarkGrey"
+		"depressedFgColor_override"	"EllLightGrey"
+	}	
 	
 	"DragToNextPageButton"
 	{

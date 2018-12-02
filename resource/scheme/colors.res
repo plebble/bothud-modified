@@ -3,7 +3,7 @@ Scheme
 	Colors
 	{
 		"EllBlack"            "0 0 0 255"
-		"EllCyan"             "0 190 255 255"
+		"EllCyan"             "49 140 231 255" //"0 190 255 255"
 		"EllGreen"            "0 180 0 255"
 		"EllPink"             "215 0 128 255"
 		"EllTransparentBlack" "0 0 0 220"
