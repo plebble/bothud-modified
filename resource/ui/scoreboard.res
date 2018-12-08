@@ -172,14 +172,19 @@
 		"font"          "RobotoBold14"
 		"labelText"     "%server%"
 		"textAlignment" "center"
-		"xpos"          "c0" 
-		"ypos"          "467" 
+		"xpos"          "-4" 
+		"ypos"          "0" 
 		"zpos"          "2"
-		"wide"          "384"
+		"wide"          "1"
 		"tall"          "13"
 		"visible"       "1"
 		"enabled"       "1"
 		"fgcolor"       "EllWhite"
+		"auto_wide_tocontents"	"1"
+
+		"pin_to_sibling"		"TeamsBG"
+		"pin_corner_to_sibling"	"1"
+		"pin_to_sibling_corner"	"1"
 
 		if_mvm
 		{
@@ -361,15 +366,20 @@
 		"fieldName"     "Spectators"
 		"font"          "RobotoBold14"
 		"labelText"     "%spectators%"
-		"textAlignment" "west"
-		"xpos"          "0" 
+		"textAlignment" "east"
+		"xpos"          "-4" 
 		"ypos"          "0" 
 		"zpos"			"2"
-		"wide"          "f0"
+		"wide"          "1"
 		"tall"          "13"
 		"visible"       "1"
 		"enabled"       "1"
 		"fgcolor"       "EllWhite"
+		"auto_wide_tocontents"	"1"
+
+		"pin_to_sibling"		"SpecBG"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"0"
 
 		if_mvm
 		{
