@@ -53,7 +53,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"RobotoBold22"
+		"font"			"AFont22"
 		"fgcolor"		"EllLightGrey"
 	}	
 
@@ -69,7 +69,7 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"TFTextMessage"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"c-125"
 		"ypos"			"140"
 		"zpos"			"1"
@@ -122,7 +122,7 @@
 		"wrap"			"0"
 		"command"		"okay"
 		"default"		"1"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"border_default"	"ThinDarkGreyBorder"
 		"border_armed"		"ThinDarkGreyBorder"
 	}

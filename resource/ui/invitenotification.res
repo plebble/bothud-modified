@@ -51,22 +51,22 @@
 		{
 			"1"
 			{
-				"font"			"RobotoBold10" // Secondary 10
+				"font"			"AFont10" // Secondary 10
 			}
 
 			"2"
 			{
-				"font"			"RobotoBold9" // Secondary 9
+				"font"			"AFont9" // Secondary 9
 			}
 
 			"3"
 			{
-				"font"			"RobotoBold8" // Secondary 8
+				"font"			"AFont8" // Secondary 8
 			}
 
 			"4"
 			{
-				"font"			"RobotoBold7" // Secondary 7
+				"font"			"AFont7" // Secondary 7
 			}
 		}
 	}
@@ -110,7 +110,7 @@
 
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -150,7 +150,7 @@
 
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

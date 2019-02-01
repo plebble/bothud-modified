@@ -35,7 +35,7 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "BlueTeamLabel"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 		"labelText"     "%blueteamname%"
 		"textAlignment" "west"
 		"xpos"          "999999" //"c-191" 
@@ -57,7 +57,7 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "BlueTeamScore"
-		"font"          "RobotoBold14"
+		"font"          "AFont14"
 		"labelText"     "%blueteamscore%"
 		"textAlignment" "center"
 		"xpos"          "c-148" 
@@ -80,7 +80,7 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "BlueTeamPlayerCount"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 		"labelText"     "%blueteamplayercount%"
 		"textAlignment" "east"
 		"xpos"          "c-152" 
@@ -102,7 +102,7 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "RedTeamLabel"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 		"labelText"     "%redteamname%"
 		"textAlignment" "west"
 		"xpos"          "999999" //"c-95" 
@@ -124,7 +124,7 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "RedTeamScore"
-		"font"          "RobotoBold14"
+		"font"          "AFont14"
 		"labelText"     "%redteamscore%"
 		"textAlignment" "center"
 		"xpos"          "c-148" 
@@ -147,7 +147,7 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "RedTeamPlayerCount"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 		"labelText"     "%redteamplayercount%"
 		"textAlignment" "east"
 		"xpos"          "c-152" 
@@ -169,7 +169,7 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "ServerLabel"
-		"font"          "RobotoBold14"
+		"font"          "AFont14"
 		"labelText"     "%server%"
 		"textAlignment" "center"
 		"xpos"          "-4" 
@@ -364,7 +364,7 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "Spectators"
-		"font"          "RobotoBold14"
+		"font"          "AFont14"
 		"labelText"     "%spectators%"
 		"textAlignment" "east"
 		"xpos"          "-4" 
@@ -553,7 +553,7 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"   "ServerTimeLeft"
-		"font"      "RobotoBold14"
+		"font"      "AFont14"
 		"labelText"   "%servertimeleft%"
 		"textAlignment"   "center"
 		"xpos"      "c-150"
@@ -1127,7 +1127,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DamageLabel"
-			"font"			"RobotoBold14"
+			"font"			"AFont14"
 			"labelText"		"#TF_Scoreboard_Damage"
 			"fgcolor"			"EllWhite"
 			"textAlignment"	"east"
@@ -1151,7 +1151,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Damage"
-			"font"			"RobotoBold14"
+			"font"			"AFont14"
 			"fgcolor"			"EllGreen"
 			"labelText"		"%damage%"
 			"textAlignment"	"west"
@@ -1175,7 +1175,7 @@
 		{
 			"ControlName"   "CExLabel"
 			"fieldName"   "KillsLabel"
-			"font"      "RobotoBold14"
+			"font"      "AFont14"
 			"labelText"   "#TF_ScoreBoard_KillsLabel"
 			"fgcolor"			"EllWhite"
 			"textAlignment"   "east"
@@ -1199,7 +1199,7 @@
 		{
 			"ControlName"   "CExLabel"
 			"fieldName"   "DeathsLabel"
-			"font"      "RobotoBold14"
+			"font"      "AFont14"
 			"labelText"   "#TF_ScoreBoard_DeathsLabel"
 			"fgcolor"			"EllWhite"
 			"textAlignment"   "east"
@@ -1223,7 +1223,7 @@
 		{
 			"ControlName"   "CExLabel"
 			"fieldName"   "AssistsLabel"
-			"font"      "RobotoBold14"
+			"font"      "AFont14"
 			"labelText"   "#TF_ScoreBoard_AssistsLabel"
 			"fgcolor"			"EllWhite"
 			"textAlignment"   "east"
@@ -1265,7 +1265,7 @@
 		{
 			"ControlName"   "CExLabel"
 			"fieldName"   "Kills"
-			"font"      "RobotoBold14"
+			"font"      "AFont14"
 			"fgcolor"			"EllGreen"
 			"labelText"   "%kills%"
 			"textAlignment"   "west"
@@ -1289,7 +1289,7 @@
 		{
 			"ControlName"   "CExLabel"
 			"fieldName"   "Deaths"
-			"font"      "RobotoBold14"
+			"font"      "AFont14"
 			"fgcolor"			"EllGreen"
 			"labelText"   "%deaths%"
 			"textAlignment"   "west"
@@ -1353,7 +1353,7 @@
 		{
 			"ControlName"   "CExLabel"
 			"fieldName"   "Assists"
-			"font"      "RobotoBold14"
+			"font"      "AFont14"
 			"fgcolor"			"EllGreen"
 			"labelText"   "%assists%"
 			"textAlignment"   "west"

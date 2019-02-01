@@ -19,13 +19,13 @@
 		"dulltext"      "0"
 		"brighttext"    "0"
 		"wrap"          "0"
-		"font"          "RobotoBold24"
+		"font"          "AFont24"
 		"fgcolor"       "EllWhite"
 
 		if_match
 		{
 			"ypos"		"20"
-			"font"      "RobotoBold14"
+			"font"      "AFont14"
 		}
 	}
   

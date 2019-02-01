@@ -43,7 +43,7 @@
 		{
 			"ControlName"   "CExLabel"
 			"fieldName"     "TimePanelValue"
-			"font"          "RobotoBold22"
+			"font"          "AFont22"
 			"fgcolor"       "TeamBlue"
 			"xpos"          "0"
 			"ypos"          "0"
@@ -57,7 +57,7 @@
 	  
 			if_match
 			{
-				"font"      "RobotoBold14"
+				"font"      "AFont14"
 				"ypos"      "7"
 				"xpos"		"33"
 			}
@@ -104,7 +104,7 @@
 		{
 			"ControlName"   "CExLabel"
 			"fieldName"     "TimePanelValue"
-			"font"          "RobotoBold22"
+			"font"          "AFont22"
 			"fgcolor"       "TeamRed"
 			"xpos"          "0"
 			"ypos"          "0"
@@ -118,7 +118,7 @@
   
 			if_match
 			{
-				"font"		"RobotoBold14"
+				"font"		"AFont14"
 				"ypos"      "7"
 				"xpos"      "-33"
 			}

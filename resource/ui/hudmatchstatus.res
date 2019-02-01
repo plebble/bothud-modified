@@ -62,7 +62,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"CountdownLabel"
-		"font"					"RobotoBold22"
+		"font"					"AFont22"
 		"xpos"					"cs-0.5"
 		"ypos"					"cs-0.1"
 		"wide"					"40"
@@ -89,7 +89,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"CountdownLabelShadow"
-		"font"					"RobotoBold22"
+		"font"					"AFont22"
 		"xpos"					"cs-0.49"
 		"ypos"					"cs-0.09"
 		"wide"					"40"
@@ -370,7 +370,7 @@
 		"PositiveColor"			"EllGreen"
 		"NegativeColor"			"EllPink"
 		"delta_lifetime"		"2"
-		"delta_item_font"		"RobotoBold14"
+		"delta_item_font"		"AFont14"
 
 		if_match
 		{
@@ -383,14 +383,14 @@
 			"PositiveColor"			"EllGreen"
 			"NegativeColor"			"EllPink"
 			"delta_lifetime"		"2"
-			"delta_item_font"		"RobotoBold14"
+			"delta_item_font"		"AFont14"
 		}
 		
 		"TimePanelValue"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"RobotoBold14"
+			"font"			"AFont14"
 			"fgcolor"		"EllGreen"
 			"xpos"			"35"
 			"ypos"			"16"
@@ -409,7 +409,7 @@
 				"xpos"			"35"
 				"ypos"			"14"
 				"tall"			"10"
-				"font"			"RobotoBold14"
+				"font"			"AFont14"
 			}
 		}	
 	}
@@ -509,7 +509,7 @@
 			{	
 				"ControlName"			"ContinuousProgressBar"
 				"fieldName"				"healthbar"
-				"font"					"RobotoBold12"																		
+				"font"					"AFont12"																		
 				"xpos"					"0"
 				"ypos"					"19"
 				"zpos"					"5"
@@ -530,7 +530,7 @@
 			{	
 				"ControlName"			"ContinuousProgressBar"
 				"fieldName"				"overhealbar"
-				"font"					"RobotoBold12"																		
+				"font"					"AFont12"																		
 				"xpos"					"0"
 				"ypos"					"19"
 				"zpos"					"6"

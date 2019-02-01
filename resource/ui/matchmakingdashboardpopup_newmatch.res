@@ -79,7 +79,7 @@
 				"tall"			"20"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"RobotoBold12"
+				"font"			"AFont12"
 				"fgcolor_override"	"EllLightGrey"
 				"textAlignment"	"center"
 				"labelText"		"%match_type%"
@@ -88,9 +88,9 @@
 				
 				"fonts"
 				{
-					"0"		"RobotoBold9"
-					"1"		"RobotoBold8"
-					"2"		"RobotoBold7"
+					"0"		"AFont9"
+					"1"		"AFont8"
+					"2"		"AFont7"
 				}
 			}
 
@@ -105,7 +105,7 @@
 				"tall"			"20"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"RobotoBold12"
+				"font"			"AFont12"
 				"fgcolor_override"	"EllLightGrey"
 				"textAlignment"	"center"
 				"labelText"		"%auto_join%"
@@ -128,7 +128,7 @@
 
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"RobotoBold12"
+				"font"			"AFont12"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -166,7 +166,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"RobotoBold12"
+				"font"			"AFont12"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -200,7 +200,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"RobotoBold12"
+				"font"			"AFont12"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -230,7 +230,7 @@
 				"tall"			"20"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"RobotoBold12"
+				"font"			"AFont12"
 				"fgcolor_override"	"EllLightGrey"
 				"textAlignment"	"east"
 				"labelText"		"#TF_Matchmaking_RollingQueue_MatchReadyJoining"

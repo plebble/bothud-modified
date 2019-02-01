@@ -20,7 +20,7 @@
 	{ 
 		"ControlName"   "ContinuousProgressBar"
 		"fieldName"     "ItemEffectMeter"
-		"font"          "RobotoBold22"
+		"font"          "AFont22"
 		"xpos"          "16"
 		"ypos"          "0"
 		"zpos"          "1"

@@ -63,7 +63,7 @@
 		"textAlignment"		"west"
 		"Command"			"joinclass random"
 		"Default"			"1"
-		"font"				"RobotoBold14"
+		"font"				"AFont14"
 			
 		"fgcolor"					"EllLightGrey"
 		"defaultFgColor_override"	"EllLightGrey"
@@ -135,7 +135,7 @@
 		"textAlignment"		"west"
 		"Command"			"joinclass scout"
 		"Default"			"0"
-		"font"				"RobotoBold14"
+		"font"				"AFont14"
 		"fgcolor"			"EllLightGrey"
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"
@@ -182,7 +182,7 @@
 		"textAlignment"		"west"
 		"Command"			"joinclass soldier"
 		"Default"			"0"
-		"font"				"RobotoBold14"
+		"font"				"AFont14"
 		"fgcolor"			"EllLightGrey"
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"
@@ -229,7 +229,7 @@
 		"textAlignment"		"west"
 		"Command"			"joinclass pyro"
 		"Default"			"0"
-		"font"				"RobotoBold14"
+		"font"				"AFont14"
 		"fgcolor"			"EllLightGrey"
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"
@@ -305,7 +305,7 @@
 		"textAlignment"		"west"
 		"Command"			"joinclass demoman"
 		"Default"			"0"
-		"font"				"RobotoBold14"
+		"font"				"AFont14"
 		"fgcolor"			"EllLightGrey"
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"
@@ -352,7 +352,7 @@
 		"textAlignment"		"west"
 		"Command"			"joinclass heavyweapons"
 		"Default"			"0"
-		"font"				"RobotoBold14"
+		"font"				"AFont14"
 		"fgcolor"			"EllLightGrey"
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"
@@ -399,7 +399,7 @@
 		"textAlignment"		"west"
 		"Command"			"joinclass engineer"
 		"Default"			"0"
-		"font"				"RobotoBold14"
+		"font"				"AFont14"
 		"fgcolor"			"EllLightGrey"
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"
@@ -473,7 +473,7 @@
 		"textAlignment"		"west"
 		"Command"			"joinclass medic"
 		"Default"			"0"
-		"font"				"RobotoBold14"
+		"font"				"AFont14"
 		"fgcolor"			"EllLightGrey"
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"
@@ -520,7 +520,7 @@
 		"textAlignment"		"west"
 		"Command"			"joinclass sniper"
 		"Default"			"0"
-		"font"				"RobotoBold14"
+		"font"				"AFont14"
 		"fgcolor"			"EllLightGrey"
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"
@@ -569,7 +569,7 @@
 		"textAlignment"		"west"
 		"Command"			"joinclass spy"
 		"Default"			"0"
-		"font"				"RobotoBold14"
+		"font"				"AFont14"
 		"fgcolor"			"EllLightGrey"
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"
@@ -637,7 +637,7 @@
 		"labelText"		"LOADOUT"
 		"textAlignment"	"west"
 		"Command"		"openloadout"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllLightGrey"
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"
@@ -1056,7 +1056,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numScout%"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllLightGrey"
 	}	
 	
@@ -1077,7 +1077,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numSoldier%"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllLightGrey"
 	}		
 	
@@ -1097,7 +1097,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numPyro%"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllLightGrey"
 	}			
 	
@@ -1117,7 +1117,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"east"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllLightGrey"
 	}				
 	
@@ -1137,7 +1137,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numHeavy%"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllLightGrey"
 	}					
 	
@@ -1157,7 +1157,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numEngineer%"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllLightGrey"
 	}						
 	
@@ -1177,7 +1177,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numMedic%"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllLightGrey"
 	}							
 	
@@ -1197,7 +1197,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numSniper%"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllLightGrey"
 	}						
 	
@@ -1217,7 +1217,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numSpy%"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllLightGrey"
 	}								
 	

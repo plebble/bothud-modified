@@ -55,7 +55,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
-		"font"			"RobotoBold24"
+		"font"			"AFont24"
 		"fgcolor"		"TeamBlue"
 		
 		"if_hybrid"
@@ -87,7 +87,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
-		"font"			"RobotoBold24"
+		"font"			"AFont24"
 		"fgcolor"		"TeamRed"		
 		
 		"if_hybrid"
@@ -140,7 +140,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllWhite"
 		
 		"if_hybrid"

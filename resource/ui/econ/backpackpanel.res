@@ -67,7 +67,7 @@
 				"textAlignment"	"center"
 				"labelText"		"%page%"
 				"textinsety"	"2"
-				"font"				"RobotoBold12"
+				"font"				"AFont12"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"border_default"	"ThinDarkGreyBorder"
@@ -163,7 +163,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"labelText"		">>"
 		"textAlignment"	"west"
 		"xpos"			"c-300"
@@ -182,7 +182,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"RobotoBold24"
+		"font"			"AFont24"
 		"labelText"		"#ClassBeingEquipped"
 		"textAlignment"	"west"
 		"xpos"			"c-280"
@@ -217,7 +217,7 @@
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"			"ShowRarityComboBox"
-		"Font"				"RobotoBold12"
+		"Font"				"AFont12"
 		"wrap"				"0"
 		"xpos"				"c-85"
 		"ypos"				"37"
@@ -249,7 +249,7 @@
 		"ControlName"	"CheckButton"
 		"fieldName"		"ShowBaseItemsCheckbox"
 		"labelText"		"#ShowBaseItemsCheckBox"
-		"Font"			"RobotoBold12"
+		"Font"			"AFont12"
 		"textAlignment"	"east"
 		"xpos"			"c-70"
 		"ypos"			"15"
@@ -270,7 +270,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NameFilterLabel"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"labelText"		"#Store_NameFilterLabel"
 		"textAlignment"	"west"
 		"xpos"			"c+137"
@@ -304,7 +304,7 @@
 		"fgcolor_override"	"EllLightGrey"
 		"bgcolor_override"	"EllDarkGrey"
 		"paintbackgroundtype" "2"
-		"font"		"RobotoBold12"
+		"font"		"AFont12"
 	}
 	
 	"NameFilterBorder"
@@ -323,7 +323,7 @@
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"			"SortByComboBox"
-		"Font"				"RobotoBold12"
+		"Font"				"AFont12"
 		"xpos"				"c137"
 		"ypos"				"37"
 		"zpos"				"1"
@@ -433,7 +433,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"<&Q"
-		"font"			"RobotoBold18"
+		"font"			"AFont18"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -452,7 +452,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurPageLabel"
-		"font"			"RobotoBold18"
+		"font"			"AFont18"
 		"labelText"		"%backpackpage%"
 		"textAlignment"	"center"
 		"xpos"			"c220"
@@ -482,7 +482,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"&E>"
-		"font"			"RobotoBold18"
+		"font"			"AFont18"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

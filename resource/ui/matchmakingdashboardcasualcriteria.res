@@ -26,7 +26,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_HeaderCasual"
 		"textAlignment"	"west"
-		"font"			"RobotoBold26"
+		"font"			"AFont26"
 		"fgcolor_override"	"EllLightGrey"
 		
 		"mouseinputenabled"	"0"
@@ -76,7 +76,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"font"			"RobotoBold16"
+		"font"			"AFont16"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

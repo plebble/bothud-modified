@@ -23,7 +23,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"RobotoBold32"
+		"font"			"AFont32"
 		"labelText"		"#ConfirmTitle"
 		"textAlignment"	"north"
 		"xpos"			"0"
@@ -41,7 +41,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ExplanationLabel"
-		"font"			"RobotoBold20"
+		"font"			"AFont20"
 		"labelText"		"%text%"
 		"textAlignment"	"north"
 		"xpos"			"10"
@@ -72,7 +72,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#ConfirmButtonText"
-		"font"			"RobotoBold20"
+		"font"			"AFont20"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		"dulltext"		"0"

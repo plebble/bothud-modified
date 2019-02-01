@@ -24,7 +24,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		""
 		"textAlignment"	"west"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"smallcheckimage"	"1"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
@@ -43,7 +43,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"%title_token%"
 		"textAlignment"	"west"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"textinsetx"	"20"
 		"use_proportional_insets"	"1"
 		

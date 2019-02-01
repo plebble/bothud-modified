@@ -87,7 +87,7 @@
 		"command"		"jointeam blue"
 		"team"				"3"		// team blue
 		"hover"				"2.0"
-		"font"			"RobotoBold38"
+		"font"			"AFont38"
 		"fgcolor"		"TeamBlue"
 		"defaultFgColor_override"	"TeamBlue"
 		"armedFgColor_override"		"TeamBlueDark"
@@ -117,7 +117,7 @@
 		"command"		"jointeam red"
 		"team"				"2"		// team red
 		"hover"				"2.0"
-		"font"			"RobotoBold38"
+		"font"			"AFont38"
 		"fgcolor"		"TeamRed"
 		"defaultFgColor_override"	"TeamRed"
 		"armedFgColor_override"		"TeamRedDark"
@@ -146,7 +146,7 @@
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam auto"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllLightGrey"
 		"defaultFgColor_override"	"EllLightGrey"
 		"armedFgColor_override"		"EllDarkGrey"
@@ -174,7 +174,7 @@
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam spectate"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"fgcolor"		"EllLightGrey"
 		"defaultFgColor_override"	"EllLightGrey"
 		"armedFgColor_override"		"EllDarkGrey"
@@ -204,7 +204,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"cancelmenu"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 	}
 	
 	"TeamMenuSelect"

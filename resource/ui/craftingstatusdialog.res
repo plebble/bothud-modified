@@ -20,7 +20,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"CenterPositioner"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"xpos"			"0"
 		"ypos"			"10"
 		"zpos"			"0"
@@ -48,7 +48,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TitleLabel"
-		"font"			"RobotoBold24"
+		"font"			"AFont24"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
@@ -75,7 +75,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"EllipsesLabel"
-		"font"			"RobotoBold24"
+		"font"			"AFont24"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
@@ -110,7 +110,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#GameUI_Ok"
-		"font"			"RobotoBold24"
+		"font"			"AFont24"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

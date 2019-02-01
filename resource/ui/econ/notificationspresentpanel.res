@@ -31,7 +31,7 @@
 		"wrap"			"0"
 		"labelText"		"#Notifications_Present"
 		"textAlignment"	"center"
-		"font"			"RobotoBold10"
+		"font"			"AFont10"
 		"proportionaltoparent"	"1"
 		"auto_wide_tocontents"	"1"
 	}

@@ -21,7 +21,7 @@
 		"textAlignment" "center"
 		"dulltext"      "0"
 		"brighttext"    "0"
-		"font"          "RobotoBold36"
+		"font"          "AFont36"
 		"fgcolor"       "EllWhite"
 	} 
 
@@ -43,7 +43,7 @@
 		"textAlignment" "center"
 		"dulltext"      "0"
 		"brighttext"    "0"
-		"font"          "RobotoBold36"
+		"font"          "AFont36"
 		"fgcolor"       "EllBlack"
 	} 
 
@@ -65,14 +65,14 @@
 		"textAlignment" "center"
 		"dulltext"      "0"
 		"brighttext"    "0"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 	}
   
 	"ChargeMeter1"
 	{ 
 		"ControlName"   "ContinuousProgressBar"
 		"fieldName"     "ChargeMeter1"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 		"xpos"          "20"
 		"ypos"          "30"
 		"zpos"          "2"
@@ -91,7 +91,7 @@
 	{ 
 		"ControlName"   "ContinuousProgressBar"
 		"fieldName"     "ChargeMeter2"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 		"xpos"          "40"
 		"ypos"          "30"
 		"zpos"          "2"
@@ -110,7 +110,7 @@
 	{ 
 		"ControlName"   "ContinuousProgressBar"
 		"fieldName"     "ChargeMeter3"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 		"xpos"          "60"
 		"ypos"          "30"
 		"zpos"          "2"
@@ -129,7 +129,7 @@
 	{ 
 		"ControlName"   "ContinuousProgressBar"
 		"fieldName"     "ChargeMeter4"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 		"xpos"          "80"
 		"ypos"          "30"
 		"zpos"          "2"
@@ -196,7 +196,7 @@
 	{ 
 		"ControlName"  "ContinuousProgressBar"
 		"fieldName"    "ChargeMeter"
-		"font"         "RobotoBold12"
+		"font"         "AFont12"
 		"xpos"         "768"
 		"ypos"         "480"
 		"zpos"         "-1"

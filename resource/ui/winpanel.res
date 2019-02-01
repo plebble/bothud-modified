@@ -83,7 +83,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamLabel"
-			"font"			"RobotoBold26"
+			"font"			"AFont26"
 			"fgcolor"		"EllWhite"
 			"labelText"		"%blueteamname%"
 			"textAlignment"		"east"
@@ -104,7 +104,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScore"
-			"font"			"RobotoBold38"
+			"font"			"AFont38"
 			"fgcolor"		"EllWhite"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"west"
@@ -155,7 +155,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamLabel"
-			"font"			"RobotoBold26"
+			"font"			"AFont26"
 			"fgcolor"		"EllWhite"
 			"labelText"		"%redteamname%"
 			"textAlignment"		"west"
@@ -176,7 +176,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScore"
-			"font"			"RobotoBold38"
+			"font"			"AFont38"
 			"fgcolor"		"EllWhite"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"east"
@@ -244,7 +244,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
-		"font"			"RobotoBold26"
+		"font"			"AFont26"
 		"xpos"			"25"
 		"ypos"			"162"
 		"zpos"			"71"
@@ -264,7 +264,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"AdvancingTeamLabel"
-		"font"			"RobotoBold20"
+		"font"			"AFont20"
 		"xpos"			"25"
 		"ypos"			"162"
 		"zpos"			"1"
@@ -284,7 +284,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinReasonLabel"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"25"
 		"ypos"			"179"
 		"zpos"			"71"
@@ -304,7 +304,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"DetailsLabel"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"25"
 		"ypos"			"191"
 		"zpos"			"71"
@@ -374,7 +374,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player1Name"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"51"
 		"ypos"			"207"
 		"zpos"			"73"
@@ -394,7 +394,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player1Class"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"193"
 		"ypos"			"207"
 		"zpos"			"73"
@@ -414,7 +414,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player1Score"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"258"
 		"ypos"			"207"
 		"zpos"			"73"
@@ -465,7 +465,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player2Name"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"51"
 		"ypos"			"226"
 		"zpos"			"73"
@@ -485,7 +485,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player2Class"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"193"
 		"ypos"			"226"
 		"zpos"			"73"
@@ -505,7 +505,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player2Score"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"258"
 		"ypos"			"226"
 		"zpos"			"73"
@@ -556,7 +556,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player3Name"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"51"
 		"ypos"			"245"
 		"zpos"			"73"
@@ -576,7 +576,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player3Class"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"193"
 		"ypos"			"245"
 		"zpos"			"73"
@@ -596,7 +596,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player3Score"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"258"
 		"ypos"			"245"
 		"zpos"			"73"
@@ -617,7 +617,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"KillStreakLeaderLabel"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"xpos"			"9999" //"60"
 		"ypos"			"9999" //"180"
 		"zpos"			"73"

@@ -45,7 +45,7 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"enabled"		"1"
-		"font"			"RobotoBold16"
+		"font"			"AFont16"
 		"fgcolor_override"	"EllLightGrey"
 		"textAlignment"	"west"
 		"labelText"		"%queue_state%"

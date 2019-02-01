@@ -96,7 +96,7 @@
 		"labelText"		"%button_token%"
 		"textinsetx"	"4"
 		"use_proportional_insets" "1"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -159,7 +159,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DescLabel"
-		"font"			"RobotoBold10"
+		"font"			"AFont10"
 		"labelText"		"%desc_token%"
 		"textAlignment"	"north-west"
 		"xpos"			"rs1"

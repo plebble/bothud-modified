@@ -31,7 +31,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fgColor"		"EllWhite"
-		"font"			"RobotoBold38"
+		"font"			"AFont38"
 		"labelText"		"%health%" 
 		"textAlignment" "center" 
 	} 
@@ -48,7 +48,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fgColor"		"EllBlack"
-		"font"			"RobotoBold38"
+		"font"			"AFont38"
 		"labelText"		"%health%" 
 		"textAlignment" "center" 
 	}

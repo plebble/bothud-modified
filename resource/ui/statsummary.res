@@ -227,7 +227,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"OnYourWayLabel"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"labelText"		"Loading"
 		"textAlignment"		"center"
 		"xpos"			"0"
@@ -251,7 +251,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
-		"font"			"RobotoBold32"
+		"font"			"AFont32"
 		"labelText"		"%maplabel%"
 		"textAlignment"		"center"
 		"xpos"			"0"
@@ -275,7 +275,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapType"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"labelText"		"%maptype%"
 		"textAlignment"	"center"
 		"xpos"			"0"

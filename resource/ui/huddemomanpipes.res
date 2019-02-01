@@ -7,7 +7,7 @@
 	{ 
 		"ControlName"   "ContinuousProgressBar"
 		"fieldName"     "ChargeMeter"
-		"font"          "RobotoBold24"
+		"font"          "AFont24"
 		"xpos"          "c-32"
 		"ypos"          "358"
 		"zpos"          "1"
@@ -69,7 +69,7 @@
 			"textAlignment" "center"
 			"dulltext"      "0"
 			"brighttext"    "0"
-			"font"          "RobotoBold24"
+			"font"          "AFont24"
 			"fgcolor"       "EllWhite"
 		}
 		
@@ -91,7 +91,7 @@
 			"textAlignment" "center"
 			"dulltext"      "0"
 			"brighttext"    "0"
-			"font"          "RobotoBold24"
+			"font"          "AFont24"
 			"fgcolor"       "EllBlack"
 		} 
 	}	

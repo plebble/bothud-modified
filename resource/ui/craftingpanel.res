@@ -93,7 +93,7 @@
 		
 		"recipebuttons_kv"
 		{
-			"font"			"RobotoBold12"
+			"font"			"AFont12"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"1"
@@ -144,7 +144,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"RobotoBold24"
+		"font"			"AFont24"
 		"labelText"		"#CraftStep1"
 		"textAlignment"	"north-west"
 		"xpos"			"c-290"
@@ -175,7 +175,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RecipeTitle"
-			"font"			"RobotoBold14"
+			"font"			"AFont14"
 			"labelText"		"%recipetitle%"
 			"textAlignment"	"west"
 			"xpos"			"0"
@@ -195,7 +195,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RecipeInputStringLabel"
-			"font"			"RobotoBold12"
+			"font"			"AFont12"
 			"labelText"		"%recipeinputstring%"
 			"textAlignment"	"north-west"
 			"xpos"			"0"
@@ -215,7 +215,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"InputLabel"
-			"font"			"RobotoBold14"
+			"font"			"AFont14"
 			"labelText"		"#Craft_Recipe_Inputs"
 			"textAlignment"	"north-west"
 			"xpos"			"0"
@@ -234,7 +234,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"OutputLabel"
-			"font"			"RobotoBold14"
+			"font"			"AFont14"
 			"labelText"		"#Craft_Recipe_Outputs"
 			"textAlignment"	"north-west"
 			"xpos"			"0"
@@ -264,7 +264,7 @@
 			"enabled"		"0"
 			"tabPosition"	"0"
 			"labelText"		"#CraftConfirm"
-			"font"			"RobotoBold32"
+			"font"			"AFont32"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			"dulltext"		"0"
@@ -285,7 +285,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"FreeAccountLabel"
-			"font"			"RobotoBold12"
+			"font"			"AFont12"
 			"labelText"		"#Craft_PremiumRecipe"
 			"textAlignment"	"west"
 			"xpos"			"0"
@@ -316,7 +316,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"#TF_Trial_Upgrade"
-			"font"			"RobotoBold12"
+			"font"			"AFont12"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			"dulltext"		"0"
@@ -448,7 +448,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TipLabel"
-			"font"			"RobotoBold12"
+			"font"			"AFont12"
 			"labelText"		"%tiptext%"
 			"textAlignment"	"center"
 			"xpos"			"20"

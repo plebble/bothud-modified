@@ -118,7 +118,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"			"RobotoBold10"
+				"font"			"AFont10"
 				"xpos"			"5"
 				"ypos"			"24"
 				"zpos"			"5"
@@ -157,7 +157,7 @@
 					"ypos"				"25"
 					"wide"				"48"
 					"textAlignment"		"center"
-					"font"				"RobotoBold10"
+					"font"				"AFont10"
 				}
 			}
 			
@@ -252,7 +252,7 @@
 				"enabled"			"1"	
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.49"
-				"TFFont"					"RobotoBold14"
+				"TFFont"					"AFont14"
 				"HealthDeathWarningColor"	"HUDDeathWarning"
 				"TextColor"					"EllWhite"
 				
@@ -348,7 +348,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"RobotoBold10"
+				"font"			"AFont10"
 				"xpos"			"30"
 				"ypos"			"18"
 				"zpos"			"5"
@@ -376,7 +376,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
-				"font"			"RobotoBold10"
+				"font"			"AFont10"
 				"xpos"			"25"
 				"ypos"			"17"
 				"zpos"			"6"
@@ -555,7 +555,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentBLUELabel"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"-3"
 		"ypos"			"0"
 		"zpos"			"1"
@@ -595,7 +595,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentBLUEStateLabel"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"-3"
 		"ypos"			"0"
 		"zpos"			"1"
@@ -674,7 +674,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentREDLabel"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"-3"
 		"ypos"			"0"
 		"zpos"			"1"
@@ -713,7 +713,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentREDStateLabel"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"-3"
 		"ypos"			"0"
 		"zpos"			"1"
@@ -752,7 +752,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentConditionLabel"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"fgcolor"		"EllWhite"
 		"xpos"			"5"
 		"ypos"			"44"
@@ -780,7 +780,7 @@
 			"ypos"			"18"
 			"tall"			"35"
 			"visible"		"1"
-			"font"			"RobotoBold12"
+			"font"			"AFont12"
 		}
 
 		if_readymode
@@ -788,7 +788,7 @@
 			"xpos"			"200"
 			"ypos"			"28"
 			"visible"		"1"
-			"font"			"RobotoBold12"
+			"font"			"AFont12"
 		}
 	}
 

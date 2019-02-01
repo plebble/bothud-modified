@@ -235,7 +235,7 @@
 			"tall"			"22"
 			"visible"		"1"
 			"enabled"		"1"
-			"font"			"RobotoBold22"
+			"font"			"AFont22"
 			"fgcolor_override"	"EllLightGrey"
 			"textAlignment"	"north-west"
 			"labelText"		"%name%"
@@ -258,7 +258,7 @@
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"font"			"RobotoBold12"
+			"font"			"AFont12"
 			"fgcolor_override"	"EllLightGrey"
 			"textAlignment"	"north-west"
 			"labelText"		"%desc1%"
@@ -272,9 +272,9 @@
 			
 			"fonts"
 			{
-				"0"		"RobotoBold12"
-				"1"		"RobotoBold10"
-				"2"		"RobotoBold8"
+				"0"		"AFont12"
+				"1"		"AFont10"
+				"2"		"AFont8"
 			}
 		}
 		
@@ -289,7 +289,7 @@
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"font"			"RobotoBold12"
+			"font"			"AFont12"
 			"fgcolor_override"	"EllLightGrey"
 			"textAlignment"	"north-west"
 			"labelText"		"%desc2%"
@@ -303,9 +303,9 @@
 
 			"fonts"
 			{
-				"0"		"RobotoBold12"
-				"1"		"RobotoBold10"
-				"2"		"RobotoBold8"
+				"0"		"AFont12"
+				"1"		"AFont10"
+				"2"		"AFont8"
 			}
 
 			"colors"
@@ -353,7 +353,7 @@
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"RobotoBold8"
+					"font"			"AFont8"
 					"fgcolor_override"	"EllLightGrey"
 					"textAlignment"	"south-west"
 					"labelText"		"%current_xp%"
@@ -371,7 +371,7 @@
 					"tall"			"20"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"RobotoBold8"
+					"font"			"AFont8"
 					"fgcolor_override"	"EllLightGrey"
 					"textAlignment"	"south-east"
 					"labelText"		"%next_level_xp%"

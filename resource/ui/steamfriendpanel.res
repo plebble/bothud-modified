@@ -51,7 +51,7 @@
 		"wrap"					"0"
 		"labelText"				"%name%"
 		"proportionaltoparent"	"1"
-		"font"					"RobotoBold10"
+		"font"					"AFont10"
 		"mouseinputenabled"		"0"
 	}
 
@@ -70,7 +70,7 @@
 		"wrap"					"1"
 		"labelText"				"%status%"
 		"proportionaltoparent"	"1"
-		"font"					"RobotoBold8"
+		"font"					"AFont8"
 		"fgcolor_override"				"EllLightGrey"
 		"mouseinputenabled"		"0"
 	}

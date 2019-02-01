@@ -109,7 +109,7 @@
 		"tabskv"
 		{
 			"textinsetx"		"30"
-			"font"				"RobotoBold22"
+			"font"				"AFont22"
 			"textAlignment" 	"center"
 			"selectedcolor"		"EllLightGrey"
 			"unselectedcolor"	"EllLightGrey"	
@@ -136,7 +136,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_BackCarat"
-		"font"			"RobotoBold20"
+		"font"			"AFont20"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

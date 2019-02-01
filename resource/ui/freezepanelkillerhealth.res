@@ -15,7 +15,7 @@
 		"visible"       "1"
 		"enabled"       "1"
 		"fgColor"       "EllWhite"
-		"font"          "RobotoBold24"
+		"font"          "AFont24"
 		"labelText"     "%health%" 
 		"textAlignment" "center" 
 	} 

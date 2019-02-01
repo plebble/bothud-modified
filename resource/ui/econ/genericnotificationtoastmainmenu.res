@@ -62,7 +62,7 @@
 		"wrap"			"1"
 		"labelText"		"%avatartext%"
 		"textAlignment"	"West"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 	}
 
 	"TextLabel"
@@ -75,7 +75,7 @@
 		{
 			"fgcolor"			"EllLightGrey"
 			"fgcolor_override"	"EllLightGrey"
-			"font"				"RobotoBold12"
+			"font"				"AFont12"
 		}
 		"xpos"			"7"
 		"ypos"			"7"
@@ -89,6 +89,6 @@
 		"wrap"			"1"
 		"labelText"		"%text%"
 		"textAlignment"	"West"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 	}
 }

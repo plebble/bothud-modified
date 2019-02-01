@@ -74,7 +74,7 @@
 			"command"		"toggle_collapse"
 			"labeltext"		"#TF_Casual_ViewMaps"
 			"textAlignment"	"west"
-			"font"	"RobotoBold9"
+			"font"	"AFont9"
 			"textinsetx"	"40"
 
 			"stay_armed_on_click"	"1"
@@ -157,7 +157,7 @@
 			"labelText"		"%title_token%"
 			"textinsetx"	"5"
 			"use_proportional_insets" "1"
-			"font"			"RobotoBold12"
+			"font"			"AFont12"
 			"textAlignment"	"east"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -197,7 +197,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DescLabel"
-			"font"			"RobotoBold9"
+			"font"			"AFont9"
 			"labelText"		"%desc_token%"
 			"textAlignment"	"north-west"
 			"xpos"			"rs1-5"

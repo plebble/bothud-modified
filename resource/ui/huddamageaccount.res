@@ -12,8 +12,8 @@
 		"PositiveColor"       "EllYellow"
 		"NegativeColor"       "EllWhite"
 		"delta_lifetime"      "1"
-		"delta_item_font"     "RobotoBold24Outline"
-		"delta_item_font_big" "RobotoBold24Outline"
+		"delta_item_font"     "AFont24Outline"
+		"delta_item_font_big" "AFont24Outline"
 	}
 
 	"DamageAccountValue"
@@ -30,7 +30,7 @@
 		"labelText" 		"%metal%"
 		"textAlignment" 	"center"
 		"fgcolor" 			"EllWhite"
-		"font" 				"RobotoBold20"
+		"font" 				"AFont20"
 	}
 	
 	"DamageAccountValueShadow"
@@ -47,6 +47,6 @@
 		"labelText" 		"%metal%"
 		"textAlignment" 	"center"
 		"fgcolor" 			"EllBlack"
-		"font" 				"RobotoBold20"
+		"font" 				"AFont20"
 	}
 }

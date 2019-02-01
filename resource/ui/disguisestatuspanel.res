@@ -7,7 +7,7 @@
 	{ 
 		"ControlName"   "CExLabel"
 		"fieldName"     "DisguiseNameLabel"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 		"xpos"          "0"
 		"ypos"          "18"
 		"zpos"          "3"
@@ -28,7 +28,7 @@
 	{ 
 		"ControlName"   "CExLabel"
 		"fieldName"     "DisguiseNameLabelShadow"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 		"xpos"          "1"
 		"ypos"          "19"
 		"zpos"          "3"
@@ -49,7 +49,7 @@
 	{ 
 		"ControlName"   "CexLabel"
 		"fieldName"     "WeaponNameLabel"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 		"xpos"          "768"
 		"ypos"          "480"
 		"zpos"          "-1"
@@ -79,7 +79,7 @@
 		"enabled"                 "1" 
 		"HealthBonusPosAdj"       "0"
 		"HealthDeathWarning"      "0.5"
-		"TFFont"                  "RobotoBold22"
+		"TFFont"                  "AFont22"
 		"HealthDeathWarningColor" "RedSolid"
 		"TextColor"               "EllWhite"
 	}   

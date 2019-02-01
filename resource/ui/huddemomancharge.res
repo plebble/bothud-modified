@@ -8,7 +8,7 @@
 	{ 
 		"ControlName"   "ContinuousProgressBar"
 		"fieldName"     "ChargeMeter"
-		"font"          "RobotoBold12"
+		"font"          "AFont12"
 		"xpos"          "c-32"
 		"ypos"          "367"
 		"zpos"          "1"

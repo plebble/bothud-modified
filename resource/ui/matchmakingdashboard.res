@@ -98,7 +98,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"RobotoBold12"
+			"font"			"AFont12"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -361,7 +361,7 @@
 				"tall"			"f0"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"RobotoBold12"
+				"font"			"AFont12"
 				"fgcolor_override"	"EllLightGrey"
 				"textAlignment"	"west"
 				"labelText"		"%queue_state%"
@@ -372,17 +372,17 @@
 				{
 					"0"
 					{
-						"font"	"RobotoBold16" // TF2 Build 11
+						"font"	"AFont16" // TF2 Build 11
 					}
 					
 					"1"
 					{
-						"font"	"RobotoBold14" // TF2 Build 10
+						"font"	"AFont14" // TF2 Build 10
 					}
 					
 					"2"
 					{
-						"font"	"RobotoBold12" // TF2 Build 9
+						"font"	"AFont12" // TF2 Build 9
 					}
 				}
 			}
@@ -453,7 +453,7 @@
 				"enabled"		"1"
 				"tabPosition"	"0"
 				"labeltext"		""
-				"font"			"RobotoBold12"
+				"font"			"AFont12"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -545,7 +545,7 @@
 				"tall"			"f0"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"RobotoBold12"
+				"font"			"AFont12"
 				"fgcolor_override"	"EllLightGrey"
 				"textAlignment"	"west"
 				"labelText"		"#TF_MM_JoinPartyLobby_Prompt"
@@ -574,7 +574,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"RobotoBold12"
+				"font"			"AFont12"
 				"textAlignment"	"center"
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -607,7 +607,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"RobotoBold16"
+			"font"			"AFont16"
 			"textAlignment"	"west"
 			"textinsetx"	"0"
 			"dulltext"		"0"
@@ -664,7 +664,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"RobotoBold16"
+			"font"			"AFont16"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -723,7 +723,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"RobotoBold16"
+			"font"			"AFont16"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"

@@ -11,7 +11,7 @@
 		"PositiveColor"      "EllGreen"
 		"NegativeColor"      "EllPink"
 		"delta_lifetime"     "0"
-		"delta_item_font"    "RobotoBold24"
+		"delta_item_font"    "AFont24"
 	}
 
 	"AccountValue"
@@ -32,7 +32,7 @@
 		"textAlignment" "center"
 		"dulltext"      "0"
 		"brighttext"    "0"
-		"font"          "RobotoBold24"
+		"font"          "AFont24"
 		"fgcolor"       "EllWhite"
 	}
 //  _______________

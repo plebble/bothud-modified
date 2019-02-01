@@ -7,7 +7,7 @@
 	{ 
 		"ControlName"   "CExLabel"
 		"fieldName"     "TargetNameLabel"
-		"font"          "RobotoBold14"
+		"font"          "AFont14"
 		"xpos"          "768"
 		"ypos"          "480"
 		"zpos"          "-1"
@@ -24,7 +24,7 @@
 	{ 
 		"ControlName"   "CExLabel"
 		"fieldName"     "TargetName"
-		"font"          "RobotoBold14"
+		"font"          "AFont14"
 		"xpos"          "54"
 		"ypos"          "16"
 		"zpos"          "1"
@@ -50,7 +50,7 @@
 		"enabled"                 "1" 
 		"HealthBonusPosAdj"       "0"
 		"HealthDeathWarning"      "0.5"
-		"TFFont"                  "RobotoBold24"
+		"TFFont"                  "AFont24"
 		"HealthDeathWarningColor" "RedSolid"
 		"TextColor"               "EllWhite"
 	} 
@@ -59,7 +59,7 @@
 	{ 
 		"ControlName"   "CExLabel"
 		"fieldName"     "TargetDataLabel"
-		"font"          "RobotoBold14"
+		"font"          "AFont14"
 		"xpos"          "55"
 		"ypos"          "27"
 		"zpos"          "1"

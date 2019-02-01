@@ -114,7 +114,7 @@
 		"command"		"nav_close"
 
 		"textAlignment"	"east"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 
 		"armedBgColor_override"	"0 0 0 0"
 		"defaultBgColor_override"	"0 0 0 0"
@@ -145,7 +145,7 @@
 		"labelText"		"<"
 
 		"textAlignment"	"west"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 
 		"armedBgColor_override"	"0 0 0 0"
 		"defaultBgColor_override"	"0 0 0 0"

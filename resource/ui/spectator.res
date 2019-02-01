@@ -105,7 +105,7 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"RobotoBold22"
+		"font"			"AFont22"
 		
 		"fgcolor_override"	"EllWhite"
 		"bgcolor_override"	"EllTransparentGrey"

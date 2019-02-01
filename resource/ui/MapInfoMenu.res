@@ -50,7 +50,7 @@
 		"enabled"		"1"
 		"labelText"		"%mapname%"
 		"textAlignment"	"center"
-		"font"			"RobotoBold22"
+		"font"			"AFont22"
 		"fgcolor"		"EllLightGrey"
 	}
 
@@ -69,7 +69,7 @@
 		"enabled"		"1"
 		"labelText"		"%gamemode%"
 		"textAlignment"	"center"
-		"font"			"RobotoBold18"
+		"font"			"AFont18"
 		"fgcolor"		"EllLightGrey"
 	}	
 	
@@ -77,7 +77,7 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"MapInfoText"
-		"font"			"RobotoBold14"
+		"font"			"AFont14"
 		"xpos"			"c-125"
 		"ypos"			"140"
 		"zpos"			"3"
@@ -128,7 +128,7 @@
 		"wrap"			"0"
 		"command"		"continue"
 		"default"		"1"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"border_default"	"ThinDarkGreyBorder"
 		"border_armed"		"ThinDarkGreyBorder"
 	}

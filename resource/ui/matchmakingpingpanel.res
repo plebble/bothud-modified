@@ -46,7 +46,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_OpenSettings"
 		"textAlignment"	"west"
-		"font"			"RobotoBold26"
+		"font"			"AFont26"
 		"fgcolor_override"	"EllLightGrey"
 		
 		"mouseinputenabled"	"0"
@@ -64,7 +64,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_InviteMode"
 		"textAlignment"	"west"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"smallcheckimage"	"1"
 		"fgcolor_override"	"EllLightGrey"
 		"disabledFgColor_override" "EllLightGrey"
@@ -83,7 +83,7 @@
 		"wide"			"200"
 		"tall"			"15"
 		"textAlignment"	"west"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"keyboardinputenabled"	"0"
 
 		"editable"		"1"
@@ -108,7 +108,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_IgnoreInvites"
 		"textAlignment"	"west"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"smallcheckimage"	"1"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
@@ -130,7 +130,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		""
 		"textAlignment"	"west"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"smallcheckimage"	"1"
 		"enabled"	"0"
 
@@ -150,7 +150,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_MM_PartySameTeam"
 		"textAlignment"	"west"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"smallcheckimage"	"1"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
@@ -170,7 +170,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		""
 		"textAlignment"	"west"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"smallcheckimage"	"1"
 		"actionsignallevel"	"1"
 
@@ -194,7 +194,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_LobbyContainer_CustomPingButton"
 		"textAlignment"	"west"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"smallcheckimage"	"1"
 
 		"sound_depressed"	"UI/buttonclickrelease.wav"	
@@ -213,7 +213,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_LobbyContainer_CustomPingDesc"
 		"textAlignment"	"north-west"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		"wrap"		"1"
 		"fgcolor"		"EllLightGrey"
 
@@ -233,7 +233,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		""
 		"textAlignment"	"west"
-		"font"			"RobotoBold12"
+		"font"			"AFont12"
 		
 		"mouseinputenabled"	"0"
 	}

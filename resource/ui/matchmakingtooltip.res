@@ -37,17 +37,17 @@
 
 			if_small
 			{
-				"font"	"RobotoBold10"
+				"font"	"AFont10"
 			}
 
 			if_medium
 			{
-				"font"	"RobotoBold14"
+				"font"	"AFont14"
 			}
 
 			if_large
 			{
-				"font"	"RobotoBold18"
+				"font"	"AFont18"
 			}
 
 			"labelText"		"%tiptext%"

@@ -36,7 +36,7 @@
 			{
 				"ControlName"   "CExLabel"
 				"fieldName"     "playername"
-				"font"          "RobotoBold14"
+				"font"          "AFont14"
 				"xpos"          "51"
 				"ypos"          "0"
 				"zpos"          "2"
@@ -107,7 +107,7 @@
 				"enabled"                 "1"  
 				"HealthBonusPosAdj"       "10"
 				"HealthDeathWarning"      "0.5"
-				"TFFont"                  "RobotoBold14"
+				"TFFont"                  "AFont14"
 				"HealthDeathWarningColor" "RedSolid"
 				"TextColor"               "EllBlack"
 			}
@@ -153,7 +153,7 @@
 			{
 				"ControlName"   "CExLabel"
 				"fieldName"     "respawntime"
-				"font"          "RobotoBold14"
+				"font"          "AFont14"
 				"xpos"          "24"
 				"ypos"          "0"
 				"zpos"          "5"
@@ -171,7 +171,7 @@
 			{
 				"ControlName"   "CExLabel"
 				"fieldName"     "chargeamount"
-				"font"          "RobotoBold14"
+				"font"          "AFont14"
 				"xpos"          "-1"
 				"ypos"          "0"
 				"zpos"          "5"
@@ -237,7 +237,7 @@
 		"enabled"          "1"
 		"labelText"        "#game_respawntime_in_secs"
 		"textAlignment"    "center"
-		"font"             "RobotoBold22"
+		"font"             "AFont22"
 		
 		"fgcolor_override" "EllWhite"
 		"bgcolor_override"	"EllTransparentGrey"

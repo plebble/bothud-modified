@@ -116,7 +116,7 @@
 		"LineSpacing"          "1"
 		"CornerRadius"         "0"
 		"RightJustify"         "1" // If 1, draw notices from the right
-		"TextFont"             "RobotoBold13"    
+		"TextFont"             "AFont13"    
 		"TeamBlue"             "TeamBlue"
 		"TeamRed"              "TeamRed"
 		"IconColor"            "EllWhite"
