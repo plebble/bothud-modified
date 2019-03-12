@@ -184,6 +184,16 @@ Scheme
 			}
 		}
 		
+		"AFont40"
+		{	
+			"1"
+			{
+				"name"		"B612 Bold"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+
 		"AFont48"
 		{	
 			"1"
@@ -205,7 +215,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		
+
 		"ItemFontNameSmallest"
 		{
 			"1"

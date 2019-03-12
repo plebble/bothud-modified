@@ -1,3 +1,5 @@
+#base "spacer.res"
+
 "Resource/UI/HudMedicCharge.res"
 { 
 //  ___________
@@ -7,33 +9,38 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "ChargeLabel"
-		"xpos"          "-5"
+		"xpos"          "0"
 		"ypos"          "0"
 		"zpos"          "1"
-		"wide"          "120" //"96"
-		"tall"          "60"
+		"wide"          "120"
+		"tall"          "30"
 		"autoResize"    "0"
 		"pinCorner"     "0"
 		"visible"       "1"
 		"enabled"       "1"
 		"tabPosition"   "0"
 		"labelText"     "#TF_UberchargeMinHUD"
-		"textAlignment" "center"
+		"textAlignment" "east"
 		"dulltext"      "0"
 		"brighttext"    "0"
 		"font"          "AFont36"
 		"fgcolor"       "EllWhite"
+		"auto_wide_tocontents"	"1"
+		
+		"pin_to_sibling"		"spacer"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"3"
 	} 
 
 	"ChargeLabelShadow"
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "ChargeLabelShadow"
-		"xpos"          "-3"
-		"ypos"          "2"
+		"xpos"          "-2"
+		"ypos"          "-2"
 		"zpos"          "-1"
 		"wide"          "120" //"96"
-		"tall"          "60"
+		"tall"          "30"
 		"autoResize"    "0"
 		"pinCorner"     "0"
 		"visible"       "1"
@@ -45,17 +52,22 @@
 		"brighttext"    "0"
 		"font"          "AFont36"
 		"fgcolor"       "EllBlack"
+		"auto_wide_tocontents"	"1"
+		
+		"pin_to_sibling"		"ChargeLabel"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"0"
 	} 
 
 	"IndividualChargesLabel"
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "IndividualChargesLabel"
-		"xpos"          "10"
-		"ypos"          "15"
+		"xpos"          "0"
+		"ypos"          "0"
 		"zpos"          "1"
 		"wide"          "96"
-		"tall"          "20"
+		"tall"          "10"
 		"autoResize"    "0"
 		"pinCorner"     "0"
 		"visible"       "1"
@@ -66,6 +78,10 @@
 		"dulltext"      "0"
 		"brighttext"    "0"
 		"font"          "AFont12"
+		
+		"pin_to_sibling"		"ResistIcon"
+		"pin_corner_to_sibling"	"2"
+		"pin_to_sibling_corner"	"0"
 	}
   
 	"ChargeMeter1"
@@ -73,8 +89,8 @@
 		"ControlName"   "ContinuousProgressBar"
 		"fieldName"     "ChargeMeter1"
 		"font"          "AFont12"
-		"xpos"          "20"
-		"ypos"          "30"
+		"xpos"          "0"
+		"ypos"          "0"
 		"zpos"          "2"
 		"wide"          "19"
 		"tall"          "20"       
@@ -85,6 +101,10 @@
 		"textAlignment" "Left"
 		"dulltext"      "0"
 		"brighttext"    "0"
+		
+		"pin_to_sibling"		"ResistIcon"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"1"
 	}
  
 	"ChargeMeter2"
@@ -92,8 +112,8 @@
 		"ControlName"   "ContinuousProgressBar"
 		"fieldName"     "ChargeMeter2"
 		"font"          "AFont12"
-		"xpos"          "40"
-		"ypos"          "30"
+		"xpos"          "2"
+		"ypos"          "0"
 		"zpos"          "2"
 		"wide"          "19"
 		"tall"          "20"       
@@ -104,6 +124,10 @@
 		"textAlignment" "Left"
 		"dulltext"      "0"
 		"brighttext"    "0"
+		
+		"pin_to_sibling"		"ChargeMeter1"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"1"
 	}
 	
 	"ChargeMeter3"
@@ -111,8 +135,8 @@
 		"ControlName"   "ContinuousProgressBar"
 		"fieldName"     "ChargeMeter3"
 		"font"          "AFont12"
-		"xpos"          "60"
-		"ypos"          "30"
+		"xpos"          "2"
+		"ypos"          "0"
 		"zpos"          "2"
 		"wide"          "19"
 		"tall"          "20"       
@@ -123,6 +147,10 @@
 		"textAlignment" "Left"
 		"dulltext"      "0"
 		"brighttext"    "0"
+		
+		"pin_to_sibling"		"ChargeMeter2"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"1"
 	}
  
 	"ChargeMeter4"
@@ -130,8 +158,8 @@
 		"ControlName"   "ContinuousProgressBar"
 		"fieldName"     "ChargeMeter4"
 		"font"          "AFont12"
-		"xpos"          "80"
-		"ypos"          "30"
+		"xpos"          "2"
+		"ypos"          "0"
 		"zpos"          "2"
 		"wide"          "19"
 		"tall"          "20"       
@@ -142,6 +170,10 @@
 		"textAlignment" "Left"
 		"dulltext"      "0"
 		"brighttext"    "0"
+		
+		"pin_to_sibling"		"ChargeMeter3"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"1"
 	}
 
 	"ResistIconAnchor"
@@ -149,11 +181,15 @@
 		"ControlName" "EditablePanel"
 		"fieldName" "ResistIconAnchor"
 		"xpos" "0"
-		"ypos" "30"
+		"ypos" "10"
 		"wide" "20"
 		"tall" "20"
 		"visible" "1"
 		"enabled" "1"
+		
+		"pin_to_sibling"		"spacer"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"3"
 	}
  
 	"ResistIcon"

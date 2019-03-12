@@ -2,58 +2,58 @@
 //  ___________
 // | ELL'S HUD |
 //  ¯¯¯¯¯¯¯¯¯¯¯
-event hudHealthBonusPulse
+event HudHealthBonusPulse
 {
-	animate healthValue fGColor EllCyan linear 0.0 0.0
-	runEvent hudHealthBonusPulseLoop 0.1
+	animate HealthValue fGColor EllCyan linear 0.0 0.0
+	runEvent HudHealthBonusPulseLoop 0.1
 }
 
-event hudHealthBonusPulseLoop
+event HudHealthBonusPulseLoop
 {
-	runEvent hudHealthBonusPulse 0.0
+	runEvent HudHealthBonusPulse 0.0
 }
 
-event hudHealthBonusPulseStop
+event HudHealthBonusPulseStop
 {
 	stopEvent HudHealthBonusPulse 0.0
 	stopEvent HudHealthBonusPulseLoop 0.0
-	animate healthValue fGColor EllWhite linear 0.0 0.0
+	animate HealthValue fGColor EllWhite linear 0.0 0.0
 }
 
-event hudHealthDyingPulse
+event HudHealthDyingPulse
 {
-	animate healthValue fGColor RedSolid linear 0.0 0.0
-	runEvent hudHealthDyingPulseLoop 0.1
+	animate HealthValue fGColor RedSolid linear 0.0 0.0
+	runEvent HudHealthDyingPulseLoop 0.1
 }
 
-event hudHealthDyingPulseLoop
+event HudHealthDyingPulseLoop
 {
-	runEvent hudHealthDyingPulse 0.0
+	runEvent HudHealthDyingPulse 0.0
 }
 
-event hudHealthDyingPulseStop
+event HudHealthDyingPulseStop
 {
-	stopEvent hudHealthDyingPulse 0.0
-	stopEvent hudHealthDyingPulseLoop 0.0
-	animate healthValue fGColor EllWhite linear 0.0 0.0
+	stopEvent HudHealthDyingPulse 0.0
+	stopEvent HudHealthDyingPulseLoop 0.0
+	animate HealthValue fGColor EllWhite linear 0.0 0.0
 }
 
-event hudLowAmmoPulse
+event HudLowAmmoPulse
 {
 	animate AmmoInReserve fGColor RedSolid linear 0.0 0.0
 	animate AmmoNoClip fGColor RedSolid linear 0.0 0.0
-	runEvent hudLowAmmoPulseLoop  0.1
+	runEvent HudLowAmmoPulseLoop  0.1
 }
 
-event hudLowAmmoPulseLoop
+event HudLowAmmoPulseLoop
 {
-	runEvent hudLowAmmoPulse 0.0
+	runEvent HudLowAmmoPulse 0.0
 }
 
-event hudLowAmmoPulseStop
+event HudLowAmmoPulseStop
 {
-	stopEvent hudLowAmmoPulse 0.0
-	stopEvent hudLowAmmoPulseLoop 0.0
+	stopEvent HudLowAmmoPulse 0.0
+	stopEvent HudLowAmmoPulseLoop 0.0
 	animate AmmoInReserve fGColor EllGreen linear 0.0 0.0
 	animate AmmoNoClip fGColor EllWhite linear 0.0 0.0
 }
@@ -69,6 +69,30 @@ event HudMedicCharged
 	Animate	ChargeMeter 		FgColor		"EllGreen"		Linear 0.6 0.3
 
 	RunEvent HudMedicChargedLoop	0.9
+}
+
+event HudMedicChargedLoop
+{
+	RunEvent HudMedicCharged 0.0
+}
+
+event HudMedicChargedStop
+{
+	StopEvent HudMedicCharged 0.0
+	StopEvent HudMedicChargedLoop 0.0
+	
+	Animate	ChargeLabel 	FgColor		"EllWhite"		Linear 0.0 0.0
+	Animate	ChargeMeter 	FgColor		"EllWhite"		Linear 0.0 0.0
+}
+
+event HudSnapShotReminderIn
+{
+	Animate ScreenshotPanel Position "c-83 -50" Linear 0.0 0.001
+	Animate ScreenshotPanel Position "c-83 13" Spline 0.001 0.2
+	RunEvent HudHealthDyingPulseStop 10.0
+	RunEvent HudHealthBonusPulseStop 10.0
+	RunEvent HudLowAmmoPulseStop 10.0
+	RunEvent HudMedicChargedStop 10.0
 }
 
 event CompetitiveGame_LowerChatWindow

@@ -1,3 +1,5 @@
+#base "spacer.res"
+
 "Resource/UI/HudPlayerHealth.res"
 {
 //	___________
@@ -7,11 +9,11 @@
 	{
 		"ControlName"			  "EditablePanel"
 		"fieldName"				  "HudPlayerHealth"
-		"xpos"					  "c-192" 
-		"ypos"					  "330" 
+		"xpos"					  "0"	//"c-192" 
+		"ypos"					  "0"	//"330" 
 		"zpos"					  "10"
-		"wide"					  "192"
-		"tall"					  "60"
+		"wide"					  "f0"	//"192"
+		"tall"					  "f0"	//"60"
 		"visible"				  "1"
 		"enabled"				  "1" 
 		"HealthBonusPosAdj"		  "0"
@@ -19,38 +21,48 @@
 		"HealthDeathWarningColor" "RedSolid"
 	}
 	
-	"healthValue"
+	"HealthValue"
 	{
 		"controlName"	"CExLabel"
 		"fieldName"		"healthValue"
 		"xpos"			"0"
 		"ypos"			"0" 
 		"wide"			"192" 
-		"tall"			"60" 
+		"tall"			"30" 
 		"zpos"			"1"
 		"visible"		"1"
 		"enabled"		"1"
 		"fgColor"		"EllWhite"
-		"font"			"AFont38"
+		"font"			"AFont40"
 		"labelText"		"%health%" 
-		"textAlignment" "center" 
+		"textAlignment" "west" 
+		"auto_wide_tocontents"	"1"
+		
+		"pin_to_sibling"		"spacer"
+		"pin_corner_to_sibling"	"1"
+		"pin_to_sibling_corner"	"2"
 	} 
 	
-	"healthValueShadow"
+	"HealthValueShadow"
 	{
 		"controlName"	"CExLabel"
 		"fieldName"		"healthValueShadow"
-		"xpos"			"2"
-		"ypos"			"2" 
+		"xpos"			"-2"
+		"ypos"			"-2" 
 		"wide"			"192" 
-		"tall"			"60" 
+		"tall"			"30" 
 		"zpos"			"-1"
 		"visible"		"1"
 		"enabled"		"1"
 		"fgColor"		"EllBlack"
-		"font"			"AFont38"
+		"font"			"AFont40"
 		"labelText"		"%health%" 
-		"textAlignment" "center" 
+		"textAlignment" "west" 
+		"auto_wide_tocontents"	"1"
+		
+		"pin_to_sibling"		"HealthValue"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"0"
 	}
 //	_______________
 // | END ELL'S HUD |

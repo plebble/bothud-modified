@@ -174,12 +174,12 @@ Scheme
 			}
 		}
 		
-		"AFont38"
+		"AFont40"
 		{	
 			"1"
 			{
 				"name"		"Roboto Bold"
-				"tall"		"38"
+				"tall"		"40"
 				"antialias" "1"
 			}
 		}

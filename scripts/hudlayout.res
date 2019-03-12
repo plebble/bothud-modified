@@ -3,10 +3,10 @@
 	CDamageAccountPanel
 	{
 		"fieldName"           "CDamageAccountPanel"
-		"xpos"                "-15"
-		"ypos"                "-5"
+		"xpos"                "0"
+		"ypos"                "0"
 		"wide"                "f0"
-		"tall"                "480"
+		"tall"                "f0"
 		"visible"             "1"
 		"enabled"             "1"
 		"PaintBackgroundType" "2"
@@ -18,7 +18,7 @@
 		"xpos"                "0"
 		"ypos"                "0" 
 		"wide"                "f0"
-		"tall"                "480"
+		"tall"                "f0"
 		"visible"             "1"
 		"enabled"             "1"
 		"PaintBackgroundType" "2"
@@ -107,7 +107,7 @@
 		"visible"              "1"
 		"enabled"              "1"
 		"xpos"                 "r764"
-		"ypos"                 "1"
+		"ypos"                 "0"
 		"wide"                 "762"
 		"tall"                 "172"
 		"MaxDeathNotices"      "8"
@@ -133,7 +133,7 @@
 		"xpos"      "0"
 		"ypos"      "0" 
 		"wide"      "f0"
-		"tall"      "480"
+		"tall"      "f0"
 	} 
 
 	HudDemomanCharge 
@@ -145,7 +145,7 @@
 		"ypos"      "0"
 		"zpos"      "1"   
 		"wide"      "f0"
-		"tall"      "480"
+		"tall"      "f0"
 		"MeterFG"   "EllWhite"
 		"MeterBG"   "EllBlack"
 	}  
@@ -155,10 +155,10 @@
 		"fieldName" "HudItemEffectMeter"
 		"visible"   "1"
 		"enabled"   "1"
-		"xpos"      "c-48"  
-		"ypos"      "386" 
-		"wide"      "96"
-		"tall"      "10"
+		"xpos"      "0"  
+		"ypos"      "0" 
+		"wide"      "f0"
+		"tall"      "f0"
 		"MeterFG"   "EllWhite"
 		"MeterBG"   "EllBlack"
 	}
@@ -168,10 +168,10 @@
 		"fieldName" "HudMedicCharge"
 		"visible"   "1"
 		"enabled"   "1"
-		"xpos"      "c48" 
-		"ypos"      "330"
-		"wide"      "120"
-		"tall"      "60"
+		"xpos"      "0" 
+		"ypos"      "0"
+		"wide"      "f0"
+		"tall"      "f0"
 	}
 
 	HudObjectiveStatus
@@ -214,10 +214,10 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible"   "1"
 		"enabled"   "1"
-		"xpos"      "c0"  
-		"ypos"      "330" 
-		"wide"      "192"
-		"tall"      "60"
+		"xpos"      "0"  
+		"ypos"      "0" 
+		"wide"      "f0"
+		"tall"      "f0"
 	}
 
 	HudTeamGoal

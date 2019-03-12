@@ -1,3 +1,5 @@
+#base "spacer.res"
+
 "Resource/UI/HudAccountPanel.res"
 {
 //  ___________
@@ -18,11 +20,11 @@
 	{
 		"ControlName"   "CExLabel"
 		"fieldName"     "AccountValue"
-		"xpos"          "c-48"
-		"ypos"          "360"
+		"xpos"          "0"
+		"ypos"          "0"
 		"zpos"          "1"
 		"wide"          "96"
-		"tall"          "60"
+		"tall"          "20"
 		"autoResize"    "1"
 		"pinCorner"     "2"
 		"visible"       "1"
@@ -34,6 +36,39 @@
 		"brighttext"    "0"
 		"font"          "AFont24"
 		"fgcolor"       "EllWhite"
+		
+		"auto_wide_tocontents"	"1"
+			
+		"pin_to_sibling"		"charge3"
+		"pin_corner_to_sibling"	"4"
+		"pin_to_sibling_corner"	"6"
+	}
+	
+	"AccountValueShadow"
+	{
+		"ControlName"   "CExLabel"
+		"fieldName"     "AccountValueShadow"
+		"xpos"          "-1"
+		"ypos"          "-1"
+		"zpos"          "-1"
+		"wide"          "96"
+		"tall"          "20"
+		"autoResize"    "1"
+		"pinCorner"     "2"
+		"visible"       "1"
+		"enabled"       "1"
+		"tabPosition"   "0"
+		"labelText"     "%metal%"
+		"textAlignment" "center"
+		"dulltext"      "0"
+		"brighttext"    "0"
+		"font"          "AFont24"
+		"fgcolor"       "EllBlack"
+		"auto_wide_tocontents"	"1"
+		
+		"pin_to_sibling"		"AccountValue"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"0"
 	}
 //  _______________
 // | END ELL'S HUD |

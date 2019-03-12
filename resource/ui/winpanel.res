@@ -104,7 +104,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScore"
-			"font"			"AFont38"
+			"font"			"AFont40"
 			"fgcolor"		"EllWhite"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"west"
@@ -176,7 +176,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScore"
-			"font"			"AFont38"
+			"font"			"AFont40"
 			"fgcolor"		"EllWhite"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"east"

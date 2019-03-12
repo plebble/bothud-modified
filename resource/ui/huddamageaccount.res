@@ -1,13 +1,12 @@
+#base "spacer.res"
+
 "Resource/UI/HudDamageAccount.res"
 {
-//  ___________
-// | ELL'S HUD |
-//  ¯¯¯¯¯¯¯¯¯¯¯
 	"CDamageAccountPanel"
 	{
 		"fieldName"           "CDamageAccountPanel"
-		"text_x"              "0"
-		"text_y"              "0"
+		"text_x"              "-15"
+		"text_y"              "-5"
 		"delta_item_end_y"    "0"
 		"PositiveColor"       "EllYellow"
 		"NegativeColor"       "EllWhite"
@@ -20,33 +19,43 @@
 	{
 		"ControlName" 		"CExLabel"
 		"fieldName" 		"DamageAccountValue"
-		"xpos" 				"c-133"
-		"ypos" 				"r149"
+		"xpos" 				"12"
+		"ypos" 				"0"
 		"zpos" 				"1"
-		"wide" 				"100"
-		"tall" 				"26"
+		"wide" 				"40"
+		"tall" 				"15"
 		"visible" 			"1"
 		"enabled" 			"1"
 		"labelText" 		"%metal%"
 		"textAlignment" 	"center"
 		"fgcolor" 			"EllWhite"
-		"font" 				"AFont20"
+		"font" 				"AFont22"
+		"auto_wide_tocontents"	"0"
+		
+		"pin_to_sibling"		"spacer"
+		"pin_corner_to_sibling"	"3"
+		"pin_to_sibling_corner"	"2"
 	}
 	
 	"DamageAccountValueShadow"
 	{
 		"ControlName" 		"CExLabel"
 		"fieldName" 		"DamageAccountValueShadow"
-		"xpos" 				"c-132"
-		"ypos" 				"r148"
+		"xpos" 				"-1"
+		"ypos" 				"-1"
 		"zpos" 				"-1"
-		"wide" 				"100"
-		"tall" 				"26"
+		"wide" 				"40"
+		"tall" 				"15"
 		"visible" 			"1"
 		"enabled" 			"1"
 		"labelText" 		"%metal%"
 		"textAlignment" 	"center"
 		"fgcolor" 			"EllBlack"
-		"font" 				"AFont20"
+		"font" 				"AFont22"
+		"auto_wide_tocontents"	"0"
+		
+		"pin_to_sibling"		"DamageAccountValue"
+		"pin_corner_to_sibling"	"0"
+		"pin_to_sibling_corner"	"0"
 	}
 }

@@ -1,3 +1,5 @@
+#base "spacer.res"
+
 "Resource/UI/HudItemEffectMeter.res"
 {
 //  ___________
@@ -8,10 +10,10 @@
 		"fieldName" "HudItemEffectMeter"
 		"visible"   "1"
 		"enabled"   "1"
-		"xpos"      "c-48"
-		"ypos"      "367"
-		"wide"      "96"
-		"tall"      "6"
+		"xpos"      "0"
+		"ypos"      "0"
+		"wide"      "f0"
+		"tall"      "f0"
 		"MeterFG"   "EllWhite"
 		"MeterBG"   "EllBlack"
 	}
@@ -21,11 +23,11 @@
 		"ControlName"   "ContinuousProgressBar"
 		"fieldName"     "ItemEffectMeter"
 		"font"          "AFont22"
-		"xpos"          "16"
+		"xpos"          "0"
 		"ypos"          "0"
 		"zpos"          "1"
 		"wide"          "64"
-		"tall"          "8"        
+		"tall"          "6"        
 		"autoResize"    "0"
 		"pinCorner"     "0"
 		"visible"       "1"
@@ -33,6 +35,10 @@
 		"textAlignment" "center"
 		"dulltext"      "0"
 		"brighttext"    "0"
+		
+		"pin_to_sibling"		"charge3"
+		"pin_corner_to_sibling"	"6"
+		"pin_to_sibling_corner"	"6"
 	}    
 //  _______________
 // | END ELL'S HUD |
