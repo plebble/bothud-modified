@@ -10,7 +10,8 @@
 		"proportionaltoparent"	"1"
 		"border"		"ThinDarkGreyBorder"
 		"paintbackground"	"1"
-		"bgcolor_override"	"70 70 70 255"
+		"PaintBackgroundType"	"0"
+		"bgcolor_override"	"EllGrey"
 	}
 
 	"avatar"

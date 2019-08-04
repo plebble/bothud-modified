@@ -50,7 +50,7 @@
 		"enabled"                 "1" 
 		"HealthBonusPosAdj"       "0"
 		"HealthDeathWarning"      "0.5"
-		"TFFont"                  "AFont24"
+		"TFFont"                  "AFont26"
 		"HealthDeathWarningColor" "RedSolid"
 		"TextColor"               "EllWhite"
 	} 

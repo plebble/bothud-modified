@@ -67,7 +67,7 @@
 		"ypos"					"cs-0.1"
 		"wide"					"40"
 		"tall"					"40"
-		"zpos"					"5"
+		"zpos"					"7"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"0"
@@ -90,11 +90,11 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"CountdownLabelShadow"
 		"font"					"AFont22"
-		"xpos"					"cs-0.49"
-		"ypos"					"cs-0.09"
+		"xpos"					"cs-0.5+1"
+		"ypos"					"cs-0.1+1"
 		"wide"					"40"
 		"tall"					"40"
-		"zpos"					"0"
+		"zpos"					"5"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"0"
@@ -104,11 +104,11 @@
 		"textAlignment"			"center"
 		"fgcolor"				"EllBlack"
 		"proportionaltoparent"	"1"
-
+		
 		if_readymode
 		{
-			"xpos"			"300"
-			"ypos"			"130"
+			"xpos"			"301"
+			"ypos"			"131"
 		}
 	}	
 
@@ -118,7 +118,7 @@
 		"fieldName"				"FrontParticlePanel"
 		"xpos"					"0"
 		"ypos"					"0"
-		"zpos"					"3"
+		"zpos"					"7"
 		"wide"					"f0"
 		"tall"					"f0"
 		"visible"				"1"
@@ -146,7 +146,7 @@
 		"fieldName"				"MatchDoors"
 		"xpos"					"0"
 		"ypos"					"0"
-		"zpos"					"2"		
+		"zpos"					"6"		
 		"wide"					"f0"
 		"tall"					"f0"
 		"autoResize"			"0"

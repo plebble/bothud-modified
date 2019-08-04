@@ -8,7 +8,7 @@
 		"controlName"   "CExLabel"
 		"fieldName"     "healthValue"
 		"xpos"          "0"
-		"ypos"          "0" 
+		"ypos"          "2" 
 		"wide"          "44" 
 		"tall"          "24" 
 		"zpos"          "1"

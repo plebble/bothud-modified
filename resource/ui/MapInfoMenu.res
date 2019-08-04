@@ -79,7 +79,7 @@
 		"fieldName"		"MapInfoText"
 		"font"			"AFont14"
 		"xpos"			"c-125"
-		"ypos"			"140"
+		"ypos"			"160"
 		"zpos"			"3"
 		"wide"			"250"
 		"tall"			"200"
