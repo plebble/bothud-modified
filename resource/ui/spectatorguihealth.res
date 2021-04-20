@@ -15,9 +15,9 @@
 		"visible"       "1"
 		"enabled"       "1"
 		"fgColor"       "EllWhite"
-		"font"          "AFont26"
+		"font"          "AFont22"
 		"labelText"     "%health%" 
-		"textAlignment" "center" 
+		"textAlignment" "west" 
 	} 
 	
 	"healthValueShadow"
@@ -32,9 +32,9 @@
 		"visible"       "0"
 		"enabled"       "1"
 		"fgColor"       "EllBlack"
-		"font"          "AFont26"
+		"font"          "AFont22"
 		"labelText"     "%health%" 
-		"textAlignment" "center" 
+		"textAlignment" "west" 
 	}
 //  _______________
 // | END ELL'S HUD |
